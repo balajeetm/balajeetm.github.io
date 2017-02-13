@@ -4,7 +4,7 @@ title: Welcome Aboard
 date: 2017-02-13 18:15
 comments: true
 external-url:
-categories: What's the fun
+categories: What's-The-Fun
 ---
 
 > Hi All,
