@@ -11,7 +11,7 @@ categories: What's-The-Fun
 
 ![WhenInDoubt](/assets/WhenInDoubt.jpg)
 
-Well, WTF - disappointingly for some, is an acronym of "What's The Fun?"<br>
+Well, WTF - disappointingly for some, is an acronym of <b>"What's The Fun?"</b><br>
 Yeah, you got it right, we don’t like cliché's, do we?<br>
 So if you share the same aversion to cliché's, then you came to the right place<br>
 
