@@ -1,11 +1,23 @@
 # Site settings
 title: "WTF - What's the F**!"
 author: "Balajee Mohan"
-description: "After Monday and Tuesday, even the calendar says 'WTF'.<br><br>WTF - disappointingly for some, is an acronym of 'What's The Fun?'<br><br>Stand out of the crowd.<br>Remove the jargon, take out the abstraction, discard the sugarcoats!<br><b>Come Let's have fun!<br>Let's unjargon!</b>"
+description: "After Monday and Tuesday, even the calendar says 'WTF'.<br><br>
+WTF - disappointingly for some, is an acronym of 'What's The Fun?'<br><br>
+Buckle up, let's see the funside of everything<br>
+Science, Prose, Poetry, Tech, Puzzles, whatever under the sky and beyond!<br>
+Stand out of the crowd.<br>
+Remove the jargon, take out the abstraction, discard the sugarcoats!<br>
+<b>
+Come Let's have fun!<br>
+Let's unjargon!
+</b>"
 keywords: "Spring, Spring Boot, SpringBoot, Spring Cloud, SpringCloud, Maven, Philosophy, Java, RxJava, Puzzles"
 biography: "I'm a self proclaimed geek, creative genius, visionary, brave risk-taker, healthy sport, avocational writer and an astute liar. ;)<br>
 A humorous entertainer nonetheless.<br><br>
-A passionate Software Techy, hailing from Bangalore, India, who is inclined towards problem solving.<br>I strongly believe addressing the root cause is more important than addressing the symptoms.<br><br>Here you can find my <a href='/assets/Resume_Balajee_T_M_Sr_Technical_Lead_Cisco_2017.pdf'>Résumé</a>.<br>Hop in as we explore the fun around us."
+A passionate Software Techy, hailing from Bangalore, India, who is inclined towards problem solving.<br>
+I strongly believe addressing the root cause is more important than addressing the symptoms.<br><br>
+Here you can find my <a href='/assets/Resume_Balajee_T_M_Sr_Technical_Lead_Cisco_2017.pdf'>Résumé</a>.<br>
+Hop in as we explore the fun around us."
 colophon: "by Balajee Mohan.<br>Content available under <a href='http://creativecommons.org/licenses/by-nc-sa/4.0/'>Creative Commons (BY-NC-SA)</a> unless otherwise noted."
 
 baseurl: ""
