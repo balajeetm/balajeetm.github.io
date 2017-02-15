@@ -1,9 +1,11 @@
 # Site settings
 title: "WTF - What's the F**!"
 author: "Balajee Mohan"
-description: "After Monday and Tuesday, even the calendar says 'WTF'.<br><br>Well, WTF - disappointingly for some, is an acronym of 'What's The Fun?'<br><br>Stand out of the crowd.<br>Remove the jargon, take out the abstraction, discard the sugarcoats!<br><b>Come Let's have fun!<br>Let's unjargon!</b>"
+description: "After Monday and Tuesday, even the calendar says 'WTF'.<br><br>WTF - disappointingly for some, is an acronym of 'What's The Fun?'<br><br>Stand out of the crowd.<br>Remove the jargon, take out the abstraction, discard the sugarcoats!<br><b>Come Let's have fun!<br>Let's unjargon!</b>"
 keywords: "Spring, Spring Boot, SpringBoot, Spring Cloud, SpringCloud, Maven, Philosophy, Java, RxJava, Puzzles"
-biography: "I am a Software Engineer, based out of Bangalore, India, who is passionate about puzzles and programming.<br><br>The world around us is so vast, there is so much to explore. But perspective adds so much flavor to reality.<br>I always believe addressing the root case is more important than addressing the symptoms. So it's always good to get down to the roots.<br><br>Here you can find my <a href='/assets/Resume_Balajee_T_M_Sr_Technical_Lead_Cisco_2017.pdf'>Résumé</a>.<br>Hop in as we explore the fun around us."
+biography: "I'm a self proclaimed geek, creative genius, visionary, brave risk-taker, healthy sport, avocational writer and an astute liar.<br>
+A humorous entertainer nonetheless.<br>
+A passionate Software Techy, hailed from Bangalore, India, who is inclined towards problem solving.<br>I strongly believe addressing the root cause is more important than addressing the symptoms. So it's best to get down to the roots.<br><br>Here you can find my <a href='/assets/Resume_Balajee_T_M_Sr_Technical_Lead_Cisco_2017.pdf'>Résumé</a>.<br>Hop in as we explore the fun around us."
 colophon: "by Balajee Mohan.<br>Content available under <a href='http://creativecommons.org/licenses/by-nc-sa/4.0/'>Creative Commons (BY-NC-SA)</a> unless otherwise noted."
 
 baseurl: ""
