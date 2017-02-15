@@ -9,7 +9,7 @@ categories: What's-The-Fun
 
 > Welcome Aboard,
 
-![WhenInDoubt](/assets/WhenInDoubt.jpg)
+<img class="img-responsive" src="/assets/WhenInDoubt.jpg">
 
 Well, WTF - disappointingly for some, is an acronym of <b>"What's The Fun?"</b><br>
 Yeah, you got it right, we don’t like cliché's, do we?<br>
