@@ -48,7 +48,7 @@ Configure the below to fetch my maven libraries (including snapshots) from a non
 </repositories>
 ```
 			
-Multiple repositories can be defined. Refers [maven docs](https://maven.apache.org/pom.html#Repositories) for more info<br>
+Multiple repositories can be defined. Refer [maven docs](https://maven.apache.org/pom.html#Repositories) for more info<br>
 			
 <u>Settings.xml</u><br>
 First configure a repository in the active profile, and set the url to the custom repo.<br>
@@ -89,7 +89,13 @@ An artifact is uniquely identified with a combination of the below triple<br>
 * Groupid
 * Artifactid
 * Version
-	
+
+The current implementation of DefaultArtifactVersion in the core of Maven, expects that version numbers will have a very specific format:<br>
+```
+<MajorVersion [> . <MinorVersion [> . <IncrementalVersion ] ] [> - <BuildNumber | Qualifier ]>
+```
+
+Where MajorVersion, MinorVersion, IncrementalVersion and BuildNumber are all numeric and Qualifier is a string. If your version number does not match this format, then the entire version number is treated as being the Qualifier.<br>
 Eg. Json Mystique will be uniquely identified as<br>
 ```xml
 <groupId>com.balajeetm.mystique</groupId>
@@ -103,7 +109,7 @@ Eg. In the above "2" is the major version
 * MinorVersion<br>
 Eg.In the above "0" is the minor version
 * IncrementalVersion<br>
-Eg.In the above "SNAPSHOT" is the incremenal version
+Eg.In the above "4" is the incremental version
 * BuildNumber<br>
 Eg. In an artifact version represented as "x.x.x-y-z", y and z are build number
 "Y" is the patch set number and "Z" is the bundle patch
@@ -130,8 +136,24 @@ For details hop [here](https://maven.apache.org/guides/introduction/introduction
 
 ## <u><b>Resolving Conflicts</b></u><br>
 Maven resolves conflicts by constructing a dependency tree.<br>
+It basically figures out what libraries are coming from what sources (transitive dependency my friend) and decides which version should be carried to the classpath. This process of choosing one version from many available is called conflict resolution.<br>
 By default Maven resolves version conflicts with a nearest-wins strategy. If two versions of the same library are at equal distance, then maven picks the one with the higher version<br>
-For details peek [here](https://maven.apache.org/plugins/maven-dependency-plugin/examples/resolving-conflicts-using-the-dependency-tree.html)<br>
+
+Let's take an example as below.<br>
+<img style="text-align: center" src="/assets/2017-02-17/ConflictResolution.png">
+
+Lib A is dependent on Lib B and Lib C. Lib C however is dependent on Lib B and Lib D. Lib B is dependent on Lib D. The versions are showb in the diagram.<br>
+The libraries in the final classpath will contain Lib A (obviously), Lib B and Lib C (since Lib A transitively gets them) and Lib D since the transitive dependencies in turn get it along transitively. The final classpath shows the versions of the libraries however.<br>
+But 'WTF' in that? How's maven deciding that?<br>
+Firstly, Maven constructs a dependency tree as shown in the diagram including versions at different levels.<br>
+Lib A and its classes are through because its at the top of the hierarchy<br>
+There are 2 versions of Lib B now available. But ver 1 at level 1 is nearer than ver 2 at level 2. So ver 1 wins.<br>
+There is only one version of Lib C. So 'C' and its classes are also through transitively.<br>
+There are 3 versions of Lib D available. As per the 'nearest-wins' strategy, ver 3 is out of picture. However, both ver 1 and ver 2 are equidistant at level 3.<br>
+Maven now picks the highest version at the same distance and chooses ver 2.<br>
+
+Simple huh? Nothing really is complex see? 
+If you seek more details though, peek [here](https://maven.apache.org/plugins/maven-dependency-plugin/examples/resolving-conflicts-using-the-dependency-tree.html)<br>
 
 ## <u><b>Pre-Release Versioning</b></u><br>
 Maven has a special versioning scheme to deal with ongoing changes, namely the SNAPSHOT qualifier<br>
@@ -139,12 +161,13 @@ Maven treats the SNAPSHOT qualifier differently from all others. If a version nu
 
 In a continuous integration environment, the SNAPSHOT version plays a vital role in keeping the integration build up-to-date while minimizing the amount of rebuilding that is required for each integration step.<br>
 
-SNAPSHOT version references enable Maven to fetch the most recently deployed instance of the SNAPSHOT dependency at a dependent project build time. Note that the SNAPSHOT changes constantly. Whenever an agent deploys the artifact, it is updated in the shared repository. The SNAPSHOT dependency is refetched, on a developer's machine or it is updated in every build. This ensures that dependencies are updated and integrated with the latest changes without the need for changes to the project dependency reference configuration.<br>
+SNAPSHOT versions enable Maven to fetch the most recently deployed instance of the SNAPSHOT dependency at a dependent project build time. Note that the SNAPSHOT changes constantly. Whenever an agent deploys the artifact, it is updated in the shared repository. The SNAPSHOT dependency is refetched, on a developer's machine or it is updated in every build. This ensures that dependencies are updated and integrated with the latest changes without the need for changes to the project dependency reference configuration.<br>
 
-How it manages to achieve this , is by simply converting the SNAPSHOT qualifier into long timestamp denoting when the artifact was build. Thus, it really easy to compare snapshot versions and fetch the latest.<br>
+But 'WTF' in that? How does maven achieve that?<br>
+It does this, simply by converting the SNAPSHOT qualifier into long timestamp, denoting when the artifact was built/deployed. Thus, its really easy to compare snapshot versions and fetch the latest.<br>
+Simple again huh?
+For more details look [here](https://docs.oracle.com/middleware/1212/core/MAVEN/maven_version.htm#MAVEN401)<br>
 
-Smart huh? For details look [here](https://docs.oracle.com/middleware/1212/core/MAVEN/maven_version.htm#MAVEN401)<br>
-	
 	• Maven Configurations
 	Maven executions can be configured to suit your needs. This can be done in multiple ways.
 		○ POM
