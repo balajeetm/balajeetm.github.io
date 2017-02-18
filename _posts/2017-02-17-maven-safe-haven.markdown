@@ -145,14 +145,14 @@ Let's take an example as below.<br>
 Lib A is dependent on Lib B and Lib C. Lib C however is dependent on Lib B and Lib D. Lib B is dependent on Lib D. The versions are showb in the diagram.<br>
 The libraries in the final classpath will contain Lib A (obviously), Lib B and Lib C (since Lib A transitively gets them) and Lib D since the transitive dependencies in turn get it along transitively. The final classpath shows the versions of the libraries however.<br>
 But 'WTF' in that? How's maven deciding that?<br>
-Firstly, Maven constructs a dependency tree as shown in the diagram including versions at different levels.<br>
-Lib A and its classes are through because its at the top of the hierarchy<br>
-There are 2 versions of Lib B now available. But ver 1 at level 1 is nearer than ver 2 at level 2. So ver 1 wins.<br>
-There is only one version of Lib C. So 'C' and its classes are also through transitively.<br>
-There are 3 versions of Lib D available. As per the 'nearest-wins' strategy, ver 3 is out of picture. However, both ver 1 and ver 2 are equidistant at level 3.<br>
+* Firstly, Maven constructs a dependency tree as shown in the diagram including versions at different levels.
+* Lib A and its classes are through because its at the top of the hierarchy
+* There are 2 versions of Lib B now available. But ver 1 at level 1 is nearer than ver 2 at level 2. So ver 1 wins.<br>
+* There is only one version of Lib C. So 'C' and its classes are also through transitively.<br>
+* There are 3 versions of Lib D available. As per the 'nearest-wins' strategy, ver 3 is out of picture. However, both ver 1 and ver 2 are equidistant at level 3.<br>
 Maven now picks the highest version at the same distance and chooses ver 2.<br>
 
-Simple huh? Nothing really is complex see? 
+Simple huh? Nothing really is complex see?<br>
 If you seek more details though, peek [here](https://maven.apache.org/plugins/maven-dependency-plugin/examples/resolving-conflicts-using-the-dependency-tree.html)<br>
 
 ## <u><b>Pre-Release Versioning</b></u><br>
@@ -165,23 +165,26 @@ SNAPSHOT versions enable Maven to fetch the most recently deployed instance of t
 
 But 'WTF' in that? How does maven achieve that?<br>
 It does this, simply by converting the SNAPSHOT qualifier into long timestamp, denoting when the artifact was built/deployed. Thus, its really easy to compare snapshot versions and fetch the latest.<br>
-Simple again huh?
+
+Simple again huh?<br>
 For more details look [here](https://docs.oracle.com/middleware/1212/core/MAVEN/maven_version.htm#MAVEN401)<br>
 
-	• Maven Configurations
-	Maven executions can be configured to suit your needs. This can be done in multiple ways.
-		○ POM
-		https://maven.apache.org/pom.html
-		
-		○ Settings.xml
-		The settings.xml basically is a file that contains elements used to define values which configure Maven execution in various ways, just like the pom.xml. The difference however is that pom is project specific setting and settings in settings.xml are common for all projects.
-		For more details - jump [here](https://maven.apache.org/settings.html#Quick_Overview)
+## <u><b>Maven Configurations</b></u><br>
+Maven executions can be configured to suit your needs. This can be done in multiple ways.
+* **POM**<br>
+POM stands for "Project Object Model". It is an XML representation of a Maven project held in a file named pom.xml.
+Wrt Maven, a project is beyond a mere collection of files containing code. A project contains configuration files, as well as the developers involved and the roles they play, the defect tracking system, the organization and licenses, the URL of where the project lives, the project's dependencies, and all of the other little pieces that come into play to give code life.<br>
+It is a one-stop-shop for all things concerning the project. In fact, in the Maven world, a project need not contain any code at all, merely a pom.xml.<br>
+One of the biggest perks of using maven is that <b>'maven documents the build process'</b>.<br>
+There is so much to learn about the project and its build prcoess before even venturing into the code. Maven gets that crux quite right aye.<br>
+If you seek more details however - [here goes](https://maven.apache.org/pom.html)
 	
+* **Settings.xml**<br>
+The settings.xml basically is a file that contains elements used to define values which configure Maven execution in various ways, just like the pom.xml. The difference however is that pom is  a project specific setting and settings in settings.xml are common for all projects.<br>
+For more details - jump [here](https://maven.apache.org/settings.html#Quick_Overview)
 
+## <u><b>To Wrap Up</b></u><br>
 That's great
 You seem to know so much more about maven now.
-I've written a sample project explaining the dependency tree here. Do have a look.
-
-	• Simple jar project, build using archetype
-	• Include json mystique dependency
-	• Run dependency tree and show guava coming in
+I've written a sample project explaining the use of maven and the concepts that I've explained above [here](). Do have a look.<br>
+Have fun and keep smiling until we catch up next time.
