@@ -184,8 +184,8 @@ The settings.xml basically is a file that contains elements used to define value
 For more details - jump [here](https://maven.apache.org/settings.html#Quick_Overview)
 
 ## <u><b>To Wrap Up</b></u><br>
-That's great
-You seem to know so much more about maven now.
+That's great<br>
+You seem to know so much more about maven now.<br>
 
 <img style="text-align: center" src="/assets/2017-02-17/noMavenNoob.jpg">
 
