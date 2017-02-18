@@ -13,7 +13,7 @@ categories: Technology
 <img style="text-align: center" class="img-responsive" src="/assets/2017-02-17/IDontAlwaysMaven.jpg">
 
 How does maven address the above?
-## <u>**Getting the library/ Download jinx**</u>
+## <u><b>Getting the library/ Download jinx</b></u>
 Maven needs a repository that contains different libraries , all versions implied.<br>
 We can download all the dependencies we would need (once) and set up a repository.<br>
 We can configure maven to use appropriate maven repositories that we have set up. We can even configure it to use multiple repositories.<br>
