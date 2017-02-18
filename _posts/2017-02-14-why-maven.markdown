@@ -15,8 +15,8 @@ Let's understand the challenges with [status quo](https://www.vocabulary.com/dic
 	
 * **Getting the library**<br>
 This is a seemingly trivial task<br>
--We5 need to first get to the "right location" and download the library<br>
--Next, place the library in your classpath before using it in the application<br>
+- We6 need to first get to the "right location" and download the library<br>
+- Next, place the library in your classpath before using it in the application<br>
 * **Download jinx**
 All that glitters is not gold. Be careful of what you download
   * Authenticity - You need to make sure the library is from an authentic source
