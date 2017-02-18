@@ -39,6 +39,7 @@ So its best to include just one version to prevent ambiguity
 This is a classical problem. How does one version the library during an ongoing change?<br>
 We wouldn’t want to keep incrementing the version for every small change but we would still want to differentiate between ongoing changes
 
+## How do you get around this?
 We can address these in multiple ways. Let's go in a chronological order of thoughts
 * **Manual Exercise**<br>
 We can follow a manual process to address all of the above<br>
