@@ -186,6 +186,7 @@ For more details - jump [here](https://maven.apache.org/settings.html#Quick_Over
 ## <u><b>To Wrap Up</b></u><br>
 That's great
 You seem to know so much more about maven now.
+
 <img style="text-align: center" src="/assets/2017-02-17/noMavenNoob.jpg">
 
 I've written a sample project explaining the use of maven and the concepts that I've explained above [here](). Do have a look.<br>
