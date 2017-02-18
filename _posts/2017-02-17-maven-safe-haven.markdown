@@ -13,13 +13,13 @@ categories: Technology
 <img style="text-align: center" class="img-responsive" src="/assets/2017-02-17/IDontAlwaysMaven.jpg">
 
 How does maven address the above?
-### **Getting the library/ Download jinx**
+## <u>**Getting the library/ Download jinx**</u>
 Maven needs a repository that contains different libraries , all versions implied.<br>
 We can download all the dependencies we would need (once) and set up a repository.<br>
 We can configure maven to use appropriate maven repositories that we have set up. We can even configure it to use multiple repositories.<br>
 	
 There are three categories of repositories
-* **Remote**
+* **Remote**<br>
 This is the repository at a remote location containing all libraries and plugins (Oopsie, what's a [plugin](https://maven.apache.org/plugins/) now)<br>
 This is could either be a custom repo set up by you or a repo set up by someone else that you use<br>
 		
@@ -29,7 +29,7 @@ For eg, all my maven libraries can be found in the public repo here - [Bala's Re
 	
 If you have not configured maven to any custom repo, this is the default repo that maven will connect to get artifacts over internet<br>
 		
-* **Custom Repository**
+* **Custom Repository**<br>
 Custom repository is a remote repository set by you or your organization. This will typically contain your company specific artifacts which is not shared to the general public. It can optionally sync with the central maven repo to get the public artifacts and be an one stop shop for all libraries but that is an organizational choice<br>
 
 Configuring Maven to use custom repo
