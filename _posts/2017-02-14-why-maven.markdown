@@ -39,13 +39,13 @@ So its best to include just one version to prevent ambiguity
 This is a classical problem. How does one version the library during an ongoing change?<br>
 We wouldn’t want to keep incrementing the version for every small change but we would still want to differentiate between ongoing changes
 
-## How do you get around this?
+## <b>How does one get around this?</b>
 We can address these in multiple ways. Let's go in a chronological order of thoughts
 * **Manual Exercise**<br>
 We can follow a manual process to address all of the above<br>
 * **Be an engineer**<br>
 Develop a comprehensive solution for the problem and pave way for others to follow and reuse or<br>
-Reuse whatever is available out of the box from an existing solution<br><br>
+Reuse whatever is available out of the box from an existing solution<br>
 	
 The problems described above was faced by many organizations across the globe.<br>
 So maven in short is the one stop solution to address all these dependency and build management issues.<br>
