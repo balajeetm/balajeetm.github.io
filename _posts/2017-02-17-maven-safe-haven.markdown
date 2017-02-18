@@ -96,7 +96,7 @@ Eg. Json Mystique will be uniquely identified as<br>
 <artifactId>json-mystique</artifactId>
 <version>2.0.4-SNAPSHOT</version>
 ```
-	
+
 Maven's versioning scheme uses the following standards:
 * MajorVersion
 Eg. In the above "2" is the major version
