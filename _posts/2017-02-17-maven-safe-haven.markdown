@@ -7,7 +7,7 @@ external-url:
 categories: Technology
 ---
 
->In my earlier [post](), we saw the typical dependency issues faced while building an enterprise application.<br>
+>In my earlier [post](/blog/2017/02/14/why-maven/), we saw the typical dependency issues faced while building an enterprise application.<br>
 >Enter Maven, and all these issues are history<br>
 
 <img style="text-align: center" class="img-responsive" src="/assets/2017-02-17/IDontAlwaysMaven.jpg">
@@ -33,7 +33,7 @@ If you have not configured maven to any custom repo, this is the default repo th
 Custom repository is a remote repository set by you or your organization. This will typically contain your company specific artifacts which is not shared to the general public. It can optionally sync with the central maven repo to get the public artifacts and be an one stop shop for all libraries but that is an organizational choice<br>
 
 <u><b>Configuring Maven to use custom repo</b></u><br>
-There are many ways to configure custom repo. You can do it via the [pom](local reference to POM) or settings.xml<br>
+There are many ways to configure custom repo. You can do it via the [pom](#maven-configurations) or [settings.xml](#maven-configurations)<br>
 			
 <u>Pom changes</u><br>
 Within the pom file, define a repository referring to the location where artifacts can be found.<br>
@@ -169,7 +169,7 @@ It does this, simply by converting the SNAPSHOT qualifier into long timestamp, d
 Simple again huh?<br>
 For more details look [here](https://docs.oracle.com/middleware/1212/core/MAVEN/maven_version.htm#MAVEN401)<br>
 
-## <u><b>Maven Configurations</b></u><br>
+## <u><b id='maven-configurations'>Maven Configurations</b></u><br>
 Maven executions can be configured to suit your needs. This can be done in multiple ways.
 * **POM**<br>
 POM stands for "Project Object Model". It is an XML representation of a Maven project held in a file named pom.xml.
@@ -186,5 +186,7 @@ For more details - jump [here](https://maven.apache.org/settings.html#Quick_Over
 ## <u><b>To Wrap Up</b></u><br>
 That's great
 You seem to know so much more about maven now.
+<img style="text-align: center" src="/assets/2017-02-17/noMavenNoob.jpg">
+
 I've written a sample project explaining the use of maven and the concepts that I've explained above [here](). Do have a look.<br>
 Have fun and keep smiling until we catch up next time.

@@ -55,3 +55,5 @@ So if you resonate with the above. Hop on!<br>
 Stand out of the crowd.<br>
 Remove the jargon, take out the abstraction, discard the sugarcoats!<br>
 <b>Come Let's have fun! Let's unjargon!</b>
+
+<img src="/assets/2017-02-13/NobodyGotTime.jpg">
