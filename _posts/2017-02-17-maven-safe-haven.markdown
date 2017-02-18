@@ -50,7 +50,7 @@ Configure the below to fetch my maven libraries (including snapshots) from a non
 			
 Multiple repositories can be defined. Refers [maven docs](https://maven.apache.org/pom.html#Repositories) for more info<br>
 			
-<u>Settings.xml</u>
+<u>Settings.xml</u><br>
 First configure a repository in the active profile, and set the url to the custom repo.<br>
 Alternatively, you can specify the url in the mirror of the repo as shown below. The url specified in the mirror has precedence over the one specified in the repo url<br>
 To configure settings.xml to refer your custom repo, first add the repository as below in your active profile<br>
@@ -80,21 +80,22 @@ Then add the mirror
 	</mirror>
 </mirrors>
 ```
-		○ [Local Repository](https://maven.apache.org/guides/introduction/introduction-to-repositories.html)
-		The local repository refers to a copy on your own installation that is a cache of the remote downloads, and also contains the temporary build artifacts that you have not yet released.
-		
-	• Versioning
-	To prevent any ambiguity in defining a version and to easily compare two versions, maven defines a standard versioning scheme.
-	An artifact is uniquely identified with a combination of the below triple
-		○ Groupid
-		○ Artifactid
-		○ Version
-	Eg. Json Mystique will be uniquely identified as
-	```xml
-	<groupId>com.balajeetm.mystique</groupId>
-	<artifactId>json-mystique</artifactId>
-	<version>2.0.4-SNAPSHOT</version>
-	```
+* **[Local Repository](https://maven.apache.org/guides/introduction/introduction-to-repositories.html)**<br>
+The local repository refers to a copy on your own installation that is a cache of the remote downloads, and also contains the temporary build artifacts that you have not yet released.
+
+## <u><b>Versioning</b></u>
+To prevent any ambiguity in defining a version and to easily compare two versions, maven defines a standard versioning scheme.<br>
+An artifact is uniquely identified with a combination of the below triple<br>
+* Groupid
+* Artifactid
+* Version
+	
+Eg. Json Mystique will be uniquely identified as<br>
+```xml
+<groupId>com.balajeetm.mystique</groupId>
+<artifactId>json-mystique</artifactId>
+<version>2.0.4-SNAPSHOT</version>
+```
 	Maven's versioning scheme uses the following standards:
 		○ MajorVersion
 		Eg. In the above "2" is the major version
