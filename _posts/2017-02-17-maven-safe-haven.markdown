@@ -98,53 +98,52 @@ Eg. Json Mystique will be uniquely identified as<br>
 ```
 
 Maven's versioning scheme uses the following standards:
-* MajorVersion
+* MajorVersion<br>
 Eg. In the above "2" is the major version
-* MinorVersion
+* MinorVersion<br>
 Eg.In the above "0" is the minor version
-* IncrementalVersion
+* IncrementalVersion<br>
 Eg.In the above "SNAPSHOT" is the incremenal version
-* BuildNumber
+* BuildNumber<br>
 Eg. In an artifact version represented as "x.x.x-y-z", y and z are build number
 "Y" is the patch set number and "Z" is the bundle patch
-* Qualifier
+* Qualifier<br>
 Eg. 2.0-beta-3
 		
-	Version Comparison Rules
-	All versions with a qualifier are older than the same version without a qualifier (release version).
-	For example:
-	2.0-beta-2 is older than 2.0.
-	Identical versions with different qualifier fields are compared by using basic string comparison.
-	For example:
-	2.0-beta-3 is newer than 2.0-alpha-7
-	
-	For more details grind [here](https://docs.oracle.com/middleware/1212/core/MAVEN/maven_version.htm#MAVEN8855)
-	
-	• Dependency
-	Dependency management is one of the features of Maven that is best known to users and is one of the areas where Maven excels. There is not much difficulty in managing dependencies for a single a project, but when you start getting into dealing with multi-module projects and applications that consist of tens or hundreds of modules this is where Maven can help you a great deal in maintaining a high degree of control and stability.
-	
-	Transitive dependencies are a new feature since Maven 2.0. This allows you to avoid needing to discover and specify the libraries that your own dependencies require explicitly. Once you specify a library, maven will automatically include all the dependencies of your dependency.
-	This feature is facilitated by reading the project files of your dependencies from the remote repositories specified. In general, all dependencies of those projects are used in your project, as are any that the project inherits from its parents, or from its dependencies, and so on.
-	
-	For details hop [here](https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html)
-	
-	• Resolving Conflicts
-	Maven resolves conflicts by constructing a dependency tree.
-	By default Maven resolves version conflicts with a nearest-wins strategy. If two versions of the same library are at equal distance, then maven picks the one with the higher version
-	
-	For details peek [here](https://maven.apache.org/plugins/maven-dependency-plugin/examples/resolving-conflicts-using-the-dependency-tree.html)
-	
-	• Pre-Release Versioning
-	Maven has a special versioning scheme to deal with ongoing changes, namely the SNAPSHOT qualifier
-	Maven treats the SNAPSHOT qualifier differently from all others. If a version number is followed by -SNAPSHOT, then Maven considers it the "as-yet-unreleased" version of the associated MajorVersion, MinorVersion, or IncrementalVersion.
-	
-	In a continuous integration environment, the SNAPSHOT version plays a vital role in keeping the integration build up-to-date while minimizing the amount of rebuilding that is required for each integration step.
-	
-	SNAPSHOT version references enable Maven to fetch the most recently deployed instance of the SNAPSHOT dependency at a dependent project build time. Note that the SNAPSHOT changes constantly. Whenever an agent deploys the artifact, it is updated in the shared repository. The SNAPSHOT dependency is refetched, on a developer's machine or it is updated in every build. This ensures that dependencies are updated and integrated with the latest changes without the need for changes to the project dependency reference configuration.
-	
-	How it manages to achieve this , is by simply converting the SNAPSHOT qualifier into long timestamp denoting when the artifact was build. Thus, it really easy to compare snapshot versions and fetch the latest.
-	
-	Smart huh? For details look [here](https://docs.oracle.com/middleware/1212/core/MAVEN/maven_version.htm#MAVEN401)
+<u><b>Version Comparison Rules</b></u><br>
+All versions with a qualifier are older than the same version without a qualifier (release version).<br>
+For example:<br>
+2.0-beta-2 is older than 2.0.<br>
+Identical versions with different qualifier fields are compared by using basic string comparison.<br>
+For example:<br>
+2.0-beta-3 is newer than 2.0-alpha-7<br>
+
+For more details grind [here](https://docs.oracle.com/middleware/1212/core/MAVEN/maven_version.htm#MAVEN8855)<br>
+
+## <u><b>Dependency</b></u><br>
+Dependency management is one of the features of Maven that is best known to users and is one of the areas where Maven excels. There is not much difficulty in managing dependencies for a single a project, but when you start getting into dealing with multi-module projects and applications that consist of tens or hundreds of modules this is where Maven can help you a great deal in maintaining a high degree of control and stability.<br>
+
+Transitive dependencies are a new feature since Maven 2.0. This allows you to avoid needing to discover and specify the libraries that your own dependencies require explicitly. Once you specify a library, maven will automatically include all the dependencies of your dependency.<br>
+This feature is facilitated by reading the project files of your dependencies from the remote repositories specified. In general, all dependencies of those projects are used in your project, as are any that the project inherits from its parents, or from its dependencies, and so on.<br>
+
+For details hop [here](https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html)<br>
+
+## <u><b>Resolving Conflicts</b></u><br>
+Maven resolves conflicts by constructing a dependency tree.<br>
+By default Maven resolves version conflicts with a nearest-wins strategy. If two versions of the same library are at equal distance, then maven picks the one with the higher version<br>
+For details peek [here](https://maven.apache.org/plugins/maven-dependency-plugin/examples/resolving-conflicts-using-the-dependency-tree.html)<br>
+
+## <u><b>Pre-Release Versioning</b></u><br>
+Maven has a special versioning scheme to deal with ongoing changes, namely the SNAPSHOT qualifier<br>
+Maven treats the SNAPSHOT qualifier differently from all others. If a version number is followed by -SNAPSHOT, then Maven considers it the "as-yet-unreleased" version of the associated MajorVersion, MinorVersion, or IncrementalVersion.<br>
+
+In a continuous integration environment, the SNAPSHOT version plays a vital role in keeping the integration build up-to-date while minimizing the amount of rebuilding that is required for each integration step.<br>
+
+SNAPSHOT version references enable Maven to fetch the most recently deployed instance of the SNAPSHOT dependency at a dependent project build time. Note that the SNAPSHOT changes constantly. Whenever an agent deploys the artifact, it is updated in the shared repository. The SNAPSHOT dependency is refetched, on a developer's machine or it is updated in every build. This ensures that dependencies are updated and integrated with the latest changes without the need for changes to the project dependency reference configuration.<br>
+
+How it manages to achieve this , is by simply converting the SNAPSHOT qualifier into long timestamp denoting when the artifact was build. Thus, it really easy to compare snapshot versions and fetch the latest.<br>
+
+Smart huh? For details look [here](https://docs.oracle.com/middleware/1212/core/MAVEN/maven_version.htm#MAVEN401)<br>
 	
 	• Maven Configurations
 	Maven executions can be configured to suit your needs. This can be done in multiple ways.
