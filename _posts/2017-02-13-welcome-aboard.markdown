@@ -9,7 +9,7 @@ categories: -What's-The-Fun-
 
 > Welcome Aboard,
 
-<img class="img-responsive" src="/assets/WhenInDoubt.jpg">
+<img class="img-responsive" src="/assets/2017-02-13/WhenInDoubt.jpg">
 
 Well, WTF - disappointingly for some, is an acronym of <b>"What's The Fun?"</b><br>
 Yeah, you got it right, we don’t like cliché's, do we?<br>
@@ -21,7 +21,7 @@ The same idea feels and looks so different from different angles.<br>
 
 For eg. like the one displayed below
 
-![Perspective](/assets/6-9-perspective.jpg)
+<img class="img-responsive" src="/assets/2017-02-13/6-9-perspective.jpg">
 
 Perspective my friend! Perspective!
 
