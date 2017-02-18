@@ -7,10 +7,10 @@ external-url:
 categories: Technology
 ---
 
-<img class="img-responsive" src="/assets/2017-02-14/WhyYouNeedMaven.jpg">
-
 >Any software project is bound to have dependencies. By dependencies, I mean libraries that expose certain features that you want to reuse in your application.<br>
 >We of course don't want to reinvent the wheel, do we? (psss… Are you sure you don't want to? We'll discuss that later)
+
+<img style="text-align: center" class="img-responsive" src="/assets/2017-02-14/WhyYouNeedMaven.jpg">
 
 Now that we know our projects have dependencies, how does one manage these dependencies.
 Let's understand the challenges with [status quo](https://www.vocabulary.com/dictionary/status%20quo)
