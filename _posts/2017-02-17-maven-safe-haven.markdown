@@ -96,18 +96,19 @@ Eg. Json Mystique will be uniquely identified as<br>
 <artifactId>json-mystique</artifactId>
 <version>2.0.4-SNAPSHOT</version>
 ```
-	Maven's versioning scheme uses the following standards:
-		○ MajorVersion
-		Eg. In the above "2" is the major version
-		○ MinorVersion
-		Eg.In the above "0" is the minor version
-		○ IncrementalVersion
-		Eg.In the above "SNAPSHOT" is the incremenal version
-		○ BuildNumber
-		Eg. In an artifact version represented as "x.x.x-y-z", y and z are build number
-		Y is the patch set number and Z is the bundle patch
-		○ Qualifier
-		Eg. 2.0-beta-3
+	
+Maven's versioning scheme uses the following standards:
+* MajorVersion
+Eg. In the above "2" is the major version
+* MinorVersion
+Eg.In the above "0" is the minor version
+* IncrementalVersion
+Eg.In the above "SNAPSHOT" is the incremenal version
+* BuildNumber
+Eg. In an artifact version represented as "x.x.x-y-z", y and z are build number
+"Y" is the patch set number and "Z" is the bundle patch
+* Qualifier
+Eg. 2.0-beta-3
 		
 	Version Comparison Rules
 	All versions with a qualifier are older than the same version without a qualifier (release version).
