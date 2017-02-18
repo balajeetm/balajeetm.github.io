@@ -32,54 +32,54 @@ If you have not configured maven to any custom repo, this is the default repo th
 * **Custom Repository**<br>
 Custom repository is a remote repository set by you or your organization. This will typically contain your company specific artifacts which is not shared to the general public. It can optionally sync with the central maven repo to get the public artifacts and be an one stop shop for all libraries but that is an organizational choice<br>
 
-Configuring Maven to use custom repo
-			There are many ways to configure custom repo. You can do it via the [pom](local reference to POM) or settings.xml
+<u><b>Configuring Maven to use custom repo</b></u><br>
+There are many ways to configure custom repo. You can do it via the [pom](local reference to POM) or settings.xml<br>
 			
-			Pom changes
-			Within the pom file, define a repository referring to the location where artifacts can be found.
-			For eg.
-			Configure the below to fetch my maven libraries (including snapshots) from a non maven central repo
-			```xml
-			<repositories>
-				<repository>
-					<id>bala_repo</id>
-					<url>https://oss.sonatype.org/content/groups/public/com/balajeetm/</url>
-				</repository>
-			</repositories>
-			```
+<u>Pom changes</u><br>
+Within the pom file, define a repository referring to the location where artifacts can be found.<br>
+For eg.<br>
+Configure the below to fetch my maven libraries (including snapshots) from a non maven central repo<br>
+```xml
+<repositories>
+	<repository>
+		<id>bala_repo</id>
+		<url>https://oss.sonatype.org/content/groups/public/com/balajeetm/</url>
+	</repository>
+</repositories>
+```
 			
-			Multiple repositories can be defined. Refers [maven docs](https://maven.apache.org/pom.html#Repositories) for more info
+Multiple repositories can be defined. Refers [maven docs](https://maven.apache.org/pom.html#Repositories) for more info<br>
 			
-			Settings.xml
-			First configure a repository in the active profile, and set the url to the custom repo.
-			Alternatively, you can specify the url in the mirror of the repo as shown below. The url specified in the mirror has precedence over the one specified in the repo url
-			To configure settings.xml to refer your custom repo, first add the repository as below in your active profile
-			```xml
-			<repositories>
-				<repository>
-					<id>bala_repo</id>
-					<url>http://bogus</url>
-					<releases>
-						<enabled>true</enabled>
-					</releases>
-					<snapshots>
-						<enabled>true</enabled>
-						<updatePolicy>always</updatePolicy>
-					</snapshots>
-				</repository>
-			</repositories>
-			```
+<u>Settings.xml</u>
+First configure a repository in the active profile, and set the url to the custom repo.<br>
+Alternatively, you can specify the url in the mirror of the repo as shown below. The url specified in the mirror has precedence over the one specified in the repo url<br>
+To configure settings.xml to refer your custom repo, first add the repository as below in your active profile<br>
+```xml
+<repositories>
+	<repository>
+		<id>bala_repo</id>
+		<url>http://bogus</url>
+		<releases>
+			<enabled>true</enabled>
+		</releases>
+		<snapshots>
+			<enabled>true</enabled>
+			<updatePolicy>always</updatePolicy>
+		</snapshots>
+	</repository>
+</repositories>
+```
 			
-			Then add the mirror
-			```xml
-			<mirrors>
-				<mirror>
-					<id>bala_mirror</id>
-					<url>https://oss.sonatype.org/content/groups/public/com/balajeetm/</url>
-					<mirrorOf>bala_repo</mirrorOf>
-				</mirror>
-			</mirrors>
-			```
+Then add the mirror
+```xml
+<mirrors>
+	<mirror>
+		<id>bala_mirror</id>
+		<url>https://oss.sonatype.org/content/groups/public/com/balajeetm/</url>
+		<mirrorOf>bala_repo</mirrorOf>
+	</mirror>
+</mirrors>
+```
 		○ [Local Repository](https://maven.apache.org/guides/introduction/introduction-to-repositories.html)
 		The local repository refers to a copy on your own installation that is a cache of the remote downloads, and also contains the temporary build artifacts that you have not yet released.
 		
