@@ -19,9 +19,9 @@ First, we need to get to the "right location" and download the library<br>
 Next, place the library in your classpath before using it in the application<br>
 * **Download jinx**<br>
 All that glitters is not gold. Be careful of what you download<br>
-Authenticity - You need to make sure the library is from an authentic source<br>
-Right version -Be sure to download the right variant of the lib with all expected features<br>
-Single repo - Would be great if all libraries and their versions are available in a single place wouldn't it?<br>
+<u>Authenticity</u> - You need to make sure the library is from an authentic source<br>
+<u>Right version</u> -Be sure to download the right variant of the lib with all expected features<br>
+<u>Single repo</u> - Would be great if all libraries and their versions are available in a single place wouldn't it?<br>
 * **Versioning**<br>
 Versioning now opens a Pandora box<br>
 If, the library updates itself to the next version, or rather provides more features, redo the above steps for the new version<br>
