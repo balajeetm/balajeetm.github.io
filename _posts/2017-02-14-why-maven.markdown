@@ -8,15 +8,15 @@ categories: Technology
 ---
 
 >Any software project is bound to have dependencies. By dependencies, I mean libraries that expose certain features that you want to reuse in your application.<br>
->We of course don't want to reinvent the wheel right? (psss… Are you sure you don't want to? We'll discuss that later)
+>We of course don't want to reinvent the wheel, do we? (psss… Are you sure you don't want to? We'll discuss that later)
 
 Now that we know our projects have dependencies, how does one manage these dependencies.
 Let's understand the challenges with [status quo](https://www.vocabulary.com/dictionary/status%20quo)
 	
-* **Getting the library**
-This is a seemingly trivial task
-  * We3 need to first get to the "right location" and download the library
-  * Next, place the library in your classpath before using it in the application
+* **Getting the library**<br>
+This is a seemingly trivial task<br>
+ - We3 need to first get to the "right location" and download the library<br>
+ - Next, place the library in your classpath before using it in the application<br>
 * **Download jinx**
 All that glitters is not gold. Be careful of what you download
   * Authenticity - You need to make sure the library is from an authentic source
