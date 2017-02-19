@@ -189,5 +189,7 @@ You seem to know so much more about maven now.<br>
 
 <img style="text-align: center" src="/assets/2017-02-17/noMavenNoob.jpg">
 
-I've written a sample project explaining the use of maven and the concepts that I've explained above [here](). Do have a look.<br>
-Have fun and keep smiling until we catch up next time.
+I've written a [sample project on github](http://github.balajeetm.com/maven-safe-haven) explaining the use of maven, a custom repository, conflict resolution and pretty much all the above concepts discussed so far.<br>
+Do have a look. It should surely give you more clarity<br>
+
+That's it for now. Have fun and keep smiling until we catch up next time.
