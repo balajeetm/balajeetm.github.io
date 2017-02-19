@@ -175,16 +175,18 @@ For more details look [here](https://docs.oracle.com/middleware/1212/core/MAVEN/
 ## <u><b id='maven-configurations'>Maven Configurations</b></u><br>
 Maven executions can be configured to suit your needs. This can be done in multiple ways.
 * **POM**<br>
-POM stands for "Project Object Model". It is an XML representation of a Maven project held in a file named pom.xml.
+POM stands for "Project Object Model". It is an XML representation of a Maven project held in a file named pom.xml.<br>
 Wrt Maven, a project is beyond a mere collection of files containing code. A project contains configuration files, as well as the developers involved and the roles they play, the defect tracking system, the organization and licenses, the URL of where the project lives, the project's dependencies, and all of the other little pieces that come into play to give code life.<br>
 It is a one-stop-shop for all things concerning the project. In fact, in the Maven world, a project need not contain any code at all, merely a pom.xml.<br>
 One of the biggest perks of using maven is that <b>'maven documents the build process'</b>.<br>
-There is so much to learn about the project and its build prcoess before even venturing into the code. Maven gets that crux quite right aye.<br>
+There is so much to learn about the project and its build prcoess before even venturing into the code. Maven gets that crux quite right aye?<br>
 If you seek more details however - [here goes](https://maven.apache.org/pom.html)
 	
 * **Settings.xml**<br>
 The settings.xml basically is a file that contains elements used to define values which configure Maven execution in various ways, just like the pom.xml. The difference however is that pom is  a project specific setting and settings in settings.xml are common for all projects.<br>
 For more details - jump [here](https://maven.apache.org/settings.html#Quick_Overview)
+
+>You can find my sample [settings.xml](/assets/2017-02-17/settings.xml) for reference here.<br>
 
 ## <u><b>To Wrap Up</b></u><br>
 That's great<br>
@@ -192,7 +194,7 @@ You seem to know so much more about maven now.<br>
 
 <img style="text-align: center" src="/assets/2017-02-17/noMavenNoob.jpg">
 
-I've written a [sample project on github](http://github.balajeetm.com/maven-safe-haven) explaining the use of maven, a custom repository, conflict resolution and pretty much all the above concepts discussed so far.<br>
+I've written a [sample project on github](http://github.balajeetm.com/maven-safe-haven) explaining the use of maven, a custom repository definition, conflict resolution and pretty much all the above concepts discussed so far.<br>
 Do have a look. It should surely give you more clarity<br>
 
 That's it for now. Have fun and keep smiling until we catch up next time.
