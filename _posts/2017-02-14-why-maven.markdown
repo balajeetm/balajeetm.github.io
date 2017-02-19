@@ -55,4 +55,4 @@ It’s a flexible solution that follows convention over configuration.<br>
 So if you follow a convention, there is very little to configure. But if you claim to be a rebel, well then you are welcome to maven's haven as well. Just that you would need to keep yourself busy with a lot of custom configurations. That's however not an issue.<br>
 Like they say - For each one, their way!
 
-Now that we know the enemy we are up against, let's see how maven tackles these for us. Join me in my next [post]()
+Now that we know the enemy we are up against, let's see how maven tackles these for us. Join me in my next [post](/blog/2017/02/17/maven-safe-haven/)
