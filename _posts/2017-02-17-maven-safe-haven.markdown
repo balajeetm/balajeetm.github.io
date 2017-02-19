@@ -80,6 +80,9 @@ Then add the mirror
 	</mirror>
 </mirrors>
 ```
+
+>You can find my sample [settings.xml](/assets/2017-02-17/settings.xml) for reference here.<br>
+
 * **[Local Repository](https://maven.apache.org/guides/introduction/introduction-to-repositories.html)**<br>
 The local repository refers to a copy on your own installation that is a cache of the remote downloads, and also contains the temporary build artifacts that you have not yet released.
 

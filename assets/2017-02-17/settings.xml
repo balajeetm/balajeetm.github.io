@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/settings-1.0.0.xsd">
+
+	<!-- Credentials for repositories are defined here -->
+	<servers />
+
+	<!-- Used to specify the urls of the repositories -->
+	<mirrors>
+		<mirror>
+			<id>bala_mirror</id>
+			<url>https://oss.sonatype.org/content/groups/public/com/balajeetm/</url>
+			<mirrorOf>bala_repo</mirrorOf>
+		</mirror>
+	</mirrors>
+
+	<profiles>
+		<profile>
+			<id>bala</id>
+
+			<!-- Remote collections of projects from which Maven uses to populate the local repository with libraries -->
+			<repositories>
+				<repository>
+					<id>bala_repo</id>
+					<url>http://bogus</url>
+					<releases>
+						<enabled>true</enabled>
+					</releases>
+					<snapshots>
+						<enabled>true</enabled>
+						<updatePolicy>always</updatePolicy>
+					</snapshots>
+				</repository>
+			</repositories>
+			
+			<!-- Remote collections of projects from which Maven uses to populate the local repository with plugins -->
+			<pluginRepositories />
+		</profile>
+	</profiles>
+
+	<activeProfiles>
+		<!-- Specify the active profile -->
+		<activeProfile>bala</activeProfile>
+	</activeProfiles>
+
+	<pluginGroups>
+		<!-- This element contains a list of plugin group ids. The list is searched 
+			when a plugin is used and the groupId is not provided -->
+		<!-- Maven by default contains the below commented plugin groups -->
+		<!-- <pluginGroup>org.apache.maven.plugins</pluginGroup> <pluginGroup>org.codehaus.mojo</pluginGroup> -->
+		<pluginGroup>org.sonatype.plugins</pluginGroup>
+	</pluginGroups>
+
+</settings>
