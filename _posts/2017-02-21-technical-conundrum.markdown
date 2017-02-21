@@ -60,8 +60,8 @@ Ready or not... Here we come!<br>
 >insert awesome quote here
 
 ```
-'Problems are like washing machines, they twist us, spin us and knock us around,<br>
-sbut in the end we come out cleaner, brighter and better than before'
+'Problems are like washing machines, they twist us, spin us and knock us around,
+but in the end we come out cleaner, brighter and better than before'
 ```
 
 Duh!!! So cheesy!<br>
