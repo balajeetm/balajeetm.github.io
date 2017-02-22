@@ -11,7 +11,3 @@ categories: TecCon
 This time the knot we are trying to untangle is the one pertaining to a singly linked-list.<br>
 The formal problem statement would be as below.<br>
 
-```
-Given a singly linked list, reverse its every 'n' nodes
-```
-
