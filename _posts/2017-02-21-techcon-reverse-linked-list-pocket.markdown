@@ -7,7 +7,7 @@ external-url:
 categories: TecCon
 ---
 
->Welcome to another stint of [TecCon](/blog/2017/02/21/technical-conundrum/).<br>
+> Welcome to another stint of [TecCon](/blog/2017/02/21/technical-conundrum/).<br>
 This time the knot we are trying to untangle is the one pertaining to a singly linked-list.<br>
 The formal problem statement would be as below.<br>
 
