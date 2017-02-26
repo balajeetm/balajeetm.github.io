@@ -16,7 +16,7 @@ Given a singly linked list, reverse its every 'n' nodes
 ```
 
 ## Prelude
-===
+<hr>
 
 It was tea time, a platform for imbecile discussions.<br>
 Little B was deliberating over a domain change request, pertaining to a typical product shipment scenario.<br>
@@ -53,7 +53,7 @@ Output:	3->2->1->6->5->4->8->7->NULL.
 ```
 
 ## The Thought Train
-===
+<hr>
 
 We are gonna use the analogy of literally chewing on an unknown nut, to crack this T-Nut.<br>
 Being close to reality always helps.<br>
