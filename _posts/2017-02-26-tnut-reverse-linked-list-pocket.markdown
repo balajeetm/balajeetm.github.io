@@ -70,8 +70,8 @@ Basically, ask yourself, if you understand the problem.<br>
 Before taking subsequent bites, take out a small piece and start to chew on it.<br>
 When you chew the initial bite, we generally focus on the aspects of the food that we like.<br>
 On the same lines, focus on the aspects of the problem, that you can take away. Mainly,<br> 
-* Jot down the naïve problem statement that you can atleast vaguely comprehend
-* Extract the buzz words that hit on you
+* Jot down the <u>naïve problem statement</u> that you can atleast vaguely comprehend
+* Extract <u>the buzz words</u> that hit on you
 
 Lets start chewing then, shall we?<br>
 
@@ -79,7 +79,75 @@ Lets start chewing then, shall we?<br>
 
 Let me nibble on <b><u>The Buzz Words</u></b> now
 
-* Singly Linked List
+<u>Singly Linked List</u><br>
+What do I get out of this?
+* The size is not available out of the box. 
+* The size can be tremendously huge
+* I cannot access an item based on index/position. I need to get to every item
+* The traversal is unidirectional. We cannot move back and forth, it like driving in a one way street
+
+So far so good
+
+<u>Reverse in groups</u><br>
+I need to reverse the order of nodes. But reverse them in blocks of "n".<br>
+Well, doesn't quite sit pretty in the head, does it? But good, let me move on.
+
+Ok, we've chewed it a bit.<br>
+What next? Let's swallow what we chewed<br>
+When you generally swallow, you let your relished bite flow through your esophagus, smoothly into the bowels.<br>
+Similarly, let get some logic to flow through and help us connect the dots.<br>
+You can do this mentally, scribble on paper or start hacking some code.<br>
+
+Lets begin analysing the input and output samples and see if we can catch some rhythm. Catch some logic.<br>
+Let your "pristine brain" solve it.<br>
+
+Ok, let's see<br>
+Do we understand the input, output samples<br>
+
+```
+Inputs:  1->2->3->4->5->6->NULL, ok a list with 6 elements
+And n=2
+Reverse the first two elements
+2->1
+Reverse the next two
+4->3
+Finally, Reverse the last two
+6->5
+
+Putting them together
+6->5->4->3->2->1->NULL
+```
+
+```
+In the second sample, we have
+Inputs:  1->2->3->4->5->6->7->8->NULL, ok a list with 8 elements
+And n=3
+
+So let me reverse the first three elements
+3->2->1
+
+Then, the next three
+6->5->4
+
+And then, the last three
+8->7
+
+<b>Ok, there is an edge case, If 3 elements are not available, it should sort whatever is available.</b>
+That’s a good catch. Let me now put this together
+
+Putting them together
+3->2->1->6->5->4->8->7->NULL
+```
+
+Great… We have chewed and swallowed.
+Let us take the next bite.
+
+
+
+
+
+
+
 
 
 
