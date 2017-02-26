@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TecCon
+title: T-Nut
 date: 2017-02-21 16:08
 comments: true
 external-url:
@@ -12,7 +12,7 @@ He's absolutely right you know... well... only as long as he isn't complaining.<
 Problems, are the stepping stones of success... there's nothing wrong about them.<br>
 Our attitude towards a problem however, is the point of contention here.<br>
 
-We can either choose to step on it and keep moving forward or meekly back off and fade away.<br>
+We can either choose to step on it and keep moving forward, or, meekly back off and fade away.<br>
 Well, a word of caution there; running away only increases our distance from the solution. The point of it all was to get to the solution remember?<br>
 Ting, Ring - Does that ring a bell?<br>
 
@@ -22,11 +22,11 @@ Let's man up and face it now shall we? (* discreetly trying not to be sexist)<br
 
 Problems out there come in various shapes and sizes. In this section, we will deal with only one flavor of those problems. The one that would interest the uncanny [J.A.R.V.I.S](http://ironman.wikia.com/wiki/J.A.R.V.I.S.) kind (* any AI reference here is purely unintentional)<br>
 
-We'll categorize our hurdles as "TecCon".<br>
-WTF in TecCon you ask huh?<br>
-Well,  TecCon is a shorthand for <b>"Technical Conundrums"</b>. In techy terms..<br>
+We'll categorize our hurdles as "T-Nut"s.<br>
+[WTF](/blog/2017/02/13/welcome-aboard/) in a T-Nut you ask huh?<br>
+Well,  T-Nut is a technical nut, we are trying to crack. An alias for <b>"Technical Conundrums"</b>. In techy terms..<br>
 ```
-Compress(Technical Conundrums) = TecCon :D (how funny)
+Compress(Technical Nut) = T-Nut :D (how funny)
 ```
 
 So ironical isn't it, we keep blabbering about "unjargon" but end up concocting new Jargons.<br>
@@ -35,9 +35,9 @@ Beauty is in the eye of the beholder.<br>
 After all, It sounds so jazzy doesn't it?<br>
 It gives a nice ring to even our despicable problems.<br>
 
-So TecCon huh? Alright, we "unjars" mutually agree!
+So T-Nut huh? Alright, we "unjars" mutually agree!
 
-In TecCon, we'll try to tackle few programming riddles.<br>
+In T-Nut, we'll try to tackle few programming riddles.<br>
 The moto however is not to get to the solution.<br>
 Getting a solution is not hard nowadays.<br>
 'Oh, just google it yo.'<br>
@@ -54,7 +54,7 @@ And that, will automatically fix all problems.<br>
 
 Allrighty then, I'm game. Buckle up and board on for the fun ride.<br>
 Life after all, is a continuous exercise of creative problem solving.<br>
-Hop along, Let's have TecCons for breakfast :)<br>
+Hop along, Let's have T-Nuts for breakfast :)<br>
 Ready or not... Here we come!<br>
 
 >insert awesome quote here
