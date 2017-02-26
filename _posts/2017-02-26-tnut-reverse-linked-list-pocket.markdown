@@ -105,8 +105,12 @@ Ok, let's see<br>
 Do we understand the input, output samples<br>
 
 ```
-Inputs:  1->2->3->4->5->6->NULL, ok a list with 6 elements
+Input:
+1->2->3->4->5->6->NULL, ok a list with 6 elements
 And n=2
+```
+
+```
 Reverse the first two elements
 2->1
 Reverse the next two
@@ -118,11 +122,14 @@ Putting them together
 6->5->4->3->2->1->NULL
 ```
 
-```
 In the second sample, we have
-Inputs:  1->2->3->4->5->6->7->8->NULL, ok a list with 8 elements
-And n=3
 
+```
+Input:  1->2->3->4->5->6->7->8->NULL, ok a list with 8 elements
+And n=3
+```
+
+```
 So let me reverse the first three elements
 3->2->1
 
@@ -132,12 +139,12 @@ Then, the next three
 And then, the last three
 8->7
 
-**Ok, there is an edge case, If 3 elements are not available, it should sort whatever is available.**
-That’s a good catch. Let me now put this together
-
 Putting them together
 3->2->1->6->5->4->8->7->NULL
 ```
+
+**Ok, there is an edge case, If 3 elements are not available, it should sort whatever is available.**
+That’s a good catch. Let me now put this together
 
 Great… We have chewed and swallowed.
 Let us take the next bite.
