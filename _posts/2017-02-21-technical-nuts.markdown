@@ -52,18 +52,21 @@ Small in size but herculean in stature.<br>
 The seed can open doors to new avenues, can beget and nourish enormous trees of knowledge, rooted strongly in new paradigms.<br>
 But just like in a fruit, the T-Nut as a seed, is shrouded in edible pericarps and non-edible epicarps.<br>
 
-Getting to the core, getting to the seed is a journey. A journey to cherish.<br>
-As we march towards the T-Nut, we need to cull the epicarp, swallow the pericarp, a before we can realize, we would have reached a epicenter as completely different being.<br>
+Getting to the core and getting to the seed is a journey... A journey to cherish.<br>
+As we march towards the T-Nut, we need to cull the epicarp, swallow the pericarp, and before we can realize, we would have reached the epicenter as a completely different being.<br>
 
 ```
-Like they say, everyone wants a magical solution to their problem but everyone refuses to believe in magic. The magic is in the seed. Let's sow and reap the right ones
+Like they say, everyone wants a magical solution to their problem,
+but everyone refuses to believe in magic. 
+The magic is in the seed.
+Let's sow and reap the right ones.
 ```
 
 So the focus of our stints in T-Nut, is more on the journey, than the destination.<br>
 We are not actually fixing the problem, but we are more fixing our thinking as we move along, with a stern belief, that that by itself, will automatically eradicate all problems. If not, it will atleast make us stronger to tussle with them.<br>
 <b>#Trust #Faith</b>
 
-So cool huh?
+So cool huh?<br>
 Allrighty then, I'm game. Buckle up and board on for the fun ride.<br>
 Life after all, is a continuous exercise of creative problem solving.<br>
 Hop along, Let's have T-Nuts for breakfast :)<br>
