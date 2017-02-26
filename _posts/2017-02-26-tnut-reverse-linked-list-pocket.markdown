@@ -16,6 +16,8 @@ Given a singly linked list, reverse its every 'n' nodes
 ```
 
 ## Prelude
+===
+
 It was tea time, a platform for imbecile discussions.<br>
 Little B was deliberating over a domain change request, pertaining to a typical product shipment scenario.<br>
 In their E-Commerce world, once the product is approved for shipment, the process flow is as below<br>
@@ -31,7 +33,7 @@ So, the execution of commands at each shipment site was decided to be reversed<b
 That’s trivial. But what was little B pondering about?. A simple swap of  commands was all it demanded.<br>
 Well, if you ever knew little B, everything was always more than what meets the eye with him.<br>
 
-He contrived a hypothetical nut which he was trying to crack - a T-Nut<br>
+He contrived a hypothetical nut which he was trying to crack - a [T-Nut](/blog/2017/02/21/technical-nuts/)<br>
 On slight improvisation, he viewed the above chain as a singly linked list. Fair enough!<br>
 The challenge he concocted was, to selectively reverse nodes on the linked list. Specifically reverse every "n" node sub groups in the big list where "n" is a variable input.<br>
 
@@ -49,4 +51,15 @@ Output:	2->1->4->3->6->5->NULL.
 Input:	1->2->3->4->5->6->7->8->NULL and n = 3
 Output:	3->2->1->6->5->4->8->7->NULL.
 ```
+
+## The Thought Train
+===
+
+We are gonna use the analogy of literally chewing on an unknown nut, to crack this T-Nut.<br>
+Being close to reality always helps.<br>
+
+Let's begin<br>
+
+### <u>Step 1 - Chew and Swallow</u>
+
 
