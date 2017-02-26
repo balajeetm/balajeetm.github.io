@@ -75,7 +75,7 @@ On the same lines, focus on the aspects of the problem, that you can take away. 
 
 Lets start chewing then, shall we?<br>
 
-<b><u>The Naïve Problem Statement</u></b> - as I understand is to reverse a linked list with a some constraints<br>
+<b><u>The Naïve Problem Statement</u></b> - as I understand is to reverse a linked list with some constraints<br>
 
 Let me nibble on <b><u>The Buzz Words</u></b> now
 
@@ -95,7 +95,7 @@ Well, doesn't quite sit pretty in the head, does it? But good, let me move on.
 Ok, we've chewed it a bit.<br>
 What next? Let's swallow what we chewed<br>
 When you generally swallow, you let your relished bite flow through your esophagus, smoothly into the bowels.<br>
-Similarly, let get some logic to flow through and help us connect the dots.<br>
+Similarly, let's get some logic to flow through and help us connect the dots.<br>
 You can do this mentally, scribble on paper or start hacking some code.<br>
 
 Lets begin analysing the input and output samples and see if we can catch some rhythm. Catch some logic.<br>
@@ -119,13 +119,14 @@ Finally, Reverse the last two
 6->5
 
 Putting them together
-6->5->4->3->2->1->NULL
+2->1->4->3->6->5->NULL
 ```
 
 In the second sample, we have
 
 ```
-Input:  1->2->3->4->5->6->7->8->NULL, ok a list with 8 elements
+Input:
+1->2->3->4->5->6->7->8->NULL, ok a list with 8 elements
 And n=3
 ```
 
@@ -144,10 +145,38 @@ Putting them together
 ```
 
 **Ok, there is an edge case, If 3 elements are not available, it should sort whatever is available.**
-That’s a good catch. Let me now put this together
+That’s a good catch.
 
-Great… We have chewed and swallowed.
+Great… We have chewed and swallowed.<br>
 Let us take the next bite.
+
+### <u>Step 2 - Bite the juicy side</u>
+
+Alright, we've kind of got the flavour of nut as we chewed it. We seem to like it.<br>
+We want more, but we wouldn't take a random bite, would we? Let's pick the juicy areas.<br>
+
+So, for the next bite, we will look at the nut from an angle where it seems palatable and then take that out.<br>
+How do we do that?<br>
+We'll create a visual representation of the problem, something we can relate to easily. Let's try something closer to real life, to begin.<br>
+
+The first realistic thing that comes to my mind when you say linked list, is a train with bogies.<br>
+Let me create a 2D train with bogies representing nodes. The values of the nodes represent the solitary passenger, commuting in them<br>
+
+<img style="text-align: center" src="/assets/2017-02-26/train.png">
+	
+That helps, doesn't it? The problem kind of feels colorful now<br>
+Now that we see the juicy side of things, let's take the bite.<br>
+
+Taking a bite is synonymous to doing analysis.<br>
+This time, let's dig out the logic, that the 'pristine brain' natively followed to grasp the problem.<br>
+Also, let's try to garnish that logic into a programming stereotype.
+
+Personifying the 'pristine brain", as Mr.Pristine, what were the steps he followed
+	· He first split the linked list in batches of "n"
+	· He then reversed the sub link list
+
+
+
 
 
 
