@@ -62,4 +62,25 @@ Let's begin<br>
 
 ### <u>Step 1 - Chew and Swallow</u>
 
+Before we begin cracking the nut, let's make sure we understand the nut.<br>
+Is it a groundnut, peanut or walnut ?<br> 
+What's its size, texture, and so on ?<br>
+Basically, ask yourself, if you understand the problem.<br>
+
+Before taking subsequent bites, take out a small piece and start to chew on it.<br>
+When you chew the initial bite, we generally focus on the aspects of the food that we like.<br>
+On the same lines, focus on the aspects of the problem, that you can take away. Mainly,<br> 
+* Jot down the naïve problem statement that you can atleast vaguely comprehend
+* Extract the buzz words that hit on you
+
+Lets start chewing then, shall we?<br>
+
+<b><u>The Naïve Problem Statement</u></b> - as I understand is to reverse a linked list with a some constraints<br>
+
+Let me nibble on <b><u>The Buzz Words</u></b> now
+
+* Singly Linked List
+
+
+
 
