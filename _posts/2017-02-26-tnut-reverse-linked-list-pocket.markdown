@@ -132,7 +132,7 @@ Then, the next three
 And then, the last three
 8->7
 
-<b>Ok, there is an edge case, If 3 elements are not available, it should sort whatever is available.</b>
+**Ok, there is an edge case, If 3 elements are not available, it should sort whatever is available.**
 That’s a good catch. Let me now put this together
 
 Putting them together
