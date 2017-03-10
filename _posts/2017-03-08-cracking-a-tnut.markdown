@@ -26,7 +26,7 @@ Let's begin then<br>
 ## Step 1 - Isolate the [epicarp](https://en.wikipedia.org/wiki/Fruit_anatomy#Epicarp)
 <hr>
 
-### Why isolate ?
+### <u>Why isolate ?</u>
 This is an unknown fruit. Before we begin cracking the nut in it, let's make sure we understand or atleast roughly gauge the nut.<br>
 Is it a groundnut, peanut or a walnut?<br>
 And what about the fruit concealing it?<br>
@@ -39,24 +39,24 @@ What's stopping us? Its our distance from the problem, distance from the [T-Nut]
 Let's take a closer look.<br>
 To do that, let's first set aside the epicarp veiling the fruit.<br>
 
-### What's an [epicarp](https://en.wikipedia.org/wiki/Fruit_anatomy#Epicarp) ?
+### <u>What's an [epicarp](https://en.wikipedia.org/wiki/Fruit_anatomy#Epicarp) ?</u>
 The epicarp typically, is a seemingly useless, unrelated information, masking the problem.<br>
 As you wander into the real world, be it in your corporate environment, or your personal life, rarely is someone going to hand us the problem - like, [reverse a linked list](/blog/2017/02/26/tnut-reverse-linked-list-pocket/).<br>
 Almost Never.<br>
 It is up to us to identify the problem, which is more often than not, in hiding.<br>
 
-### What does isolating mean ?
+### <u>What does isolating mean ?</u>
 **Isolating the epicarp is the process of isolating and understanding the problem statement we are trying to address**<br>
 Sometimes, just isolating the epicarp, can almost get you to the solution.<br>
 
-### An typical example
+### <u>An typical example</u>
 
 Still doesn't ring a bell?<br>
-Try this [example](/blog/2017/03/10/isolate-epicaro-example) and get back.<br>
+Try this [example](/blog/2017/03/10/isolate-epicarp-example/) and get back.<br>
 
-### Synopsis
+### <u>Synopsis</u>
 
-Putting things together, <b>The <u>typical approach</u> to cull the epicarp would be as below</b><br>
+Putting things together, The <b>typical approach</b> to cull the epicarp would be as below<br>
 * <b>Simplify the problem statement</b><br> 
 Jot down the naïve problem statement that you can atleast vaguely comprehend
 * <b>Extract the buzz words</b><br>
@@ -65,7 +65,7 @@ Pull out all the jargons and buzz words that hit on you and try to connect them 
 ## Step 2 - Take the first bite
 <hr>
 
-### Where do we begin ?
+### <u>Where do we begin ?</u>
 It's not often that culling the epicarp will give us the solution. It does better the visibility of the fruit and nut though... But [it aint over till the fat lady sings](https://en.wikipedia.org/wiki/It_ain't_over_till_the_fat_lady_sings).<br>
 So what do we do next? We don't know the nature of the fruit yet. How do we take a bite?<br>
 
@@ -73,18 +73,18 @@ Well, 'Hunger' knows no barriers. Let's bite our way through.<br>
 
 Our first bites are always calculative right. We prefer to bite the juicy side, at least what we think is juicy.<br>
 
-### What's so juicy?
+### <u>What's so juicy?</u>
 Juicy here is a problem area which we know to address with ease. Something that we are comfortable with...<br>
 Something the looks tasty...<br>
 So for the next bite, we will look at the fruit from an angle where it seems palatable and then take that out. Make the problem more colorful and exciting<br>
 
-### What's taking the bite ?
+### <u>What's taking the bite ?</u>
 So taking the first bite is the process of looking at the problem statement through the lens of something that we already know.<br>
 Basically, try to convert it to something that you have got around of sometime before.<br>
 Apart from the invaluable psychological edge that it boosts, it gives you a path to start walking towards a goal.<br>
 
-### Synopsis
-<b>The <u>typical approach</u> of taking the first bite would be</b><br>
+### <u>Synopsis</u>
+The <b>typical approach</b> of taking the first bite would be<br>
 * <b>Visual Representation</b><br>
 Make it more colorful and exiciting.<br>
 Create a visual representation of the problem.
@@ -101,29 +101,49 @@ We can later convert it into logic for the "computational brain"
 ## Step 3 - Swallow the initial bite
 <hr>
 
-Next, start to chew on what you bit.<br>
+### <u>Feel the bite</u>
 When we chew on a tasty fruit, we generally focus on the aspects of the fruit that we like.<br>
 Its sweetness, juice, color, etc<br>
-On similar lines, focus on the aspects of the problem, that you can take away.<br>
-Let the bite flow through your esophagus and smoothly into the bowels.<br>
-Let some logic to flow through the disparate dots and help connect them.<br>
+On similar lines, as we chew on our initial bite focus on the aspects of the problem, and the take aways.<br>
+Genuinely feel the problem.
 
-Swallowing is thus synonymous to analysis, logic gathering and retrospection.<br>
+### <u>Let it flow through</u>
+Just like letting a bite flow through your esophagus and smoothly into the bowels,<br>
+let some logic to flow through the disparate dots and help connect them.<br>
+Create a mindmap and visually connect the dots available through buzz words, problem statement, naive logic, etc.<br>
+```
+Swallowing thus, is synonymous to analysis, logic gathering and retrospection.
+```
 You can do this mentally, scribble on paper or start hacking some code.<br>
-Do a lot of retrospection and see if the dots connect and check if you are going the right direction.<br>
-Try not to force a solution, let it be smooth<br>
+Whatever you do, remember to <b>retrospect</b>.<br>
+Retrospect to see if the dots connect and take you in the right direction.<br>
+
+Try not to force a solution though... let it be smooth<br>
 The way we swallow greatly influences the next bites we would take. Try to not make it hard for ourselves to take subsequent bites<br>
 
-* Identify the edge cases if any through the input output samples
-* Begin with naïve "pristine brain" approach and see if you can convert that to a programming logic
-* More often, you will be unable to do that, since the "pristine brain" works very differently than the "logical brain".<br>
-Just because you solved something mentally, doesn't always mean you can write a program for it. We get stuck most of times when we try to pen something down for this reason. This is why interviewers insist us to write code. This is not to test your syntax strength but to identify some pitfalls in your reasoning.
+### <u>Synopsis</u>
+The <b>typical</b> process of feeling the first bite would be as below<br>
+* <b>Identify the edge cases</b><br>
+Re look at the samples and try to identify some anomalies or edge cases, apparent in the samples provided.
+* <b>Program some logic</b><br>
+Begin with naïve "pristine brain" approach and see if you can convert that to a programming logic. Make tweaks in the thinking if need be.
+* <b>Retrospect</b>
+Keep asking yourself if you are going towards the goal with your current approach.<br>
+Moving fast is useless, if you are moving in the wrong direction.<br>
+If the approach seems complicated, give it some rest and try something else.
 
 #### Note
 
-But our pristine brain is extremely adaptable. The more of such problems we solve, the more efficient it will become in working with these types of constraints. And for this reason, we will be cracking a lot of such [T-Nuts](/blog/2017/02/21/technical-nuts/).
+More often than not, you will be unable to transform the "pristine brain" logic to a programmable code.<br>
+This is because the "pristine brain" works very differently than the "logical brain".<br>
+Just because you solved something mentally, doesn't always mean you can write a program for it. It is for this reason, that we get stuck most of times when we try to pen something down.<br>
+Now do you see why interviewers insist us to write code?<br>
+This is not to test your syntax strength but to identify some pitfalls in your reasoning.
+
+But remember, our pristine brain is extremely adaptable. The more of such problems we solve, the more efficient it will become in working with these types of constraints. And for this reason, we will be cracking a lot of such [T-Nuts](/blog/2017/02/21/technical-nuts/).
 	
-While, the logical brain always looks for constraints, the pristine brain always ignores it, if it isn't explicit. "Pristine Brain" only cares about getting to the goal, however that is. So it is important we present the problem with all constraints emphasized, through the "Logical Counterpart"
+Another word of caution.<br>
+While, the logical brain always looks for constraints, the pristine brain always ignores it, if it isn't explicit. "Pristine Brain" only cares about getting to the goal, however that is. So it is important we present the problem with all constraints emphasized, through the "Logical Counterpart" if you want to force some logical thinking.
 	
 
 ## Step 4 - Take more bites

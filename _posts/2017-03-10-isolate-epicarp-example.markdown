@@ -11,7 +11,7 @@ categories: Examples
 We realised, there are multiple stages to cracking it, and first of those stages is [isolating the epicarp](/blog/2017/03/08/cracking-a-tnut/#step-1---isolate-the-epicarp).<br>
 Let's a typical example to illustarte what that means. Remember, sometimes, that by itself, can get you almost to the solution. 
 
-## The Problem Statement
+## <u>The Problem Statement</u>
 
 Consider a scenario as below<br>
 ```
@@ -31,7 +31,7 @@ while the coefficient of reflection on both mirrors is assumed to be 1.
 What is the velocity of the butterfly?
 ```
 
-## The Solution
+## <u>The Solution</u>
 
 So how did you feel reading that epic?<br>
 Does the question feel complicated? There was so much that was said.<br>
@@ -40,7 +40,7 @@ If you are not from a physics background and did not understand quite a few term
 The only thing you ever need to know is what is velocity?<br>
 [Velocity](https://en.wikipedia.org/wiki/Velocity) is defined as total displacement over time.<br>
 ```
-V = Displacement/time<br>
+V = Displacement/time
 ```
 
 [Displacement](https://en.wikipedia.org/wiki/Displacement_(vector)) is the total distance moved relative to the point where we started. So in a round trip, the displacement is 0, distance however is not.<br>
@@ -79,7 +79,7 @@ So total velocity of the butterfly is
 
 **60 miles per hour**. Awesome right? If only we set aside the epicarp<br>
 
-## The Learning
+## <u>The Learning</u>
 
 Is it loud and clear now? Do you see how much difference picking the relevant info from a problem statement makes?<br>
 We tend to understand the problem so much better, we when focus on the specifics.<br>
