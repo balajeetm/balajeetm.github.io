@@ -46,7 +46,7 @@ Almost Never.<br>
 It is up to us to identify the problem, which is more often than not, in hiding.<br>
 
 ### <u>What does isolating mean ?</u>
-**Isolating the epicarp is the process of isolating and understanding the problem statement we are trying to address**<br>
+Isolating the epicarp is the process of isolating and understanding the problem statement we are trying to address<br>
 Sometimes, just isolating the epicarp, can almost get you to the solution.<br>
 
 ### <u>An typical example</u>
