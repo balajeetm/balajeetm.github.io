@@ -35,7 +35,7 @@ Rip the mask and show the face!<br>
 
 Well, how far down the rabbit hole do you wannu go?<br>
 Let's be a little cautious there.<br>
-Ignorance and misinformation is greatest epidemic in today's world.<br>
+Ignorance and misinformation are the greatest epidemics in today's world.<br>
 Let's only address that!<br>
 
 When something is complicated, don’t let that discomfort you.<br>

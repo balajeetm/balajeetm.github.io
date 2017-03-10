@@ -50,7 +50,7 @@ And learn from it.<br>
 T-Nut is like the seed that resides in the center of a fruit.<br>
 Small in size but herculean in stature.<br>
 The seed can open doors to new avenues, can beget and nourish enormous trees of knowledge, rooted strongly in new paradigms.<br>
-But just like in a fruit, the T-Nut as a seed, is shrouded in edible pericarps and non-edible epicarps.<br>
+But just like in a fruit, the T-Nut as a seed, is shrouded in edible [pericarps](https://en.wikipedia.org/wiki/Fruit_anatomy#Pericarp_layers) and non-edible [epicarps](https://en.wikipedia.org/wiki/Fruit_anatomy#Epicarp).<br>
 
 Getting to the core and getting to the seed is a journey... A journey to cherish.<br>
 As we march towards the T-Nut, we need to cull the epicarp, swallow the pericarp, and before we can realize, we would have reached the epicenter as a completely different being.<br>
