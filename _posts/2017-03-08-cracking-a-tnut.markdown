@@ -23,7 +23,7 @@ As we march towards the [T-Nut](/blog/2017/02/21/technical-nuts/), we need to cu
 
 Let's begin then<br>
 
-## Step 1 - Isolate the [epicarp](https://en.wikipedia.org/wiki/Fruit_anatomy#Epicarp)
+## Step 1 - Isolate the <a href="https://en.wikipedia.org/wiki/Fruit_anatomy#Epicarp">epicarp</a>
 <hr>
 
 ### <u>Why isolate ?</u>
@@ -39,7 +39,7 @@ What's stopping us? Its our distance from the problem, distance from the [T-Nut]
 Let's take a closer look.<br>
 To do that, let's first set aside the epicarp veiling the fruit.<br>
 
-### <u>What's an [epicarp](https://en.wikipedia.org/wiki/Fruit_anatomy#Epicarp) ?</u>
+### <u>What's an <a href="https://en.wikipedia.org/wiki/Fruit_anatomy#Epicarp">epicarp</a> ?</u>
 The epicarp typically, is a seemingly useless, unrelated information, masking the problem.<br>
 As you wander into the real world, be it in your corporate environment, or your personal life, rarely is someone going to hand us the problem - like, [reverse a linked list](/blog/2017/02/26/tnut-reverse-linked-list-pocket/).<br>
 Almost Never.<br>
