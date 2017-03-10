@@ -9,6 +9,7 @@ categories: -What's-The-Fun-
 
 >In my earlier post, we saw what a [T-Nut](/blog/2017/02/21/technical-nuts/) is. We also said, moving along, we are gonna be cracking a lot of those.<br>
 But how does one go about it? What follows, is a step by step guideline, to cracking a T-Nut.<br>
+If you are looking for a quick guide to cracking a t-nut, [jump here](/blog/2017/03/09/thumbrules-to-crack-a-tnut/).<br>
 
 <img src="/assets/2017-03-08/crackingTheNut.jpg">
 
@@ -210,3 +211,5 @@ If you haven't already, do look at this blog on [letting go]().
 
 The above approach including pitfalls is demonstarted in the example [here](). Do have a look.<br>
 Its' road to El Dorado then!!
+
+> The above has been summarised to a quick guide, of thumbrules [here](/blog/2017/03/09/thumbrules-to-crack-a-tnut/)

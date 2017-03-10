@@ -84,3 +84,5 @@ but in the end we come out cleaner, brighter and better than before'
 
 Duh!!! So cheesy!<br>
 Give me a break!
+
+> Follow my next post on how to [crack a t-nut](/blog/2017/03/08/cracking-a-tnut/), or find a simplified step by step guide [here](/blog/2017/03/09/thumbrules-to-crack-a-tnut/)
