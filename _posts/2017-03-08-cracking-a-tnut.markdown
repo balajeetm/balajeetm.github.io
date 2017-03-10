@@ -146,46 +146,57 @@ Another word of caution.<br>
 While, the logical brain always looks for constraints, the pristine brain always ignores it, if it isn't explicit. "Pristine Brain" only cares about getting to the goal, however that is. So it is important we present the problem with all constraints emphasized, through the "Logical Counterpart" if you want to force some logical thinking.
 	
 
-## Step 4 - Take more bites
+## <u>Step 4 - Take more bites</u>
 <hr>
 
+### <u>To bite or not to bite</u>
 Alright, we've kind of got the flavour of fruit as we chewed it.<br>
 If you liked what you bit, take similar bites and stride towards the goal.<br>
 If you didn't like the taste of the bite, pick the next juicy spot.<br>
+
+### <u>Adapt to Change</u>
 Sometimes, our initial approaches may not be the right one.<br>
 What we thought was the juicy side, may not turn out to be so.<br>
 Change the approach and look for another juicy side until we find the sweet spot.<br>
-We may need to change our visual representation to suit the newer approach... So be it.<br>
+Even if it means to change our visual representation to suit the newer approach... So be it.<br>
 
 This is the crux of problem solving.<br>
-Never [hold on] to a solution. We should be able to learn from our approach and [let it go] when situation demands. Don't hold on too tight onto anything<br>
+Never [hold on]() to a solution. We should be able to learn from our approach and [let it go]() when situation demands. Don't hold on too tight onto anything<br>
 
+### <u>Law of conservation of thought</u>
 Believe in law of conservation of thought
 ```
 "You thinking and effort cannot be destroyed.
 It will manifest itself some way or the other and turn out fruitful"
 ```
 
-## Step 5 - Swallow the next bite
+## <u>Step 5 - Swallow the next bite</u>
 <hr>
 
+### <u>Repeat Step-3</u>
 As you move along, you can either choose to take similar bites and narrow down on the solution or take a divergent path.<br>
 Each time, try to get some logic flow through and digest the approach.<br>
 Retrospect and ask yourself if this is taking you towards the goal. Feedback is extremely important<br>
 	
-## Step 6 - Optimize the final bites
+## <u>Step 6 - Optimize the final bites</u>
 <hr>
 
+### <u>Working with constraints</u>
 As you keep gnawing you way through, you are nibbling away the fruit that you have got to work with.<br>
-On one hand, you are getting closer to the nut and have probably even discerned the weak links. Once you get to the nut, all it needs is that one shot and the nut will crack open.<br>
+On one hand, you are getting closer to the nut and have probably even discerned the weak links.<br>
+On the other hand, we need to now focus on the areas we ignored.<br>
 
-On the other hand, we need to now focus on the areas we ignored. The functional core might be in place (or it may seem so), now it is time for the litmus test.<br>
+### <u>Litmus Test</u>
+Though the nut is just a hammer away, we still want to hammer it right.<br>
+The functional core might be in place (or it may seem so), but now it's time for the litmus test.<br>
 Try out the edge cases, empty input and invalid input scenarios and ensure all of these are handled gracefully.<br>
-Our logic shouldn't go bonkers!!!<br>
-Sometimes, the edge cases can highlight a major flaw in our logic and guess what, we may need to start all over again.<br>
-Empty your tummy, pick up a new fruit and start gnawing your way through<br>
+Ensure our logic doesn't go bonkers!!!<br>
+Sometimes, the edge cases can highlight a major flaw in our logic..<br>
+and guess what, because of that, we may need to start all over again.<br>
 
-## Step 7 - Beware of pit falls
+In those cases, remember... [let go]()... pick up a new fruit and start gnawing your way through<br>
+
+## <u>Step 7 - Beware of pit falls</u>
 <hr>
 
 Last but not least, the pit falls!
@@ -193,9 +204,9 @@ Many a times, the way we chose to approach the problem, might take us off course
 And only deep down the thought process, we may realise we are going astray.<br>
 But, we would have worked on it so much, that we would be in denial to accept that this approach is not the right one. So we may still go ahead and tweak the solution and see if it fits.<br>
 Well, remember what I said before? Don't hold on too tight, [let go]()<br>
-Choose an alternative path and move on. Believe in law of conservation of thought.
+Choose an alternative path and move on. Believe in law of conservation of thought.<br>
+
+If you haven't already, do look at this blog on [letting go]().
 
 The above approach including pitfalls is demonstarted in the example [here](). Do have a look.<br>
 Its' road to El Dorado then!!
-
-
