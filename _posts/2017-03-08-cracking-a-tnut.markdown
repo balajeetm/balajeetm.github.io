@@ -132,7 +132,7 @@ Keep asking yourself if you are going towards the goal with your current approac
 Moving fast is useless, if you are moving in the wrong direction.<br>
 If the approach seems complicated, give it some rest and try something else.
 
-#### Note
+<b><u>Note</u></b>
 
 More often than not, you will be unable to transform the "pristine brain" logic to a programmable code.<br>
 This is because the "pristine brain" works very differently than the "logical brain".<br>
