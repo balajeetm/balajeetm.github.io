@@ -128,7 +128,7 @@ The <b>typical</b> process of feeling the first bite would be as below<br>
 Re look at the samples and try to identify some anomalies or edge cases, apparent in the samples provided.
 * <b>Program some logic</b><br>
 Begin with naïve "pristine brain" approach and see if you can convert that to a programming logic. Make tweaks in the thinking if need be.
-* <b>Retrospect</b>
+* <b>Retrospect</b><br>
 Keep asking yourself if you are going towards the goal with your current approach.<br>
 Moving fast is useless, if you are moving in the wrong direction.<br>
 If the approach seems complicated, give it some rest and try something else.
@@ -147,7 +147,7 @@ Another word of caution.<br>
 While, the logical brain always looks for constraints, the pristine brain always ignores it, if it isn't explicit. "Pristine Brain" only cares about getting to the goal, however that is. So it is important we present the problem with all constraints emphasized, through the "Logical Counterpart" if you want to force some logical thinking.
 	
 
-## <u>Step 4 - Take more bites</u>
+## Step 4 - Take more bites
 <hr>
 
 ### <u>To bite or not to bite</u>
@@ -171,7 +171,7 @@ Believe in law of conservation of thought
 It will manifest itself some way or the other and turn out fruitful"
 ```
 
-## <u>Step 5 - Swallow the next bite</u>
+## Step 5 - Swallow the next bite
 <hr>
 
 ### <u>Repeat Step-3</u>
@@ -179,7 +179,7 @@ As you move along, you can either choose to take similar bites and narrow down o
 Each time, try to get some logic flow through and digest the approach.<br>
 Retrospect and ask yourself if this is taking you towards the goal. Feedback is extremely important<br>
 	
-## <u>Step 6 - Optimize the final bites</u>
+## Step 6 - Optimize the final bites
 <hr>
 
 ### <u>Working with constraints</u>
@@ -197,7 +197,7 @@ and guess what, because of that, we may need to start all over again.<br>
 
 In those cases, remember... [let go]()... pick up a new fruit and start gnawing your way through<br>
 
-## <u>Step 7 - Beware of pit falls</u>
+## Step 7 - Beware of pit falls
 <hr>
 
 Last but not least, the pit falls!

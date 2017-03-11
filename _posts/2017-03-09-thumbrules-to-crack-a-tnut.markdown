@@ -41,29 +41,29 @@ We can later convert it into logic for the "computational brain"
 Re look at the samples and try to identify some anomalies or edge cases, apparent in the samples provided.
 * <b>Program some logic</b><br>
 Begin with naïve "pristine brain" approach and see if you can convert that to a programming logic. Make tweaks in the thinking if need be.
-* <b>Retrospect</b>
+* <b>Retrospect</b><br>
 Keep asking yourself if you are going towards the goal with your current approach.<br>
 Moving fast is useless, if you are moving in the wrong direction.<br>
 If the approach seems complicated, give it some rest and try something else.
 
-## <u>Step 4 - Take more bites</u>
+## Step 4 - Take more bites
 <hr>
 
 * Adapt to Change. Take new bites
 * Law of conservation of thought
 
-## <u>Step 5 - Swallow the next bite</u>
+## Step 5 - Swallow the next bite
 <hr>
 
 * Repeat Step-3
 
-## <u>Step 6 - Optimize the final bites</u>
+## Step 6 - Optimize the final bites
 <hr>
 
 * Work with constraints
 * Litmus test it various edge cases
 
-## <u>Step 7 - Beware of pit falls</u>
+## Step 7 - Beware of pit falls
 <hr>
 
 * Beware of the pitfalls
