@@ -324,3 +324,28 @@ Refer [t-nut repo](http://github.balajeetm.com/t-nut/) for more details.
 
 ## [Step 7 - Beware of pit falls](http://blog.balajeetm.com/blog/2017/03/08/cracking-a-tnut/#step-7---beware-of-pit-falls)
 
+We are almost done here, aren't we?<br>
+Are we truly done though?<br>
+Let's re-look at our last retrospect.<br>
+```
+At the best case, we traverse every node twice.
+```
+That's not nice, is it?<br>
+Not at all...<br>
+I want us to better that.<br>
+
+<img src="/assets/2017-02-26/dobetter.jpg">
+
+Well, I do not want to take the fun out of the moment. That's all we live for.<br>
+We have cracked the [T-Nut](/blog/2017/02/21/technical-nuts/) and we have done great.<br>
+All I'm saying is we can do better.<br>
+
+Bask in the glory, enjoy the success and when you are ready to bite the bitter pill...<br>
+When you are ready to let go and get better, hop over.<br>
+
+Cya here soon.
+
+> Gentle reminder<br>
+All the above tricks and solutions are available in the [tnut repo](http://github.balajeetm.com/t-nut/blob/master/src/main/java/com/balajeetm/tnut/controller/ReverseSinglyLinkedList.java)<br>
+Feel free to fork/clone the same and run it on your local.<br>
+Refer [t-nut repo](http://github.balajeetm.com/t-nut/) for more details.
