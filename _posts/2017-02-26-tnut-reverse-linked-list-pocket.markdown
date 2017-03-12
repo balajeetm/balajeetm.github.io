@@ -53,7 +53,7 @@ Well, doesn't quite sit pretty in the head, but let me move on. I will let it da
 ## [Step2 - Take the first bite](/blog/2017/03/08/cracking-a-tnut/#step-2---take-the-first-bite)
 <hr>
 
-* <b><u>Visual Representation</u></b>
+* <b><u>Visual Representation</u></b><br>
 Since I can't think of any similar problem I've solved, let me try something closer to real life.<br>
 The first realistic thing that comes to my mind when you say linked list, is a train with bogies.<br>
 Let me create a 2D train with bogies representing nodes. The values of the nodes represent the solitary passenger, commuting in them<br>
@@ -154,28 +154,126 @@ Quite clear? Let's get moving then. We need to relocate passengers before the tr
 
 What would we do in such a scenario?<br>
 
-First, get a EV or a segway.<br>
+First, get a [EV](https://en.wikipedia.org/wiki/Electric_vehicle) or a [segway](https://en.wikipedia.org/wiki/Segway_PT).<br>
 Pick the 1st bogie passenger, take the EV to the nth bogie and put him there.<br>
 Pick the passenger in the nth bogie and get him to the first.<br>
-Now pick the passenger in the 2nd bogie and move all the way to n-1th bogie.<br>
-Repeat the same for all passengers, and<br>
-Reset for reversal for every n passengers.<br>
+Now pick the passenger in the 2nd bogie and move all the way to (n-1)th bogie.<br>
+Repeat the above for all passengers, and<br>
+Reset the reversal schedule for every n passengers.<br>
 
-Diagramatically, the below:<br>
+Diagrammatically, the below:<br>
 <img style="text-align: center" src="/assets/2017-02-26/brute.png">
 
 Great, let's start hacking some code now.
 
+### Brute Force Approach
+Move items one by one, revisiting every item
 
+```java
+	/* root refers to the root of the singly linked list 
+	and 'n' the group size of the sub linked list */
 
+	/* variable used to traverse every node */
+	SNode node = root;
 
+	/* variable used to keep track of the node position to identify pockets */
+	Integer nodeCount = 0;
 
+	/* variables used to performing swapping within a pocket of nodes */
+	Integer pocket = null;
+	Integer count = 0;
 
+	while (null != node) {
+		if (nodeCount % n == 0) {
+			pocket = n;
+		}
+		if (pocket > 0) {
+			count = 1;
+			SNode newPos = node;
+			while (count % pocket != 0 && newPos.getNext() != null) {
+				newPos = newPos.getNext();
+				count++;
+			}
+			swap(node, newPos);
 
+			/* -2 because, 2 nodes are out of the equation
+			 * one in front, and one in the end */
+			pocket = pocket - 2;
+		}
+		node = node.getNext();
+		nodeCount = nodeCount + 1;
+	}
+```
 
+The swap function, swaps the values of two nodes as below
+```java
+	Integer temp = node1.getData();
+	node1.setData(node2.getData());
+	node2.setData(temp);
+```
 
+> For more details refer the code @ my [tnut repo](http://github.balajeetm.com/t-nut/blob/master/src/main/java/com/balajeetm/tnut/controller/ReverseSinglyLinkedList.java)<br>
+Feel free to fork/clone the same and run it on your local.<br>
+Refer [t-nut repo](http://github.balajeetm.com/t-nut/) for more details.
 
+#### Time for Retrospective
 
+I had said [earlier](http://blog.balajeetm.com/blog/2017/03/08/cracking-a-tnut/#step-3---chew-and-swallow-the-bite), that retrospection is a critical phase of chewing on our solution.<br>
+Let see, if we our current strategy is taking us on the right path and if we can optimize.<br>
+Let's be critical, shall we?
 
+First, the solution seems to be work. Feel free to try out all cases on the swagger UI.<br>
+But look the code above, for every bogie passenger, we keep moving back and forth, and back and forth.<br>
+We keep traversing the same list, multiple times. Doesn't seem effective.<br>
 
+Thank God, there is only one passenger per bogie. If there were more... what would we do??<br>
+Wait a second, that's exactly what we would do. Why don't we pick all n passengers/bogie in a group at once?<br>
+Let's try that next up.
+
+## [Step 4 - Take more bites](http://blog.balajeetm.com/blog/2017/03/08/cracking-a-tnut/#step-4---take-more-bites)
+<hr>
+
+During our last retrospective, we realised that our logic wasn't very efficient and there was room for improvisation.<br>
+Let's adapt.<br>
+
+This time, I'll get a bigger EV and keep putting passengers from each bogie into my vehicle like in a stack.<br>
+Once all 'n' passengers have been accumulated, I'll start again from the 1st bogie and place the passenger, I 'pop' out of the vehicle.<br>
+Get it? Typical stack. This will ensure, the last bogie passenger is placed in the 1st bogie and so on.<br>
+Come let's start hacking code<br>
+
+## [Step 5 - Swallow the next bite](http://blog.balajeetm.com/blog/2017/03/08/cracking-a-tnut/#step-5---swallow-the-next-bite)
+<hr>
+
+```java
+	/* root refers to the root of the singly linked list 
+	and 'n' the group size of the sub linked list */
+	
+	/* variable used to identify the current pocket of nodes we are dealing with */
+	SNode currentRoot = root;
+	SNode node = root;
+
+	/* variable used to keep track of the node position to identify pockets */
+	Integer nodeCount = 0;
+
+	/* stack used to place nodes in appropriate positions */
+	Stack<Integer> stack = new Stack<>();
+
+	while (null != node) {
+		if (nodeCount % n == 0) {
+			relocate(stack, currentRoot);
+			currentRoot = node;
+		}
+		stack.push(node.getData());
+		node = node.getNext();
+		nodeCount = nodeCount + 1;
+	}
+```
+
+The relocate function would be a typical stack pop as below:
+```java
+	while (!stack.empty()) {
+		currentRoot.setData(stack.pop());
+		currentRoot = currentRoot.getNext();
+	}
+```
 
