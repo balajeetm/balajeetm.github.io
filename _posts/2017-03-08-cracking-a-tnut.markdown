@@ -9,9 +9,9 @@ categories: -What's-The-Fun-
 
 >In my earlier post, we saw what a [T-Nut](/blog/2017/02/21/technical-nuts/) is. We also said, moving along, we are gonna be cracking a lot of those.<br>
 But how does one go about it? What follows, is a step by step guideline, to cracking a T-Nut.<br>
-If you are looking for a quick guide to cracking a t-nut, [jump here](/blog/2017/03/09/thumbrules-to-crack-a-tnut/).<br>
+Jump over here, for a [quick guide](/blog/2017/03/09/thumbrules-to-crack-a-tnut/).<br>
 
-<img src="/assets/2017-03-08/crackingTheNut.jpg">
+<img src="/assets/2017-03-08/crackingATnut.png">
 
 ## The Thought Train
 <hr>
@@ -34,7 +34,7 @@ And what about the fruit concealing it?<br>
 What's its size, texture, and so on…<br>
 
 Basically, ask yourself, if you truly understand the problem.<br>
-Once we know the kind of fruit and get to the nut, cracking it is just one hammer away.<br>
+Once we know the kind of fruit and nut we are dealing with, cracking it is just a hammer away.<br>
 Now, why don't we understand the problem?<br>
 What's stopping us? Its our distance from the problem, distance from the [T-Nut](/blog/2017/02/21/technical-nuts/), that's making it harder, isn't it?<br>
 Let's take a closer look.<br>
@@ -47,7 +47,7 @@ Almost Never.<br>
 It is up to us to identify the problem, which is more often than not, in hiding.<br>
 
 ### <u>What does isolating mean ?</u>
-Isolating the epicarp is the process of isolating and understanding the problem statement we are trying to address<br>
+Isolating the epicarp is the process of isolating and understanding the problem statement we are trying to address, from the other verbal gibberish that shrouds it.<br>
 Sometimes, just isolating the epicarp, can almost get you to the solution.<br>
 
 ### <u>An typical example</u>
@@ -57,7 +57,7 @@ Try this [example](/blog/2017/03/10/isolate-epicarp-example/) and get back.<br>
 
 ### <u>Synopsis</u>
 
-Putting things together, The <b>typical approach</b> to cull the epicarp would be as below<br>
+Putting things together, the <b>typical approach</b> to cull the epicarp would be as below<br>
 * <b>Simplify the problem statement</b><br> 
 Jot down the naïve problem statement that you can atleast vaguely comprehend
 * <b>Extract the buzz words</b><br>
@@ -68,38 +68,38 @@ Pull out all the jargons and buzz words that hit on you and try to connect them 
 
 ### <u>Where do we begin ?</u>
 It's not often that culling the epicarp will give us the solution. It does better the visibility of the fruit and nut though... But [it aint over till the fat lady sings](https://en.wikipedia.org/wiki/It_ain't_over_till_the_fat_lady_sings).<br>
-So what do we do next? We don't know the nature of the fruit yet. How do we take a bite?<br>
+So what do we do next? The T-Nut is still not visible to the naked eye.<br>
 
 Well, 'Hunger' knows no barriers. Let's bite our way through.<br>
 
-Our first bites are always calculative right. We prefer to bite the juicy side, at least what we think is juicy.<br>
+Our first bites are always calculative right? We always prefer to bite the juicy side, or at least what we think is juicy.<br>
 
 ### <u>What's so juicy?</u>
 Juicy here is a problem area which we know to address with ease. Something that we are comfortable with...<br>
 Something the looks tasty...<br>
-So for the next bite, we will look at the fruit from an angle where it seems palatable and then take that out. Make the problem more colorful and exciting<br>
+So for the next bite, we will look at the fruit from an angle where it seems palatable and then take that out. Basically, make the problem more colorful and exciting.<br>
 
 ### <u>What's taking the bite ?</u>
 So taking the first bite is the process of looking at the problem statement through the lens of something that we already know.<br>
-Basically, try to convert it to something that you have got around of sometime before.<br>
+Transform it to a problem that you have already conquered before.<br>
 Apart from the invaluable psychological edge that it boosts, it gives you a path to start walking towards a goal.<br>
 
 ### <u>Synopsis</u>
 The <b>typical approach</b> of taking the first bite would be<br>
 * <b>Visual Representation</b><br>
-Make it more colorful and exiciting.<br>
+Make it more colorful, vivid and exciting.<br>
 Create a visual representation of the problem.
 * <b>Relatable Examples</b><br>
 Ensure to take relatable examples. If you have never seen such a problem, try to draw parallels with the real world.<br>
 If you have seen similar problems, try to keep it as close to your earlier problem as possible.
-* <b>Analyze Input Output Samples</b><br>
-Begin by analysing the input and output samples and see if we can catch some rhythm. Catch some logic.<br>
+* <b>Analyze the Input Output Samples</b><br>
+Begin by analysing the input and output samples and see if you can catch some rhythm. Catch some logic.<br>
 Try to see if you can guess the output, seeing the input. That's where we would want to start.
 * <b>Solve it mentally</b><br> 
-Let your "pristine brain" solve it. Go with the flow and mentally solve it.<br>
-We can later convert it into logic for the "computational brain"
+Let your "pristine brain" take centre stage. Go with the flow and mentally solve it.<br>
+We can work the logic around it later.
 
-## Step 3 - Swallow the initial bite
+## Step 3 - Chew the bite and swallow
 <hr>
 
 ### <u>Feel the bite</u>

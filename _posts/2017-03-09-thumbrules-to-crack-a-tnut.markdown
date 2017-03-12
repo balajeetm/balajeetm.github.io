@@ -22,19 +22,19 @@ Pull out all the jargons and buzz words that hit on you and try to connect them 
 <hr>
 
 * <b>Visual Representation</b><br>
-Make it more colorful and exiciting.<br>
+Make it more colorful, vivid and exciting.<br>
 Create a visual representation of the problem.
 * <b>Relatable Examples</b><br>
 Ensure to take relatable examples. If you have never seen such a problem, try to draw parallels with the real world.<br>
 If you have seen similar problems, try to keep it as close to your earlier problem as possible.
-* <b>Analyze Input Output Samples</b><br>
-Begin by analysing the input and output samples and see if we can catch some rhythm. Catch some logic.<br>
+* <b>Analyze the Input Output Samples</b><br>
+Begin by analysing the input and output samples and see if you can catch some rhythm. Catch some logic.<br>
 Try to see if you can guess the output, seeing the input. That's where we would want to start.
 * <b>Solve it mentally</b><br> 
-Let your "pristine brain" solve it. Go with the flow and mentally solve it.<br>
-We can later convert it into logic for the "computational brain"
+Let your "pristine brain" centre stage. Go with the flow and mentally solve it.<br>
+We can work the logic around it later.
 
-## Step 3 - Swallow the initial bite
+## Step 3 - Chew the bite and swallow
 <hr>
 
 * <b>Identify the edge cases</b><br>

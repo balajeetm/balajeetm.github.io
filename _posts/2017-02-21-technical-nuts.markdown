@@ -31,23 +31,24 @@ Compress(Technical Nut) = T-Nut :D (how funny)
 
 <img src="/assets/2017-02-21/t-nuts.png">
 
-The irony is strong in this one, isn't it? We keep blabbering about "unjargon" but end up concocting new Jargons.<br>
+T-Nut in short, is any problem statement, where we choose a logical approach to solve it.<br>
+The irony is strong in this one though, isn't it? We keep blabbering about "unjargon" but end up concocting new Jargons.<br>
 [WTF](/blog/2017/02/13/welcome-aboard/) in that?
 
 Well, Stand out of the crowd yo! Be different.<br>
 Beauty is in the eye of the beholder.<br>
 After all, It sounds so jazzy doesn't it? It gives a nice ring to even our despicable problems.<br>
 
-But T-Nut is more than just a catchy phrase.
-In T-Nut, we'll try to tackle few programming riddles.<br>
-The moto however is not to get to the solution.<br>
+Jokes apart, T-Nut is more than just a catchy phrase.
+In T-Nut, we'll try to tackle many riddles.<br>
+The moto however is not to just get to the solution.<br>
 Getting a solution is not hard nowadays. 'Oh, just google it yo.'<br>
 
 The cynosure here is the path we take to the solution and, not to forget, the detours.<br>
 Let's dissect the thought process we carry!<br>
 And learn from it.<br>
 
-T-Nut is like the seed that resides in the center of a fruit.<br>
+T-Nut is like the seed that resides in the centre of a fruit.<br>
 Small in size but herculean in stature.<br>
 The seed can open doors to new avenues, can beget and nourish enormous trees of knowledge, rooted strongly in new paradigms.<br>
 But just like in a fruit, the T-Nut as a seed, is shrouded in edible [pericarps](https://en.wikipedia.org/wiki/Fruit_anatomy#Pericarp_layers) and non-edible [epicarps](https://en.wikipedia.org/wiki/Fruit_anatomy#Epicarp).<br>
@@ -63,7 +64,7 @@ Let's sow and reap the right ones.
 ```
 
 So the focus of our stints in T-Nut, is more on the journey, than the destination.<br>
-We are not actually fixing the problem, but we are more fixing our thinking as we move along, with a stern belief, that that by itself, will automatically eradicate all problems. If not, it will atleast make us stronger to tussle with them.<br>
+We are not actually fixing the problem, but **we are more fixing our thinking as we move along**, with a stern belief, that that by itself, will automatically eradicate all problems. If not, it will at least make us more competent to tussle with them.<br>
 <b>#Trust #Faith</b>
 
 So cool huh?<br>
@@ -85,4 +86,4 @@ but in the end we come out cleaner, brighter and better than before'
 Duh!!! So cheesy!<br>
 Give me a break!
 
-> Follow my next post on how to [crack a t-nut](/blog/2017/03/08/cracking-a-tnut/), or find a simplified step by step guide [here](/blog/2017/03/09/thumbrules-to-crack-a-tnut/)
+> Follow my next post on how we'll go about [cracking a t-nut](/blog/2017/03/08/cracking-a-tnut/), or hop over to a simplified [step by step guide](/blog/2017/03/09/thumbrules-to-crack-a-tnut/)
