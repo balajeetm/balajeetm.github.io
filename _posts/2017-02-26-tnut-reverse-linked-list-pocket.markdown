@@ -14,36 +14,8 @@ The formal problem statement would be as below.<br>
 ```
 Given a singly linked list, reverse its every 'n' nodes
 ```
-
-## Prelude
-<hr>
-
-It was tea time, a platform for imbecile discussions.<br>
-Little B was deliberating over a domain change request, pertaining to a typical product shipment scenario.<br>
-In their E-Commerce world, once the product is approved for shipment, the process flow is as below<br>
-
-<img style="text-align: center" src="/assets/2017-02-26/chainOfResponsibility.png">
-
-This was implemented as a [chain of responsibility](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern), with each shipment site representing a handler with two commands.<br>
-Updating the status triggers a notification on the customer's device.<br>
-Quite often, the handler packaging the item, irrecoverably failed after status update. This lead to a series of corrective status updates which could have been prevented had the status been updated only after a successful item packaging to begin with.<br>
-
-So, the execution of commands at each shipment site was decided to be reversed<br>
-
-That’s trivial. But what was little B pondering about?. A simple swap of  commands was all it demanded.<br>
-Well, if you ever knew little B, everything was always more than what meets the eye with him.<br>
-
-He contrived a hypothetical nut which he was trying to crack - a [T-Nut](/blog/2017/02/21/technical-nuts/)<br>
-On slight improvisation, he viewed the above chain as a singly linked list. Fair enough!<br>
-The challenge he concocted was, to selectively reverse nodes on the linked list. Specifically reverse every "n" node sub groups in the big list where "n" is a variable input.<br>
-
-Interesting huh?<br>
-Hop on, let's join Little B in cracking the nut<br>
-
-The sample input and respective outputs expected are below<br>
-
 ```
-Example:
+The sample input and respective outputs expected are below
 
 Input:	1->2->3->4->5->6->NULL and n = 2
 Output:	2->1->4->3->6->5->NULL.
@@ -55,54 +27,42 @@ Output:	3->2->1->6->5->4->8->7->NULL.
 ## The Thought Train
 <hr>
 
-We are gonna use the analogy of literally chewing on an unknown nut, to crack this T-Nut.<br>
-Being close to reality always helps.<br>
+Let's begin [cracking the T-Nut](/blog/2017/03/08/cracking-a-tnut/), shall we?
+Like always, we are gonna use the analogy of literally chewing on an unknown fruit, to crack this [T-Nut](/blog/2017/02/21/technical-nuts/).<br>
+Let's follow this [step by step guide](/blog/2017/03/09/thumbrules-to-crack-a-tnut/) as we do so.
 
-Let's begin<br>
+## [Step1 - Isolate the epicarp](/blog/2017/03/08/cracking-a-tnut/#step-1---isolate-the-epicarp)
+<hr>
 
-### <u>Step 1 - Chew and Swallow</u>
+The epicarp is already culled for us. Let's re-look at the problem statement<br>
 
-Before we begin cracking the nut, let's make sure we understand the nut.<br>
-Is it a groundnut, peanut or walnut ?<br> 
-What's its size, texture, and so on ?<br>
-Basically, ask yourself, if you understand the problem.<br>
+* <b><u>The Naïve Problem Statement</u></b><br>
+This as I understand is to reverse a linked list with some constraints<br>
 
-Before taking subsequent bites, take out a small piece and start to chew on it.<br>
-When you chew the initial bite, we generally focus on the aspects of the food that we like.<br>
-On the same lines, focus on the aspects of the problem, that you can take away. Mainly,<br> 
-* Jot down the <u>naïve problem statement</u> that you can atleast vaguely comprehend
-* Extract <u>the buzz words</u> that hit on you
-
-Lets start chewing then, shall we?<br>
-
-<b><u>The Naïve Problem Statement</u></b> - as I understand is to reverse a linked list with some constraints<br>
-
-Let me nibble on <b><u>The Buzz Words</u></b> now
+* Let me nibble on <b><u>The Buzz Words</u></b> now
 
 <u>Singly Linked List</u><br>
 What do I get out of this?
-* The size is not available out of the box. 
-* The size can be tremendously huge
-* I cannot access an item based on index/position. I need to get to every item
-* The traversal is unidirectional. We cannot move back and forth, it like driving in a one way street
+* Size is unavailable and can be tremendously huge
+* Cannot access an item based on index/position. I need to get to every item
+* The traversal is unidirectional. We cannot move back and forth.
 
-So far so good
+<u>Reverse in blocks of "n"</u><br>
+Well, doesn't quite sit pretty in the head, but let me move on. I will let it dawn on me.
 
-<u>Reverse in groups</u><br>
-I need to reverse the order of nodes. But reverse them in blocks of "n".<br>
-Well, doesn't quite sit pretty in the head, does it? But good, let me move on.
+## [Step2 - Take the first bite](/blog/2017/03/08/cracking-a-tnut/#step-2---take-the-first-bite)
+<hr>
 
-Ok, we've chewed it a bit.<br>
-What next? Let's swallow what we chewed<br>
-When you generally swallow, you let your relished bite flow through your esophagus, smoothly into the bowels.<br>
-Similarly, let's get some logic to flow through and help us connect the dots.<br>
-You can do this mentally, scribble on paper or start hacking some code.<br>
+* <b><u>Visual Representation</u></b>
+Since I can't think of any similar problem I've solved, let me try something closer to real life.<br>
+The first realistic thing that comes to my mind when you say linked list, is a train with bogies.<br>
+Let me create a 2D train with bogies representing nodes. The values of the nodes represent the solitary passenger, commuting in them<br>
 
-Lets begin analysing the input and output samples and see if we can catch some rhythm. Catch some logic.<br>
-Let your "pristine brain" solve it.<br>
-
-Ok, let's see<br>
-Do we understand the input, output samples<br>
+<img style="text-align: center" src="/assets/2017-02-26/train.png">
+	
+* <b><u>Analyze input output samples</u></b>
+* <b><u>Solve it mentally</u></b>
+Let's see if I understand the input, output samples<br>
 
 ```
 Input:
@@ -122,6 +82,12 @@ Putting them together
 2->1->4->3->6->5->NULL
 ```
 
+Alright, feels like I can now guess that output from the input. Time to chew on the bite now.
+
+## [Step3 - Chew and swallow the bite]
+<hr>
+
+* <b><u>Identify edge cases</u></b>
 In the second sample, we have
 
 ```
@@ -131,49 +97,67 @@ And n=3
 ```
 
 ```
-So let me reverse the first three elements
+So let me reverse group of three elements
 3->2->1
 
-Then, the next three
 6->5->4
 
-And then, the last three
 8->7
 
 Putting them together
 3->2->1->6->5->4->8->7->NULL
 ```
 
-**Ok, there is an edge case, If 3 elements are not available, it should sort whatever is available.**
+Ok, there is an edge case, If 3 elements are not available, **it should sort whatever is available.**
 That’s a good catch.
 
-Great… We have chewed and swallowed.<br>
-Let us take the next bite.
+Also, let's try to garnish that logic now
 
-### <u>Step 2 - Bite the juicy side</u>
+* <b><u>Create a logical flow</u></b><br>
+Let me first see how Mr.Pristine went about it<br><br>
+He first split the linked list in batches of "n"<br>
+He then reversed the sub link list<br>
 
-Alright, we've kind of got the flavour of nut as we chewed it. We seem to like it.<br>
-We want more, but we wouldn't take a random bite, would we? Let's pick the juicy areas.<br>
+Penning down a logic flow for the same
+* Splitting a linked list<br>
+This should be straight forward, I keep moving across the list and pick "n" nodes
 
-So, for the next bite, we will look at the nut from an angle where it seems palatable and then take that out.<br>
-How do we do that?<br>
-We'll create a visual representation of the problem, something we can relate to easily. Let's try something closer to real life, to begin.<br>
+<b style="color:red">Markers</b><br>
+<b>How do I work on the picked ones? Should I make a copy of them all, or use the existing nodes?</b><br>
+To try answering these, let us connect back to our visual representation.<br>
+		
+I may end up making a copy of the whole train. I mean that’s freaking bulky and not space effective.<br>
+(See? Visualizing helps you understand the inefficiencies sometimes)<br>
+<b style="color:red">Markers<Alert!></b> Keep a bookmark of this please, we'll get back to this soon
+		
+* Reversing a linked list<br>
+How did Mr.Pristine do that?<br>
 
-The first realistic thing that comes to my mind when you say linked list, is a train with bogies.<br>
-Let me create a 2D train with bogies representing nodes. The values of the nodes represent the solitary passenger, commuting in them<br>
+Well he went to the last item in each sub-list. And then put the numbers in reverse.
+Hey… wait… WTF in that? How can he do that?<br>
+You cannot traverse back in a singly linked list, can you?<br>
+But for Mr Pristine, there is no such thing as a singly linked list. There are no constraints. He just started walking in reverse direction. Cheater!
 
-<img style="text-align: center" src="/assets/2017-02-26/train.png">
-	
-That helps, doesn't it? The problem kind of feels colorful now<br>
-Now that we see the juicy side of things, let's take the bite.<br>
+As we call out the bluff of Mr.Pristine, let's emphasize the constraints for him.<br>
+Let's present the problem through our train analogy adding an explicit constraint<br>
+Even in train bogies, we can move back and forth, so,<br>
+'Assume there is a guard standing at the door preventing you from going back. He will only let you go forward'<br>
+So we have a physical separation through bogies and we've also ensured unidirectional movement<br>
 
-Taking a bite is synonymous to doing analysis.<br>
-This time, let's dig out the logic, that the 'pristine brain' natively followed to grasp the problem.<br>
-Also, let's try to garnish that logic into a programming stereotype.
+### <u>What is the problem statement now?</u>
+What does reversing mean?<br>
+We need to make sure the passengers in bogies are relocated. And the relocation constraint is reversal in blocks of 'n'.<br>
+Crystal clear.<br>
 
-Personifying the 'pristine brain", as Mr.Pristine, what were the steps he followed
-	· He first split the linked list in batches of "n"
-	· He then reversed the sub link list
+How would we that in such a scenario?<br>
+
+First, get a EV or a segway.<br>
+Pick the 1st bogie passenger, take the EV to the nth bogie and put him there.<br>
+Pick the passenger in the nth bogie and get him to the first.<br>
+Now pick the passenger in the 2nd bogie and move all the way to n-1th bogie.<br>
+Repeat, and redo for passengers from n+1 th bogies.<br>
+
+Great, let's code this now.
 
 
 

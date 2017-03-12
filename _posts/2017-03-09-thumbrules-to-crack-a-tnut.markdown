@@ -34,13 +34,13 @@ Try to see if you can guess the output, seeing the input. That's where we would 
 Let your "pristine brain" centre stage. Go with the flow and mentally solve it.<br>
 We can work the logic around it later.
 
-## Step 3 - Chew the bite and swallow
+## Step 3 - Chew and swallow the bite
 <hr>
 
 * <b>Identify the edge cases</b><br>
 Re look at the samples and try to identify some anomalies or edge cases, apparent in the samples provided.
-* <b>Program some logic</b><br>
-Begin with naïve "pristine brain" approach and see if you can convert that to a programming logic. Make tweaks in the thinking if need be.
+* <b>Create a logical flow</b><br>
+Begin with naïve "pristine brain" approach and see if you can convert that to a programming logic or logical diagram. Make tweaks in the thinking if need be.
 * <b>Retrospect</b><br>
 Keep asking yourself if you are going towards the goal with your current approach.<br>
 Moving fast is useless, if you are moving in the wrong direction.<br>

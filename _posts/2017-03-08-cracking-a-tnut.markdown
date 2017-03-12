@@ -20,7 +20,7 @@ Any problem solving is like cracking a nut. So, we are gonna use the analogy of 
 Remember, just like in a fruit, the T-Nut as a seed, is shrouded in edible [pericarps](https://en.wikipedia.org/wiki/Fruit_anatomy#Pericarp_layers) and non-edible [epicarps](https://en.wikipedia.org/wiki/Fruit_anatomy#Epicarp).<br>
 As we march towards the [T-Nut](/blog/2017/02/21/technical-nuts/), we need to cull the epicarp and swallow the pericarp.<br>
 
-<img src="/assets/2017-03-08/pericarp.jpg">
+<img src="/assets/2017-03-08/pericarp.png">
 
 Let's begin then<br>
 
@@ -99,10 +99,10 @@ Try to see if you can guess the output, seeing the input. That's where we would 
 Let your "pristine brain" take centre stage. Go with the flow and mentally solve it.<br>
 We can work the logic around it later.
 
-## Step 3 - Chew the bite and swallow
+## Step 3 - Chew and swallow the bite
 <hr>
 
-### <u>Feel the bite</u>
+### <u>Chew on the bite</u>
 When we chew on a tasty fruit, we generally focus on the aspects of the fruit that we like.<br>
 Its sweetness, juice, color, etc<br>
 On similar lines, as we chew on our initial bite focus on the aspects of the problem, and the take aways.<br>
@@ -123,11 +123,11 @@ Try not to force a solution though... let it be smooth<br>
 The way we swallow greatly influences the next bites we would take. Try to not make it hard for ourselves to take subsequent bites<br>
 
 ### <u>Synopsis</u>
-The <b>typical</b> process of feeling the first bite would be as below<br>
+The <b>typical</b> process of chewing on and swallowing the bite would be as below<br>
 * <b>Identify the edge cases</b><br>
 Re look at the samples and try to identify some anomalies or edge cases, apparent in the samples provided.
-* <b>Program some logic</b><br>
-Begin with naïve "pristine brain" approach and see if you can convert that to a programming logic. Make tweaks in the thinking if need be.
+* <b>Create a logical flow</b><br>
+Begin with naïve "pristine brain" approach and see if you can convert that to a programmable logic or logical diagram. Make tweaks in the thinking if need be.
 * <b>Retrospect</b><br>
 Keep asking yourself if you are going towards the goal with your current approach.<br>
 Moving fast is useless, if you are moving in the wrong direction.<br>
@@ -135,11 +135,13 @@ If the approach seems complicated, give it some rest and try something else.
 
 <b><u>Note</u></b>
 
-More often than not, you will be unable to transform the "pristine brain" logic to a programmable code.<br>
+More often than not, you will be unable to transform the "pristine brain" logic to a logical flow.<br>
 This is because the "pristine brain" works very differently than the "logical brain".<br>
 Just because you solved something mentally, doesn't always mean you can write a program for it. It is for this reason, that we get stuck most of times when we try to pen something down.<br>
-Now do you see why interviewers insist us to write code?<br>
+```
+Now do you see why interviewers insist us to write code?
 This is not to test your syntax strength but to identify some pitfalls in your reasoning.
+```
 
 But remember, our pristine brain is extremely adaptable. The more of such problems we solve, the more efficient it will become in working with these types of constraints. And for this reason, we will be cracking a lot of such [T-Nuts](/blog/2017/02/21/technical-nuts/).
 	
