@@ -44,7 +44,7 @@ This as I understand is to reverse a linked list with some constraints<br>
 <u>Singly Linked List</u><br>
 What do I get out of this?<br>
 i. Size is unavailable and can be tremendously huge<br>
-ii. Cannot access an item based on index/position. I need to get to every item<br>
+ii. An item cannot be accessed based on index/position. I need to get to every item<br>
 iii. The traversal is unidirectional. We cannot move back and forth.<br>
 
 <u>Reverse in blocks of "n"</u><br>
@@ -61,7 +61,7 @@ Let me create a 2D train with bogies representing nodes. The values of the nodes
 <img style="text-align: center" src="/assets/2017-02-26/train.png">
 	
 * <b><u>Analyze input output samples</u></b>
-* <b><u>Solve it mentally</u></b>
+* <b><u>Solve it mentally</u></b><br>
 Let's see if I understand the input, output samples<br>
 
 ```
@@ -82,7 +82,7 @@ Putting them together
 2 -> 1 -> 4 -> 3 -> 6 -> 5 -> NULL
 ```
 
-Alright, feels like I can now guess that output from the input. Time to chew on the bite now.
+Alright, feels like now, I can easily guess the output from the input. Time to chew on the bite now.
 
 ## [Step3 - Chew and swallow the bite](http://blog.balajeetm.com/blog/2017/03/08/cracking-a-tnut/#step-3---chew-and-swallow-the-bite)
 <hr>
@@ -97,7 +97,7 @@ And n=3
 ```
 
 ```
-So let me reverse group of three elements
+So let me reverse, group of three elements
 3 -> 2 -> 1
 
 6 -> 5 -> 4
@@ -108,7 +108,7 @@ Putting them together
 3 -> 2 -> 1 -> 6 -> 5 -> 4 -> 8 -> 7 -> NULL
 ```
 
-Ok, there is an edge case, If 3 elements are not available, **it should sort whatever is available.**
+Ok, there is an edge case. If 3 elements are not available, **it should reverse whatever is available.**
 That’s a good catch.
 
 Let me try to garnish some logic now
@@ -118,26 +118,28 @@ Let me first see how Mr.Pristine went about it<br>
 i. He first split the linked list in batches of "n"<br>
 ii. He then reversed the sub link list<br>
 
-Trying to pen down a logic flow for the same<br>
+Let me pen down a logic flow for the same<br>
 
-* Splitting a linked list<br>
+<u>Splitting a linked list</u><br>
 This should be straight forward, I keep moving across the list and pick "n" nodes
 
 <b style="color:red">Markers</b><br>
-<b>How do I work on the picked ones?</b>Should I make a copy of them all, or use the existing nodes?<br>
-Let me connect back to our visual representation, to try answering that.<br>
+<b>How do I work on the picked ones?</b><br>
+Should I make a copy of them all, or use the existing nodes?<br>
+Let me connect back to my visual representation, to try answering that.<br>
 		
 If I choose to copy, I may end up making a copy of the whole train. I mean that’s freaking bulky and not space effective.<br>
 (See? Visualizing helps you understand the inefficiencies sometimes)<br>
 <b style="color:red"><Bookmark Alert!></b> Keep a bookmark of this please, we'll get back to this soon
 		
-* Reversing a linked list<br>
+<u>Reversing a linked list</u><br>
 How did Mr.Pristine do that?<br>
 
-Well he went to the last item in each sub-list. And then put the numbers in reverse.
+Well he went to the last item in each sub-list, and then put the numbers in reverse.<br>
 Hey… wait… WTF in that? How can he do that?<br>
-You cannot traverse back in a singly linked list, can you?<br>
-But for Mr Pristine, there is no such thing as a singly linked list. There are no constraints. He just started walking in reverse direction. Cheater!
+I thought, you cannot traverse back in a singly linked list!!<br>
+
+But for Mr Pristine, there is no such thing as a singly linked list. There are no constraints. The cheater just started walking in reverse direction.
 
 As we call out the bluff of Mr.Pristine, let's emphasize the constraints for him.<br>
 Let's present the problem through our train analogy adding an explicit constraint<br>
@@ -148,7 +150,7 @@ So we have a physical separation through bogies and we've also ensured unidirect
 ### <u>Redefined problem statement</u>
 With all those analogies, what does reversing now mean?<br>
 We need to make sure the passengers in bogies are relocated. And the relocation constraint is reversal in blocks of 'n'.<br>
-Crystal clear?<br>
+Quite clear? Let's get moving then. We need to relocate passengers before the train starts!<br>
 
 What would we do in such a scenario?<br>
 
@@ -156,12 +158,13 @@ First, get a EV or a segway.<br>
 Pick the 1st bogie passenger, take the EV to the nth bogie and put him there.<br>
 Pick the passenger in the nth bogie and get him to the first.<br>
 Now pick the passenger in the 2nd bogie and move all the way to n-1th bogie.<br>
-Repeat, and redo for passengers from n+1 th bogies.<br>
+Repeat the same for all passengers, and<br>
+Reset for reversal for every n passengers.<br>
 
 Diagramatically, the below:<br>
 <img style="text-align: center" src="/assets/2017-02-26/brute.png">
 
-Great, let's code this now.
+Great, let's start hacking some code now.
 
 
 
