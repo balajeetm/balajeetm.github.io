@@ -170,53 +170,53 @@ Great, let's start hacking some code now.
 Move items one by one, revisiting every item
 
 ```java
-	/* root refers to the root of the singly linked list 
-	and 'n' the group size of the sub linked list */
+/* root refers to the root of the singly linked list 
+and 'n' the group size of the sub linked list */
 
-	/* variable used to traverse every node */
-	SNode node = root;
+/* variable used to traverse every node */
+SNode node = root;
 
-	/* variable used to keep track of the node position to identify pockets */
-	Integer nodeCount = 0;
+/* variable used to keep track of the node position to identify pockets */
+Integer nodeCount = 0;
 
-	/* variables used to performing swapping within a pocket of nodes */
-	Integer pocket = null;
-	Integer count = 0;
+/* variables used to performing swapping within a pocket of nodes */
+Integer pocket = null;
+Integer count = 0;
 
-	while (null != node) {
-		if (nodeCount % n == 0) {
-			pocket = n;
-		}
-		if (pocket > 0) {
-			count = 1;
-			SNode newPos = node;
-			while (count % pocket != 0 && newPos.getNext() != null) {
-				newPos = newPos.getNext();
-				count++;
-			}
-			swap(node, newPos);
-
-			/* -2 because, 2 nodes are out of the equation
-			 * one in front, and one in the end */
-			pocket = pocket - 2;
-		}
-		node = node.getNext();
-		nodeCount = nodeCount + 1;
+while (null != node) {
+	if (nodeCount % n == 0) {
+		pocket = n;
 	}
+	if (pocket > 0) {
+		count = 1;
+		SNode newPos = node;
+		while (count % pocket != 0 && newPos.getNext() != null) {
+			newPos = newPos.getNext();
+			count++;
+		}
+		swap(node, newPos);
+
+		/* -2 because, 2 nodes are out of the equation
+		 * one in front, and one in the end */
+		pocket = pocket - 2;
+	}
+	node = node.getNext();
+	nodeCount = nodeCount + 1;
+}
 ```
 
 The swap function, swaps the values of two nodes as below
 ```java
-	Integer temp = node1.getData();
-	node1.setData(node2.getData());
-	node2.setData(temp);
+Integer temp = node1.getData();
+node1.setData(node2.getData());
+node2.setData(temp);
 ```
 
 > For more details refer the code @ my [tnut repo](http://github.balajeetm.com/t-nut/blob/master/src/main/java/com/balajeetm/tnut/controller/ReverseSinglyLinkedList.java)<br>
 Feel free to fork/clone the same and run it on your local.<br>
 Refer [t-nut repo](http://github.balajeetm.com/t-nut/) for more details.
 
-#### Time for Retrospective
+<b><u>Time for Retrospective</u></b>
 
 I had said [earlier](http://blog.balajeetm.com/blog/2017/03/08/cracking-a-tnut/#step-3---chew-and-swallow-the-bite), that retrospection is a critical phase of chewing on our solution.<br>
 Let see, if we our current strategy is taking us on the right path and if we can optimize.<br>
@@ -245,35 +245,82 @@ Come let's start hacking code<br>
 <hr>
 
 ```java
-	/* root refers to the root of the singly linked list 
-	and 'n' the group size of the sub linked list */
-	
-	/* variable used to identify the current pocket of nodes we are dealing with */
-	SNode currentRoot = root;
-	SNode node = root;
+/* root refers to the root of the singly linked list 
+and 'n' the group size of the sub linked list */
 
-	/* variable used to keep track of the node position to identify pockets */
-	Integer nodeCount = 0;
+/* variable used to identify the current pocket of nodes we are dealing with */
+SNode currentRoot = root;
+SNode node = root;
 
-	/* stack used to place nodes in appropriate positions */
-	Stack<Integer> stack = new Stack<>();
+/* variable used to keep track of the node position to identify pockets */
+Integer nodeCount = 0;
 
-	while (null != node) {
-		if (nodeCount % n == 0) {
-			relocate(stack, currentRoot);
-			currentRoot = node;
-		}
-		stack.push(node.getData());
-		node = node.getNext();
-		nodeCount = nodeCount + 1;
+/* stack used to place nodes in appropriate positions */
+Stack<Integer> stack = new Stack<>();
+
+while (null != node) {
+	if (nodeCount % n == 0) {
+		relocate(stack, currentRoot, n);
+		currentRoot = node;
 	}
+	stack.push(node.getData());
+	node = node.getNext();
+	nodeCount = nodeCount + 1;
+}
 ```
 
 The relocate function would be a typical stack pop as below:
 ```java
-	while (!stack.empty()) {
-		currentRoot.setData(stack.pop());
-		currentRoot = currentRoot.getNext();
-	}
+Integer count = 1;
+while (count!=n) {
+	currentRoot.setData(stack.pop());
+	currentRoot = currentRoot.getNext();
+	count++;
+}
 ```
+
+<b><u>Time for Retrospective</u></b><br>
+
+The solution looks pretty neat. But let's be critical.<br>
+At even the best case, we need to traverse every node in the list twice.<br>
+Once to pick the member from the bogie and again to put the right member in place.<br>
+The stack atleast made the code neat. Guess we are getting to the end of this<br>
+Let's carefully nibble the remnants.
+
+> For more details refer the code @ my [tnut repo](http://github.balajeetm.com/t-nut/blob/master/src/main/java/com/balajeetm/tnut/controller/ReverseSinglyLinkedList.java)<br>
+Feel free to fork/clone the same and run it on your local.<br>
+Refer [t-nut repo](http://github.balajeetm.com/t-nut/) for more details.
+
+## [Step 6 - Optimize the final bites](http://blog.balajeetm.com/blog/2017/03/08/cracking-a-tnut/#step-6---optimize-the-final-bites)
+<hr>
+
+Let's critically evaluate the code and see if there is an opening<br>
+Some edge case, some NPE... something<br>
+
+Oh, the relocation function seems a little botched up.<br>
+It seems to be counting till the pocket size "n", but the typical edge case we identified through the sample input itself would fail in this case.<br>
+We would get a index out of bound. Using the counter is not so catchy. Let's try something cheesy.<br>
+
+```java
+while (!stack.empty()) {
+	currentRoot.setData(stack.pop());
+	currentRoot = currentRoot.getNext();
+}
+```
+
+What else?<br>
+What about a empty input scenario? Seems to work.<br>
+What about a pocket size of 1 (n=1)? That seems to work as well.<br>
+
+Hey, there seems to be another case.<br>
+The logic seems to empty the stack filled in one cycle, only in the subsequent cycle.<br>
+Which means, the last set of 'n' passengers will never be put in place.<br>
+Bah!!! That's because we are done traversing the list. Let's fix that.<br>
+We need to call relocate again after the while loop. That does it.<br>
+
+> For more details refer the code @ my [tnut repo](http://github.balajeetm.com/t-nut/blob/master/src/main/java/com/balajeetm/tnut/controller/ReverseSinglyLinkedList.java)<br>
+Feel free to fork/clone the same and run it on your local.<br>
+Refer [t-nut repo](http://github.balajeetm.com/t-nut/) for more details.
+
+## [Step 7 - Beware of pit falls](http://blog.balajeetm.com/blog/2017/03/08/cracking-a-tnut/#step-7---beware-of-pit-falls)
 
