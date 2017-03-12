@@ -130,7 +130,7 @@ Let me connect back to my visual representation, to try answering that.<br>
 		
 If I choose to copy, I may end up making a copy of the whole train. I mean that’s freaking bulky and not space effective.<br>
 (See? Visualizing helps you understand the inefficiencies sometimes)<br>
-<b style="color:red"><Bookmark Alert!></b> Keep a bookmark of this please, we'll get back to this soon
+<b style="color:red" id="bookmark1"><Bookmark Alert!></b> Keep a bookmark of this please, we'll get back to this soon
 		
 <u>Reversing a linked list</u><br>
 How did Mr.Pristine do that?<br>
@@ -216,7 +216,7 @@ node2.setData(temp);
 Feel free to fork/clone the same and run it on your local.<br>
 Refer [t-nut repo](http://github.balajeetm.com/t-nut/) for more details.
 
-<b><u>Time for Retrospective</u></b>
+<b id="retrospect1"><u>Time for Retrospective</u></b>
 
 I had said [earlier](http://blog.balajeetm.com/blog/2017/03/08/cracking-a-tnut/#step-3---chew-and-swallow-the-bite), that retrospection is a critical phase of chewing on our solution.<br>
 Let see, if we our current strategy is taking us on the right path and if we can optimize.<br>
@@ -279,11 +279,11 @@ while (count!=n) {
 }
 ```
 
-<b><u>Time for Retrospective</u></b><br>
+<b id="retrospect2"><u>Time for Retrospective</u></b><br>
 
 The solution looks pretty neat. But let's be critical.<br>
 At even the best case, we need to traverse every node in the list twice.<br>
-Once to pick the member from the bogie and again to put the right member in place.<br>
+Once, to pick the member from the bogie and again, to put the right member in place.<br>
 The stack atleast made the code neat. Guess we are getting to the end of this<br>
 Let's carefully nibble the remnants.
 
@@ -323,6 +323,7 @@ Feel free to fork/clone the same and run it on your local.<br>
 Refer [t-nut repo](http://github.balajeetm.com/t-nut/) for more details.
 
 ## [Step 7 - Beware of pit falls](http://blog.balajeetm.com/blog/2017/03/08/cracking-a-tnut/#step-7---beware-of-pit-falls)
+<hr>
 
 We are almost done here, aren't we?<br>
 Are we truly done though?<br>
