@@ -342,9 +342,9 @@ We have cracked the [T-Nut](/blog/2017/02/21/technical-nuts/) and we have done g
 All I'm saying is we can do better.<br>
 
 Bask in the glory, enjoy the success and when you are ready to bite the bitter pill...<br>
-When you are ready to let go and get better, hop over.<br>
+When you are ready to let go and get better, [hop over](/blog/2017/03/12/tnut-reverse-linked-list-pocket-finale/).<br>
 
-Cya here soon.
+Cya [here](/blog/2017/03/12/tnut-reverse-linked-list-pocket-finale/) soon.
 
 > Gentle reminder<br>
 All the above tricks and solutions are available in the [tnut repo](http://github.balajeetm.com/t-nut/blob/master/src/main/java/com/balajeetm/tnut/controller/ReverseSinglyLinkedList.java)<br>
