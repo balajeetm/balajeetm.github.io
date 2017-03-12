@@ -194,4 +194,14 @@ return prev;
 Feel free to fork/clone the same and run it on your local.<br>
 Refer [t-nut repo](http://github.balajeetm.com/t-nut/) for more details.
 
+So, there is you see...<br>
+We did it. A more efficient solution.<br>
+With a single traversal.<br>
+All it needed was a change in perspective...<br>
+A change in the way we have been looking at thing for so long.<br>
+
+I wonder how many real world issues would be solved, if people around the globe start doing that.<br>
+<b>#Trust... #Faith</b>
+
+See you until next time...<br>
 Have fun unjargoning!
