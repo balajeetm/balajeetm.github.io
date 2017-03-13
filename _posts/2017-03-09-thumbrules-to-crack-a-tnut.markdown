@@ -10,6 +10,8 @@ categories: Thumb-rules
 >In my earlier post, we saw what a [T-Nut](/blog/2017/02/21/technical-nuts/) is and how we go about [cracking a T-Nut](/blog/2017/03/08/cracking-a-tnut)<br>
 Below is the short step by step guide on how we crack it.
 
+<img src="/assets/2017-03-09/steps.png">
+
 ## Step 1 - Isolate the <a href="https://en.wikipedia.org/wiki/Fruit_anatomy#Epicarp">epicarp</a>
 <hr>
 
@@ -68,3 +70,10 @@ If the approach seems complicated, give it some rest and try something else.
 
 * Beware of the pitfalls
 * Let go and feel comfortable to start all over again
+
+>Step 4 and Step 5 are explicit steps in order to force you to retrospect and consider the feedback in your next logic cycle.<br>
+Once this idea is clear, the whole process of [cracking a t-nut](/blog/2017/03/08/cracking-a-tnut/) is more simiplified as below :
+
+<img src="/assets/2017-03-09/simplesteps.png">
+
+

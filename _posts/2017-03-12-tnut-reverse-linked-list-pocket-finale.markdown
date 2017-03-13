@@ -28,7 +28,7 @@ We followed our [thumbrules](/blog/2017/03/09/thumbrules-to-crack-a-tnut/) and c
 
 We were on the last leg, retrospecting our solution and [identifying pitfalls](/blog/2017/02/26/tnut-reverse-linked-list-pocket/#step-7---beware-of-pit-falls), raring to close the chapter.<br>
 
-We are almost done here, aren't we?<br>
+Seems like we are almost done here, aren't we?<br>
 You think so? Let's re-look at our [last retrospect](/blog/2017/02/26/tnut-reverse-linked-list-pocket/#retrospect2).<br>
 ```
 At the best case, we traverse every node twice.
@@ -36,7 +36,7 @@ At the best case, we traverse every node twice.
 That's not nice, is it? And you know what, we can do better than that.<br>
 
 I know what you might be thinking now..<br>
-What? That solution seems like the best given the constraints.<br>
+**What? That solution seems like the best given the constraints.**<br>
 We even optimized the [initial solution](/blog/2017/02/26/tnut-reverse-linked-list-pocket/#step3---chew-and-swallow-the-bite).<br>
 How can I do better than that?<br>
 
@@ -51,10 +51,10 @@ Can we? Do you think there is a possibility?<br>
 Well, the chips are down isn't it?<br>
 That seems like the best effort, given the constraints huh?<br>
 
-Take it from me, that you will be in similar situations many a times in real life.<br>
+Take it from me... you will be in similar situations, many a times in real life.<br>
 It would seem like you gave the best you could, but it's just not good enough.<br>
 Think about it…<br>
-* A Performance optimization that you spent sleepless nights for but still not up to the mark<br>
+* A Performance optimization that you spent sleepless nights brooding over, but still not up to the mark<br>
 * A cricket chase which almost gets your team there but just short of the finish line.<br>
 How many of you remember Sachin's epics in [Chennai](http://www.espncricinfo.com/ci/engine/current/match/63828.html) and [Hyderabad](http://www.espncricinfo.com/ci/engine/current/match/416240.html)?<br>
 * Losing the qualifiers by milliseconds in a 100m sprint?<br>
@@ -71,7 +71,7 @@ Those are times when I love to remember this awesome quote from [Christopher Nol
 When things get dense and it feels like you have hit a dead end, that is when we need to pivot.<br>
 These are times, to let go and look at the problem from a completely different perspective.<br>
 And I do understand, letting go is hard.<br>
-But there are scenarios out there, where you will not get another chance. So harden yourself though these little failures on irrelevant [T-Nuts]((/blog/2017/02/21/technical-nuts/).<br>
+But there are scenarios out there, where you will not get another chance. So harden yourself though these little failures on irrelevant [T-Nuts](/blog/2017/02/21/technical-nuts/).<br>
 Frankly, I would take these failures any day compared to some bigger ones out there.
 
 ## The Pitfalls
@@ -97,18 +97,26 @@ So the train analogy forces us to keep bogies fixed because the bogies feel bulk
 Remember the [bookmark]((/blog/2017/02/26/tnut-reverse-linked-list-pocket/#bookmark1)) again, we said copying a bogie is bulky but in our solution, we pushed data/passangers to the stack.<br>
 
 Take the train analogy away, is there anything apart from the data in the node that is heavy?<br>
-So if you are copying the data, you are literally copying the bogie.<br>
+So if you are copying the data, aren't you literally copying the bogie? Whooo! That's heavy...<br>
 
 **Important Lesson to here**
 ```
 Analogy is not actual
 ```
 An analogy might help us understand a problem better but once we get comfortable, we need to see the problem the way it is, the actual way it really is.<br>
+```
+Learn to grow out of the analogy.
+Spread your wings and fly.
+```
 
 ## Arise, Awake and Stop not till the goal is reached
 
 * <b>A better analogy</b><br>
-So, let's try something different.<br>
+Guess it's time for us to let go. I know, we worked so hard on it and strode our way to the solution.<br>
+But we need to do better, so let's move on!<br>
+There ought to be more exciting journeys round the bend.<br>
+ 
+Let's try something different this time to understand a linked list.<br>
 Have you heard of the [human dominoes](https://www.youtube.com/watch?v=TE5RdFFgW0w) or the human train like the one below?<br>
 
 <img src="/assets/2017-03-12/humanTrain.png">
@@ -116,18 +124,23 @@ Have you heard of the [human dominoes](https://www.youtube.com/watch?v=TE5RdFFgW
 This is no different from a singly linked list isn't it? It's in fact more closer to its unidirectional constraint.<br>
 Let's assume the human train of a large number of humans, say 100, is going in one direction.<br>
 Now if I suddenly ask it to move in the opposite direction, what do you think they would do?<br>
-Would we move the first person to last position and vice versa?<br>
-That would take really long, won't it?<br>
-Instead, each person would just flip direction individually, don't you think?<br>
+Would we move the first person to last position, vice versa and so on...?<br>
 
-So, what exactly does flipping directions mean, it means flipping the link between nodes.<br>
+That would take really long, won't it?<br>
+Instead...<br>
+each person, I believe, would just flip direction individually, don't you think?<br>
+
+So, what exactly does flipping directions mean?<br>
+**It means flipping the link between nodes.**<br>
+
 That's it. See, a better analogy and the links are flexible now.<br>
 But remember
 
 ```
 A train is as valid a linked list as a human dominoes.
 So based on the problem statement use the right one.
-Learn to grow beyond the analogies. 
+Learn to grow beyond the analogies.
+Spread thy wings! 
 ```
 
 What more? This is exactly our problem statement as well.<br>
@@ -138,13 +151,13 @@ Whenever you use stacks as a core tool in your logic rather than a data structur
 
 ```
 There is an implicit stack for use in our programming model.
-The call stack.
+The "call stack".
 ```
 
 One efficient way of using the call stack is recursion.<br>
 We'll delve into the details of recursion is some other post, but keep this in your mind.<br>
 
-Typical cases of recursion<br>
+<u>Typical cases of recursion</u><br>
 * Usage of stacks as core logic rather than data structures
 * Ability to break a problem to the same problem of smaller magnitudes
 	
@@ -198,7 +211,7 @@ So, there is you see...<br>
 We did it. A more efficient solution.<br>
 With a single traversal.<br>
 All it needed was a change in perspective...<br>
-A change in the way we have been looking at thing for so long.<br>
+A change in the way we have been looking at things for so long.<br>
 
 I wonder how many real world issues would be solved, if people around the globe start doing that.<br>
 <b>#Trust... #Faith</b>
