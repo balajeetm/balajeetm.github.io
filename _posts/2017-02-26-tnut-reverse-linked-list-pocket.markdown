@@ -350,3 +350,36 @@ Cya [here](/blog/2017/03/12/tnut-reverse-linked-list-pocket-finale/) soon.
 All the above tricks and solutions are available in the [tnut repo](http://github.balajeetm.com/t-nut/blob/master/src/main/java/com/balajeetm/tnut/controller/ReverseSinglyLinkedList.java)<br>
 Feel free to fork/clone the same and run it on your local.<br>
 Refer [t-nut repo](http://github.balajeetm.com/t-nut/) for more details.
+
+## Where did the problem originate?
+
+How many of you are excited by [etymology](https://en.wikipedia.org/wiki/Etymology)?<br>
+It's always fun to know where things originate from, isn't it?<br>
+More often than not, it will be via an expected source or scenario.<br>
+Let's hear the anecdote from where this problem emerged.<br>
+<hr>
+
+It was tea time, a platform for imbecile discussions.<br>
+Little B was deliberating over a domain change request, pertaining to a typical product shipment scenario.<br>
+In their E-Commerce world, once the product is approved for shipment, the process flow is as below<br>
+
+<img style="text-align: center" src="/assets/2017-02-26/chainOfResponsibility.png">
+
+This was implemented as a [chain of responsibility](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern), with each shipment site representing a handler with two commands.<br>
+Updating the status triggers a notification on the customer's device.<br>
+Quite often, the handler packaging the item, irrecoverably failed after status update. This lead to a series of corrective status updates which could have been prevented had the status been updated only after a successful item packaging to begin with.<br>
+
+So, the execution of commands at each shipment site was decided to be reversed<br>
+
+That’s trivial. But little B was lost in thought, pondering about something?.<br>
+Well, if you ever knew little B, everything was always more than what meets the eye with him.<br>
+He looked into the distance, eyes transfixed into the unknown...<br>
+As if seeing something, we could not....<br>
+
+That's when he contrived this hypothetical nut.<br>
+On slight improvisation of his given problem statement, he viewed the above chain as a singly linked list.<br>
+And boom... he concocted a challenge... to selectively reverse nodes on the linked list. Specifically reverse every "n" node sub groups in the big list where "n" is a variable input.<br>
+
+Interesting huh?<br>
+Life's beautiful...<br>
+
