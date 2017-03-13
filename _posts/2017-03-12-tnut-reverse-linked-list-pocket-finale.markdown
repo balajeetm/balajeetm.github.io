@@ -203,7 +203,7 @@ root.setNext(null == curr ? curr : pocketReverse(curr, pocketSize));
 return prev;
 ```
 
-> All the above tricks and solutions are available in the [tnut repo](http://github.balajeetm.com/t-nut/blob/master/src/main/java/com/balajeetm/tnut/controller/ReverseSinglyLinkedList.java)<br>
+> All the above tricks and solutions are available in the [tnut controller](http://github.balajeetm.com/t-nut/blob/master/src/main/java/com/balajeetm/tnut/controller/ReverseSinglyLinkedList.java)<br>
 Feel free to fork/clone the same and run it on your local.<br>
 Refer [t-nut repo](http://github.balajeetm.com/t-nut/) for more details.
 

@@ -212,7 +212,7 @@ node1.setData(node2.getData());
 node2.setData(temp);
 ```
 
-> For more details refer the code @ my [tnut repo](http://github.balajeetm.com/t-nut/blob/master/src/main/java/com/balajeetm/tnut/controller/ReverseSinglyLinkedList.java)<br>
+> For more details refer the code @ my [tnut controller](http://github.balajeetm.com/t-nut/blob/master/src/main/java/com/balajeetm/tnut/controller/ReverseSinglyLinkedList.java)<br>
 Feel free to fork/clone the same and run it on your local.<br>
 Refer [t-nut repo](http://github.balajeetm.com/t-nut/) for more details.
 
@@ -287,7 +287,7 @@ Once, to pick the member from the bogie and again, to put the right member in pl
 The stack atleast made the code neat. Guess we are getting to the end of this<br>
 Let's carefully nibble the remnants.
 
-> For more details refer the code @ my [tnut repo](http://github.balajeetm.com/t-nut/blob/master/src/main/java/com/balajeetm/tnut/controller/ReverseSinglyLinkedList.java)<br>
+> For more details refer the code @ my [tnut controller](http://github.balajeetm.com/t-nut/blob/master/src/main/java/com/balajeetm/tnut/controller/ReverseSinglyLinkedList.java)<br>
 Feel free to fork/clone the same and run it on your local.<br>
 Refer [t-nut repo](http://github.balajeetm.com/t-nut/) for more details.
 
@@ -318,7 +318,7 @@ Which means, the last set of 'n' passengers will never be put in place.<br>
 Bah!!! That's because we are done traversing the list. Let's fix that.<br>
 We need to call relocate again after the while loop. That does it.<br>
 
-> For more details refer the code @ my [tnut repo](http://github.balajeetm.com/t-nut/blob/master/src/main/java/com/balajeetm/tnut/controller/ReverseSinglyLinkedList.java)<br>
+> For more details refer the code @ my [tnut controller](http://github.balajeetm.com/t-nut/blob/master/src/main/java/com/balajeetm/tnut/controller/ReverseSinglyLinkedList.java)<br>
 Feel free to fork/clone the same and run it on your local.<br>
 Refer [t-nut repo](http://github.balajeetm.com/t-nut/) for more details.
 
@@ -347,7 +347,7 @@ When you are ready to let go and get better, [hop over](/blog/2017/03/12/tnut-re
 Cya [here](/blog/2017/03/12/tnut-reverse-linked-list-pocket-finale/) soon.
 
 > Gentle reminder<br>
-All the above tricks and solutions are available in the [tnut repo](http://github.balajeetm.com/t-nut/blob/master/src/main/java/com/balajeetm/tnut/controller/ReverseSinglyLinkedList.java)<br>
+All the above tricks and solutions are available in the [tnut controller](http://github.balajeetm.com/t-nut/blob/master/src/main/java/com/balajeetm/tnut/controller/ReverseSinglyLinkedList.java)<br>
 Feel free to fork/clone the same and run it on your local.<br>
 Refer [t-nut repo](http://github.balajeetm.com/t-nut/) for more details.
 
