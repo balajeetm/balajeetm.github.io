@@ -16,14 +16,14 @@ But [WTF](/blog/2017/02/13/welcome-aboard/) in Agile?<br>
 **Why Agile?**<br>
 
 Software engineering is a stream of engineering. Is there any other stream in which such philosophies are followed?<br>
-Mechanical and Civil Engineering for eg are way matured in their process flow, which btw, has evolved over time.<br>
+Mechanical and Civil Engineering for eg are way matured in their process flow, which btw, has evolved over time.
 How does Agile find its place in this ocean of options?<br>
 
 ## The Perils of Engineering Streams
 <hr>
 
 Software Engineering is unlike any other stream of engineering.<br>
-It's different from Civil Engineering where we erect enormous structures (skyscrapers, bridges, dams, etc),<br>
+It's different from Civil Engineering where we erect enormous structures (skyscrapers, bridges, dams, etc),
 or Mechanical Engineering where we build products and machineries (cars, turbines, etc)<br>
 
 _**How is it different, you ask aye?**_
@@ -37,12 +37,12 @@ Plan -> Build -> Maintain
 ```
 
 Let's look at the cost of these stages as a function of time.<br>
-For let's say constructing a skyscraper.<br>
+For eg, let's look at the stages for constructing a skyscraper.<br>
 
 <img src="/assets/2017-03-14/cost.png">
 
 The cost, during planning is negligible because there are very few people doing it and also, we do not procure any material as such.<br>
-It increases substantially once we begin building it, owing labour, material and other procurement costs.<br>
+It increases substantially once we begin building it, owing to labour, material and other procurement costs.<br>
 The cost of maintenance is much lesser compared to the cost of building of course.<br>
 
 Another thing that stands out in the diagram is that a lot of time is spent in Planning.<br>
@@ -61,8 +61,10 @@ All the investment of time and effort is a risk.<br>
 
 **Which is why a lot of time is spent in planning, just to ensure these risks are mitigated.**<br>
 
+<img src="/assets/2017-03-14/risk.png">
+
 Remember... these risks are extremely expensive…<br>
-Because, the cost of change during the later part of the build stage or maintenance stage is humungous.<br>
+Because, the cost of change during the later part of the build or maintenance stage is humungous.<br>
 This includes cost in time, as well as money.<br>
 You cannot remove a floor after its built, can you?<br>
 There is very little flexibility for change in the later stages of the lifecycle.<br>
@@ -102,11 +104,69 @@ Once again, we can fuel this feedback into our iterative development.<br>
 Now we enter the age of Rapid Iterative Development with continuous feedback.<br>
 We enter the **"Age of Agile Development"** with continuous improvement<br>
 
-So, we transform from this to this<br>
-
+So, we transform from this to this <br>
+<img src="/assets/2017-03-14/streams.png">
 
 So we are able to deliver value incrementally unlike in any other engineering stream.<br>
 This not just lowers risk for we also have umpteen opportunities to course correct.<br>
+
+<img src="/assets/2017-03-14/coursecorrect.png">
+
+## Agile for Dummies
+<hr>
+
+So now that we know we are doing Agile, let's try to define Agile Development to a lay man.<br>
+If you are expecting some factual, text book definition... I'm extremely sorry to disappoint you, I'm not going to give you that.<br>
+
+### <u>What's in a logo?</u>
+
+[Deutsche Bank](https://en.wikipedia.org/wiki/Deutsche_Bank), has a very interesting log which looks like below:
+<img src="/assets/2017-03-14/deutsche-bank.png">
+
+_**What's in this logo, you ask aye?**_<br>
+
+Looks simple and sweet,<br>
+A square and an unconnected diagonal... so what?<br>
+[WTF](/blog/2017/02/13/welcome-aboard/) in it?<br>
+
+When the CEO was asked what the logo meant, this is what is explained.<br>
+>The square represents constraints...<br>
+The diagonal represents, growth...<br>
+[Deutsche Bank](https://en.wikipedia.org/wiki/Deutsche_Bank), is growth within constraints.
+
+Take a bow!!!<br>
+Great explanation... Well, that's exactly what **Agile** is...<br>
+But how do you grow in a constrained environment?<br>
+**FEEDBACK**
+
+_**Aye!!! Way to go! Spot on!**_<br>
+So, Agile development is
+
+```
+Growth within constraints with constant feedback
+```
+
+## Agile as the way of life
+<hr>
+
+If you have mistaken, **Agile** is not just about software.<br>
+**Agile** is the way of life.<br>
+
+The real world is full of mysteries. As we step into it, we can never guess what's round the bend.<br>
+Often we reach crossroads, where we are cornered to make a choice.<br>
+_**But, when one doesn't even know the destination, how does one make the choice? :D**_<br>
+
+**Go Agile Folks… Wherever possible.**
+
+* Choose a path from the options available, based on cognitive reasoning
+* Completely accept the fact, that the path you choose, on hind sight, further down the right, may not turn out to be the best choice,
+* Remember Law of concersation of effort, - Learn from the journey and take smarter strides
+* Still completely accepting the fact that even this stride might not be most prudent on the hind sight 
+* Take smaller strides and more feedbacks
+* Let go and learn from everything and everyone
+
+
+
 
 
 
