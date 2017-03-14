@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Maven?
+title: WTF in Maven?
 date: 2017-02-14 18:16
 comments: true
 external-url:

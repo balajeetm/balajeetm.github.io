@@ -7,7 +7,7 @@ external-url:
 categories: Technology
 ---
 
->In my earlier [post](/blog/2017/02/14/why-maven/), we saw the typical dependency issues faced while building an enterprise application.<br>
+>In my earlier [post](/blog/2017/02/14/wtf-in-maven/), we saw the typical dependency issues faced while building an enterprise application.<br>
 >Enter Maven, and all these issues are history<br>
 
 <img style="text-align: center" class="img-responsive" src="/assets/2017-02-17/IDontAlwaysMaven.jpg">
