@@ -104,13 +104,15 @@ Once again, we can fuel this feedback into our iterative development.<br>
 Now we enter the age of Rapid Iterative Development with continuous feedback.<br>
 We enter the **"Age of Agile Development"** with continuous improvement<br>
 
-So, we transform from this to this <br>
+<img src="/assets/2017-03-14/agile.png">
+
+So, we quickly transform from fixed to flexible <br>
 <img src="/assets/2017-03-14/streams.png">
 
 So we are able to deliver value incrementally unlike in any other engineering stream.<br>
 This not just lowers risk for we also have umpteen opportunities to course correct.<br>
 
-<img src="/assets/2017-03-14/coursecorrect.png">
+<img src="/assets/2017-03-14/coursecorrect.jpg">
 
 ## Agile for Dummies
 <hr>
@@ -154,16 +156,20 @@ If you have mistaken, **Agile** is not just about software.<br>
 
 The real world is full of mysteries. As we step into it, we can never guess what's round the bend.<br>
 Often we reach crossroads, where we are cornered to make a choice.<br>
-_**But, when one doesn't even know the destination, how does one make the choice? :D**_<br>
+_**But, when one doesn't even know the destination, how does one make the choice?**_<br>
 
 **Go Agile Folks… Wherever possible.**
 
 * Choose a path from the options available, based on cognitive reasoning
-* Completely accept the fact, that the path you choose, on hind sight, further down the right, may not turn out to be the best choice,
-* Remember Law of concersation of effort, - Learn from the journey and take smarter strides
-* Still completely accepting the fact that even this stride might not be most prudent on the hind sight 
+* Honestly accept the fact, that the path you choose, on hind sight, may not turn out to be the best choice, further down the line
+* Remember the [Law of Conversation of Thought](/blog/2017/03/08/cracking-a-tnut/#law-of-conservation-of-thought), - Learn from the journey and take smarter strides
+* Still completely accepting the fact that even this stride, might not be most prudent on hind sight 
 * Take smaller strides and more feedbacks
-* Let go and learn from everything and everyone
+* Let go and move on... Learn from everything and everyone
+
+<img src="/assets/2017-03-14/agile-for-real.png">
+
+Cya until next time folks.
 
 
 
