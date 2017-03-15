@@ -12,7 +12,7 @@ categories: T-Nut
 The day was so dull that even the sun didn't want to show up all day.<br>
 He hid behind the clouds, robbing us off our spirits.<br>
 The lacklustre day couldn't get any more sluggish... we were craving for some entertainment.<br>
-So Little B decided to bombard us with one of his T-Nuts to cheer us up.<br>
+So Little B decided to bombard us with one of his [T-Nuts](/blog/2017/02/21/technical-nuts/) to cheer us up.<br>
 As trivial a problem that it seemed to be, nothing is ever so simple with Little B, is it?
 
 ## Hone your math skills
@@ -57,3 +57,68 @@ Three balls, No more, No less.<br>
 Summing to 30 (XXX)"**_<br>
 
 <img src="/assets/2017-03-15/solve.png">
+
+## The Thought Train
+<hr>
+
+Let's begin [cracking the T-Nut](/blog/2017/03/08/cracking-a-tnut/), like we always do.<br>
+As if chewing on an unknown fruit following this [guide](/blog/2017/03/09/thumbrules-to-crack-a-tnut).<br>
+VROOM VROOM!
+
+## [Step1 - Isolate the epicarp](/blog/2017/03/08/cracking-a-tnut/#step-1---isolate-the-epicarp)
+<hr>
+
+I'm sure there was too much gibberish in that, so let me fish the actual problem statement.<br>
+
+* <b><u>The Naïve Problem Statement</u></b><br>
+It's a simple math quiz.
+
+```
+Find x,y,z where
+x + y + z = 30
+
+```
+
+## [Step2 - Take the first bite](/blog/2017/03/08/cracking-a-tnut/#step-2---take-the-first-bite)
+<hr>
+
+Visual representation is already provided. Let me think out loud to solve it.<br>
+Alright, 3 variables. I would need 3 equations at least.<br>
+Let me see if can find the other two.
+
+I find an inequation
+```
+x,y,z <=15
+```
+
+And they are all odd,
+```
+Any odd number can be represented as 2k+1, so
+x = 2a + 1,
+y = 2b + 1,
+z = 2c + 1
+```
+
+It's not much use to create more variables.<br>
+Hey, wait a second. That's an anomaly.<br>
+
+***Sum of three old numbers cannot be even!***
+
+## [Step3 - Chew and swallow the bite](http://blog.balajeetm.com/blog/2017/03/08/cracking-a-tnut/#step-3---chew-and-swallow-the-bite)
+<hr>
+
+Yup, surely. Sum of three odd cannot be even. Here's the proof for non-believers.
+
+```
+x + y + z = 30
+(2a + 1) + (2b + 1) + (2c + 1) = 30
+2(a + b + c) + 3 = 30
+2 (a + b + c + 1) + 1 = 30
+ 
+if p = (a + b + c + 1),
+
+2p + 1 = 30.
+
+Cannot be!!!
+
+
