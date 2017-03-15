@@ -15,7 +15,7 @@ The lacklustre day couldn't get any more sluggish... we were craving for some en
 So Little B decided to bombard us with one of his T-Nuts to cheer us up.<br>
 As trivial a problem that it seemed to be, nothing is ever so simple with Little B, is it?
 
-** Hone your math skills
+## Hone your math skills
 <hr>
 
 
@@ -24,7 +24,7 @@ Little B started stating the problem.<br>
 <img src="/assets/2017-03-15/xxx.png">
 
 >
-_"You are at the door of enlightenment.<br>
+"You are at the door of enlightenment.<br>
 Behind the door lies new realms of reality.<br>
 A world of peace, freedom and endless knowledge.<br>
 A world without constraints, concerns or constructs.<br>
@@ -46,7 +46,7 @@ No two balls are engraved with the same number.<br>
 
 <img src="/assets/2017-03-15/thirty.png">
 
-*** <u>The Problem Statement</u><br>
+### <u>The Problem Statement</u><br>
 
 The cryptic puzzle he stated was as below:
 
