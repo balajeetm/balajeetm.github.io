@@ -1,0 +1,59 @@
+---
+layout: post
+title: XXX
+date: 2017-03-15 19:19
+comments: true
+external-url:
+categories: T-Nut
+---
+
+
+> It was a gloomy evening and we were sipping some hot tea, peeking through the transparent window.<br>
+The day was so dull that even the sun didn't want to show up all day.<br>
+He hid behind the clouds, robbing us off our spirits.<br>
+The lacklustre day couldn't get any more sluggish... we were craving for some entertainment.<br>
+So Little B decided to bombard us with one of his T-Nuts to cheer us up.<br>
+As trivial a problem that it seemed to be, nothing is ever so simple with Little B, is it?
+
+** Hone your math skills
+<hr>
+
+
+Little B started stating the problem.<br>
+
+<img src="/assets/2017-03-15/xxx.png">
+
+>
+_"You are at the door of enlightenment.<br>
+Behind the door lies new realms of reality.<br>
+A world of peace, freedom and endless knowledge.<br>
+A world without constraints, concerns or constructs.<br>
+A world with no beginning and end.<br>
+An enticing utopia, freeing you from your chains.<br><br>
+You are just a step away from it.<br>
+A locked door standing between you and the paradise.<br>
+The door has a huge **'XXX'** embossed on it.<br> 
+The key to the door is the solution to a cryptic puzzle.", he continued.<br><br>
+"Beside the door, are two crates.<br>
+The first crate, is full of spherical magic balls, etched with numbers.<br>
+While the second crate is empty.<br>
+The magic balls are all of the same diameter and shape.<br>
+The balls can freely move inside the crate.<br>
+They are perfectly smooth and glittering.<br>
+They vary in color and have different numbers etched on them as shown below.<br>
+Each ball has an unique number etched on it.<br>
+No two balls are engraved with the same number.<br>
+
+<img src="/assets/2017-03-15/thirty.png">
+
+*** <u>The Problem Statement</u><br>
+
+The cryptic puzzle he stated was as below:
+
+_**"You need to pick, three balls from the first crate, no more, no less and place them in the second crate.<br>
+The constraint being, the sum of the carvings on the balls should add to thirty,<br>
+XXX in roman, and thus the vignette on the door!<br>
+Three balls, No more, No less.<br>
+Summing to 30 (XXX)"**_<br>
+
+<img src="/assets/2017-03-15/solve.png">
