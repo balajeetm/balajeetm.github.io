@@ -86,7 +86,7 @@ So total velocity of the butterfly is
 ```
 
 **60 kms per hour**. Awesome right?<br>
-Pice of cake, if only we set aside the epicarp<br>
+Piece of cake, if only we set aside the epicarp<br>
 
 ## <u>The Learning</u>
 
