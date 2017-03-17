@@ -108,3 +108,15 @@ The left-side of the brain on the other hand is adept at tasks that involve logi
 
 ## The Myth
 <hr>
+
+So, now coming to the important question, are people either left-brained or right-brained?<br>
+Does one hemisphere dominate over the other?<br>
+Like many popular psychology myths, the observations of the human brain were dramatically distorted and exaggerated out of proportion leading to this myth.<br>
+
+>**"No matter how lateralized the brain can get, the two sides still have to work together,"**, explained science writer Carl Zimmer, in an article for Discover magazine.<br>
+"The pop psychology notion of a left brain and a right brain doesn’t capture their intimate working relationship. The left hemisphere specializes in picking out the sounds that form words and working out the syntax of the phrase, for example, but it does not have a monopoly on language processing. The right hemisphere is more sensitive to the emotional features of language, tuning-in to the slow rhythms of speech that carry intonation and stress."
+
+“It’s absolutely true that some brain functions occur in one or the other side of the brain. Language tends to be on the left, attention more on the right. But people don’t tend to have a stronger left- or right-sided brain network. It seems to be determined more connection by connection," explained the study's lead author Dr. Jeff Anderson.
+
+While the idea of right brain / left brain thinkers has been debunked, its popularity still persists.<br>
+But [WTF](/blog/2017/02/13/welcome-aboard/) in it? What can we learn out of it?
