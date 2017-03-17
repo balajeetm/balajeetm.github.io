@@ -21,24 +21,23 @@ Giving the popularity of the idea, come let's try to explore [WTF](/blog/2017/02
 According to the theory of left-brain vs right-brain dominance, each side of the brain controls different traits of thinking.<br>
 Additionally, people are said to prefer one type of thinking over the other.<br>
 
-A person who is said to be "left-brained" is often more logical, analytical, and objective, whereas<br>
-A person who is said to be "right-brained" is more intuitive, thoughtful, and subjective.
+A person who is said to be **"left-brained"** is often more logical, analytical, and objective, whereas<br>
+A person who is said to be **"right-brained"** is more intuitive, thoughtful, and subjective.
 
 This is often represented as below,<br>
 With the left brain projected as a greyish, mundane, lifeless processing part, while<br>
 the right brain is presented as a more colorful, creative, vibrant counterpart.
 
-<img src="/assets/2017-03-15/grep-color.jpg">
+<img src="/assets/2017-03-17/grep-color.jpg">
 
 ## The left brain vs right brain theory
 <hr>
 
-## The subject behind the claim
-<hr>
+### <u>The subject behind the claim</u><br>
 
 As pompous a claim that it seems to be, the theory is based out of a real-life experiment.<br>
 In psychology, its called <b>"the lateralization of brain function"</b>.<br>
-The brain contains two hemispheres that each performs a number of roles. The two sides of the brain communicate with one another via corpus callosum.<br>
+The brain contains two hemispheres that each performs a number of roles. The two sides of the brain communicate with one another via [corpus callosum](https://en.wikipedia.org/wiki/Corpus_callosum).<br>
 
 But [WTF](/blog/2017/02/13/welcome-aboard/) in it? What's in this symmetry?<br>
 
@@ -50,33 +49,34 @@ All vertebrates are symmetrical in the same way, as are butterflies, scorpions, 
 
 In fact, scientists have always spent a lot of time pondering [WTF](/blog/2017/02/13/welcome-aboard/) in it?
 
-<img src="/assets/2017-03-15/joker-why-so-symmetric.jpg">
+<img src="/assets/2017-03-17/joker-why-so-symmetric.jpg">
 
 There are some obvious survival benefits from left-right symmetry.<br>
 With muscles and limbs on both sides of their bodies, animals could move forward quickly and efficiently. Why you ask? Either to hunt a prey or escape from a predator.<br>
 Once established, symmetry had a powerful effect on how new organs evolved.<br>
 Eyes and antennae tended to develop in left-right pairs, for example. When early fish began to evolve complex brains, those too developed according to left-right rules. This gave a species a holistic picture of the surroundings that helped it make some critical decisions.<br>
-The human brain is very different from the brain of a lamprey, but in both species the neocortex—the outer layers of the brain—is divided into two mirror-image hemispheres.
 
 In short evolution is survival... and with the symmetry<br>
-_**Survival was facilitated by high availability through redundancy**_.<br>
+_**Survival was facilitated by this [peer-to-peer architecture](https://en.wikipedia.org/wiki/Peer-to-peer)<br>
+In fact, the symmetry also doubles up for [redundancy](https://en.wikipedia.org/wiki/Redundancy_(engineering)) as seen [below](#slicing-the-brain)**_.<br>
 
-[High Availability](https://en.wikipedia.org/wiki/High_availability) and [Redundancy](https://en.wikipedia.org/wiki/Redundancy_(engineering)) are not just software strategies, as you can see.
+[Peer-to-Peer architecture](https://en.wikipedia.org/wiki/Peer-to-peer) and [Redundancy](https://en.wikipedia.org/wiki/Redundancy_(engineering)) are not just software strategies, as you can see.
 
 In fact the more you look at the brain, the more it seems like a super computer,<br>
-A computer, employing algorithms much complex than we know.<br>
+A computer, employing algorithms much complex than our own computers.<br>
 
 If you look at the brain as a giant [T-Nut](/blog/2017/02/21/technical-nuts/), then as per our [strategy](/blog/2017/03/08/cracking-a-tnut/#step-2---take-the-first-bite) of [cracking the T-Nut](/blog/2017/03/08/cracking-a-tnut/), looking at it on the lines of something we already understand, i.e a computer, makes more sense.
  
 All right, we understand the redundancy model, but what makes us think that the two hemispheres of the brain have different character traits?<br>
 Does one side of the brain control specific functions? Are people either left-brained or right-brained?<br>
-Shouldn't two similar hemispheres be exactly alike in redundancy model?<br>
+Shouldn't two similar hemispheres be exactly alike in a peer to peer architecture redundancy model?<br>
 
 ### <u>Slicing the Brain</u><br>
 
 The right brain-left brain theory originated in the work of [Roger Wolcott Sperry](https://en.wikipedia.org/wiki/Roger_Wolcott_Sperry), who was awarded the Nobel Prize for the same. While studying the effects of epilepsy, Sperry discovered that cutting the corpus callosum could reduce or eliminate seizures.<br>
 In fact even today, surgeons make the extreme kind of slice in the brain of a patient. A child may suffer from epilepsy so severe that the only relief doctors can offer is to open up the skull and cut out the entire hemisphere in which the seizures start.<br>
-It may take a child a year of physical therapy to recover from losing a hemisphere—but the fact that patients recover at all is stunning when you consider that they have only half a brain.
+It may take a child a year of physical therapy to recover from losing a hemisphere—but the fact that patients recover at all is stunning when you consider that they have only half a brain.<br>
+**Redundancy my friend! [High Availability](https://en.wikipedia.org/wiki/High_availability) through redundancy.**
 
 However, these patients also experienced other symptoms after the communication pathway between the two sides or when a hemisphere itself was cut.<br>
 For example, many split-brain patients found themselves unable to name objects that were processed by the right side of the brain but were able to name objects that were processed by the left-side of the brain.<br>
