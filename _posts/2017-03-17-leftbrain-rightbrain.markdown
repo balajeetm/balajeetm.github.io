@@ -83,11 +83,28 @@ For example, many split-brain patients found themselves unable to name objects t
 Based on this information, Sperry suggested that language was controlled by the left-side of the brain.<br>
 It was discovered that the left side of the brain tends to control many aspects of language and logic, while the right side tends to handle spatial information and visual comprehension.
 
+## The left-right traits
+<hr>
 
+### <u>The Right Brain</u><br>
+Thus, as per the theory, the right brain controls expressiveness & creativity. Some of the abilities associated with the right side of the brain include:
+* Recognizing patterns
+* Expressing emotions
+* Art - Music, Painting, etc
+* Recognizing Color
+* Analysing Images
+* Intuition
+* Creativity
 
+### <u>The Left Brain</u><br>
+The left-side of the brain on the other hand is adept at tasks that involve logic, language, and analytical thinking. Anything that involves **conscious processing**. The left-brain is better at:
+* Language
+* Logic
+* Critical thinking
+* Numbers
+* Reasoning
 
+<img src="/assets/2017-03-17/functionalities.jpg">
 
-
-
-
-
+## The Myth
+<hr>
