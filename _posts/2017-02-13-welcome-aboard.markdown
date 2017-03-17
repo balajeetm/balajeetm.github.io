@@ -19,7 +19,7 @@ The world around us is so vast, there is so much to explore.<br>
 But perspective adds so much flavor to reality.<br>
 The same idea feels and looks so different from different angles.<br>
 
-For eg. like the one displayed below
+<div id="perspective">For eg. like the one displayed below</div>
 
 <img class="img-responsive" src="/assets/2017-02-13/6-9-perspective.jpg">
 

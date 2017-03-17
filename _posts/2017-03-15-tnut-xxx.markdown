@@ -165,6 +165,7 @@ What am I missing?
 ## The Solution
 
 Little B smiled at our inanity and picked three balls as below to show the solution.
+[Perspective my friend](/blog/2017/02/13/welcome-aboard/#perspective), perspective.
 
 <img src="/assets/2017-03-15/solution.png">
 
@@ -177,5 +178,8 @@ Where did I lose track, I wondered and re-read the key aspect in the question th
 _**"The balls can freely move inside the crate"**_
 
 With hands in his pocket, Little B stood up sluggishly, and started walking away, muttering,<br>
+<div id="differentangle"></div>
 _**"All you need to do is let go and look at the problem from a different angle"**_,<br>
 And faded into the distance, not even bothering to look by my side.<br>
+
+I looked out of the window, as the [sun was slowly slipping out of the cloud](/blog/2017/03/16/tnut-xxx-desmystified/).
