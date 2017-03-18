@@ -38,7 +38,7 @@ The sense of touch and feelings, pain for eg, were feedback. The feedback helped
 <hr>
 
 Similar to [tennis](https://en.wikipedia.org/wiki/Tennis) however, this learning is a perpetual process. Because we need to survive against similar species who are learning as well.<br>
-**Our predators are learning, our preys are learning.**<br>
+**"Our predators are learning, our preys are learning"**.<br>
 So, every bit of optimisation is crucial for survival.<br>
 Its not enough to learn all the tricks of the trade, we need to devise new ones and keep moving forward.
 
@@ -61,7 +61,7 @@ Let's take an example.<br>
 How many of us remember dozing off in a public transport and suddenly waking up out of nowhere, and still in an instant, managing to realise, precisely where we are.<br>
 Better still, how many us remember dozing off in a public transport and effortlessly waking up exactly at our destination, just before we alight.<br>
 
-_**All this is possible because of the brain's situational awareness which is nothing but a sophisticated pattern recognition**_.<br>
+_**All this is possible because of the brain's situational awareness which is nothing but sophisticated pattern recognition**_.<br>
 This is more evident in repetitive tasks and the adage **"Practice makes Perfect"** is nothing but a poetic representation of [muscle memory](https://en.wikipedia.org/wiki/Muscle_memory).
 
 ### <u><a href="https://en.wikipedia.org/wiki/Muscle_memory">Muscle Memory</a></u>
@@ -70,7 +70,7 @@ This is more evident in repetitive tasks and the adage **"Practice makes Perfect
 Have you ever wondered how sportsmen in any sport are able to react to events in milliseconds? Turing the car @ 300Km/hr in [F1](https://en.wikipedia.org/wiki/Muscle_memory) or returning a ball @ 160mph in [Tennis](https://en.wikipedia.org/wiki/Tennis).<br>
 No conscious effort, just muscle memory.<br>
 So the goal is to build a comprehensive muscle memory.<br>
-But how does one build this muscle memory?
+But how does one go about building one?
 
 ## Building the patterns
 <hr>
@@ -80,10 +80,10 @@ Though we are yet to figure out the complex algorithm that the brain employs to 
 It is observed that the brain relies heavily on the feelings, or feedback from the senses to ascertain a pattern.<br>
 Remember, the point of this sophisticated pattern recognition and all, is situational awareness. Thus context, plays a very vital role, in building or deciphering a pattern.<br>
 
-How often have we been working on an idea or thought in our rooms, only to walk out and forget everything we have been thinking about?<br>
+How often have we been working on a thoughtful idea in our rooms, only to walk out and forget everything we have been thinking about?<br>
 Remember that eerie feeling of being in no man's land and lost for thought?<br>
-But as soon as we get back to our room, the thought or idea comes rushing back.<br>
-_**Context and Situational Awareness my friend**_. Context here is the key.
+But as soon as we get back to our room, the idea comes rushing back.<br>
+_**"Context and Situational Awareness my friend"**_. Context here is the key.
 
 As the brain builds these patterns, overtime, it flushes the irrelevant and the unused.<br>
 Is it clear now as to why we forget everything we had crammed overnight, right after the exam? Its **irrelevant** yo!<br>
@@ -119,14 +119,52 @@ This is the **"Pristine Brain"** weaving its magic. The Logical brain has alread
 ### <u>The return of Logical Brain</u>
 
 Everything seems to be going smooth without any conscious involvement of the Logical Brain but it doesn't stay that way for ever. When do you think the Logical Brain steps in?<br>
-Imagine now after mastering the bicycle for so long, we ask one of our besties or parents to tag along and hitch a ride with us. We are sure to have done this right?<br>
+Imagine now, after mastering the bicycle for so long, we ask one of our besties or parents to tag along and hitch a ride with us. We are sure to have done this right?<br>
 How do you think it felt then? Were we comfortable riding doubles?<br>
 **Never**. It throws us off balance right away and we find it extremely hard to even ride a meter.<br>
 But [WTF](/blog/2017/02/13/welcome-aboard/) in it, why so?<br>
 
 This is because the dynamics completely changed. The pattern for the subconscious brain, basically didn't match. That's because the weight drastically changed and the feel of the vehicle is so very different now. The pre-determined response in map, doesn't fit the usecase and we struggle.<br>
-So what we do, we start focusing to get balancing, and when we focus, the conscious logical brain steps it and identifies the new forces acting on us. We struggle a little but eventually hit the rhythm. This goes as feedback to the subconscious, and soon we master riding with people as well.
+So what we do, we start focusing to attain balance, and when we focus, the conscious logical brain steps it and identifies the new forces acting on us. We struggle a little but eventually hit the rhythm. This goes as feedback to the subconscious, and soon we master riding with people as well.
 
+<img src="/assets/2017-03-18/calvinbicycle.gif">
+
+### <u>Who is who?</u>
+We have used too many terms until now to describe the brain - logical, pristine, conscious, subconscious, etc. Though the usage has been quite consistent and self-explanatory, let's detail it here.<br>
+So, the **"Pristine Brain"**, personified as **"Mr. Pristine"**, is the instinctive or intuitive brain which reacts quickly to stimuli.<br>
+He is fast and relies heavily on feelings to decide the proceedings. He is thus the one who constructs the hashmap and searches the hashmap we discussed above.<br>
+He is the first line of response to any external stimuli and is completely result oriented. Any step he takes, is based on the learnings from earlier actions and results.<br>
+His reactions thus are more subconscious, slightly involuntary and effortless. 
+
+The **"Logical Brain"** on the other hand, personified as **"Mr. Logic"**, is a more thoughtful counterpart. It is a sequential processing engine, which is more analytical and methodical and handles every situation on merit. Mr. Logic intervention is more an after thought and mostly a second line of response.<br>
+Every step he takes is based on the empirical data available. His reactions are thus more conscious and requires a lot of voluntary effort and input.
+
+Remember, **"Mr. Pristine"** is always the first line of response, so when you are cornered and asked to choose a path, you will almost always choose the path of comfort for **"Mr. Pristine"**. So if I corner you and ask you to pick color, you will pick your favourite color. No surprises in that.<br>
+
+## Left-Right Myth Revisited
+<hr>
+
+If you take a closer look, "Mr. Logic", is methodical, analytical and a sequential processing engine. Thus "Mr. Logic" is heavily influenced by the [Left Brain](/blog/2017/03/17/leftbrain-rightbrain/#the-left-brain).<br>
+On the other hand, "Mr. Pristine" is so intuitive, reactive and expressive, giving a lot of significance to feelings, thus "Mr Pristine" seems heavily influenced by the [Right Brain](/blog/2017/03/17/leftbrain-rightbrain/#the-right-brain)
+
+Though, the Left-Right dominance has been debunked, we clearly saw above that there exists two approaches to solving a problem. You can either go the **"Pristine"** way and rely on feelings or the **"Logic"** way and rely on rules.
+_In short, you can either go the right-brained way or the left-brained way._
+
+A typical example would be learning a language like English. As per the [Left-Right Conundrum](/blog/2017/03/17/leftbrain-rightbrain/), language is purely a [left-brain](/blog/2017/03/17/leftbrain-rightbrain/#the-left-brain) trait. However, we can learn it in two ways.<br>
+Either, understand all the rules of English Grammar and go by the books, or<br>
+Speak more, Read more and learn it through usage.
+
+How often, have we heard someone say a sentence in English and reacted like<br>
+>"Well, that doesn't sound right".
+When asked, what exactly was wrong, we say<br>
+>"Not sure, but that didn't sound right."
+
+I've personally done that umpteen times and in fact all the languages I've learnt so far is that way.<br>
+And no so surprisingly, that's the case with all of us.<br>
+So language can be a right-brain trait.<br>
+
+What I mean to say here, Left and Right brains do not compete with each other, they collaborate and work in synergy.<br>
+And so does, Pristine and Logic approaches. So when face with an issue, decide which approach you would take.
 
 
 

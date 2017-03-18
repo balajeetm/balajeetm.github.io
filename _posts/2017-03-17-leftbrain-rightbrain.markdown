@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LeftBrain-RightBrain Theory
+title: The Left-Right Conundrum
 date: 2017-03-17 20:05
 comments: true
 external-url:
