@@ -37,7 +37,7 @@ The sense of touch and feelings, pain for eg, were feedback. The feedback helped
 ## The Optimisation
 <hr>
 
-Similar to [tennis](https://en.wikipedia.org/wiki/Tennis) however, this learning is a perpetual process. Because we need to survive against similar species who are learning as well.<br>
+Similar to [tennis](https://en.wikipedia.org/wiki/Tennis) however, this learning is a perpetual process. That is because we need to survive against similar species who are learning as well.<br>
 **"Our predators are learning, our preys are learning"**.<br>
 So, every bit of optimisation is crucial for survival.<br>
 Its not enough to learn all the tricks of the trade, we need to devise new ones and keep moving forward.
@@ -124,8 +124,9 @@ How do you think it felt then? Were we comfortable riding doubles?<br>
 **Never**. It throws us off balance right away and we find it extremely hard to even ride a meter.<br>
 But [WTF](/blog/2017/02/13/welcome-aboard/) in it, why so?<br>
 
-This is because the dynamics completely changed. The pattern for the subconscious brain, basically didn't match. That's because the weight drastically changed and the feel of the vehicle is so very different now. The pre-determined response in map, doesn't fit the usecase and we struggle.<br>
-So what we do, we start focusing to attain balance, and when we focus, the conscious logical brain steps it and identifies the new forces acting on us. We struggle a little but eventually hit the rhythm. This goes as feedback to the subconscious, and soon we master riding with people as well.
+This is because the dynamics completely changed. The pattern for the subconscious brain, basically didn't match. That's because the weight drastically changed and the feel of the vehicle is so very different now. Remember, the feel, is a critical component in the Pristine Brain's pattern. Thus, the pre-determined response in the map, doesn't fit the usecase and we struggle.<br>
+**So what do we do?**<br>
+We start focusing to attain balance, and when we focus, the conscious logical brain steps it and identifies the new forces acting on us. We struggle a little but eventually hit the rhythm. This goes as feedback to the subconscious, and soon we master riding with people as well.
 
 <img src="/assets/2017-03-18/calvinbicycle.gif">
 
@@ -139,7 +140,7 @@ His reactions thus are more subconscious, slightly involuntary and effortless.
 The **"Logical Brain"** on the other hand, personified as **"Mr. Logic"**, is a more thoughtful counterpart. He is a sequential processing engine, who is more analytical and methodical and handles every situation on merit. His intervention is more an after thought and mostly a second line of response.<br>
 Every step he takes is based on the available empirical data. His reactions are thus more conscious and requires a lot of voluntary effort and input.
 
-Remember, **"Mr. Pristine"** is always the first line of response, so when you are cornered and asked to choose a path, you will almost always choose the path of comfort for **"Mr. Pristine"**. So if I corner you and ask you to pick color, you will pick your favourite color. No surprises in that.<br>
+Remember, **"Mr. Pristine"** is always the first line of response, so when you are cornered and asked to choose a path, you will almost always choose the path of comfort for **"Mr. Pristine"**. So if I corner you and ask you to pick a random color, you are sure to pick your favourite color. No surprises in that.<br>
 
 ## Left-Right Myth Revisited
 <hr>
@@ -157,28 +158,20 @@ Speak more, Read more and learn it through usage.
 How often, have we heard someone say a sentence in English and reacted like<br>
 >"Well, that doesn't sound right".<br>
 When asked, what exactly was wrong, we say<br>
-"Not sure, but that didn't sound right."
+"Not sure, but that didn't just sound right."
 
-I've personally done that umpteen times and in fact all the languages I've learnt so far is that way, through feelings.<br>
+I've personally done that umpteen times and in fact all the languages I've learnt so far has been through feelings.<br>
 And not so surprisingly, that's the case with all of us.<br>
 So is language really a left-brain trait?<br>
 
 What I mean to say here is, Left and Right brains do not compete with each other, they collaborate and work in synergy.<br>
-And so does, Pristine and Logic approaches. So when you face with an issue, take the best of both approaches and reach the goal.<br>
+And so does, Pristine and Logic approaches. So when you are confronted with an issue, take the best of both approaches and reach the goal.<br>
 We'll see a lot more of these as we keep [craking the T-Nuts](/blog/2017/03/08/cracking-a-tnut/), so stay tuned.
 
 ## The Take-Aways
 <hr>
 
+Now that we know how the pristine and logical aspects operate in unison to materialise the genius of the brain, [WTF](/blog/2017/02/13/welcome-aboard/) in it for us?<br>
+What do we do with this noesis? Does it help me in any way?<br>
 
-
-
-
-
-
-The right brain is predominantly involved in identifying these patterns.<br>
-It thus greatly relies on the senses, the sense of touch, sound, sight, etc for the same.
-
-Have you ever heard of muscle memory?
-
-
+**Of course it does**... Catch you in my next post where we see that in detail.
