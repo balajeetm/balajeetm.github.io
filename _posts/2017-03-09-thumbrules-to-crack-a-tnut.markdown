@@ -72,7 +72,7 @@ If the approach seems complicated, give it some rest and try something else.
 * Let go and feel comfortable to start all over again
 
 >Step 4 and Step 5 are explicit steps in order to force you to retrospect and consider the feedback in your next logic cycle.<br>
-Once this idea is clear, the whole process of [cracking a t-nut](/blog/2017/03/08/cracking-a-tnut/) is more simiplified as below :
+Once this idea is clear, the whole process of [cracking a t-nut](/blog/2017/03/08/cracking-a-tnut/) is more simplified as below :
 
 <img src="/assets/2017-03-09/simplesteps.png">
 
