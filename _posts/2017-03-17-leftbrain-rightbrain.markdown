@@ -11,7 +11,7 @@ categories: -What's-The-Fun-
 You've probably spotted a few info graphics in Pintrest or Facebook helping you to identify your dominant thinking hemisphere.<br>
 From books to television series to movies, you can find this stereotyping all around you.<br>
 But is it for real?<br>
-Giving the popularity of the idea, come let's try to explore [WTF](/blog/2017/02/13/welcome-aboard/) in it.
+Given the popularity of the idea, come let's try to explore [WTF](/blog/2017/02/13/welcome-aboard/) in it.
 
 <img src="/assets/2017-03-17/leftright.png">
 
@@ -126,6 +126,8 @@ For example, research has shown that abilities in subjects such as math are stro
 It seems to be determined more connection by connection," explained the study's lead author Dr. Jeff Anderson.
 
 While the idea of right brain / left brain thinkers has been debunked, its popularity still persists.<br>
+But why are the two hemispheres performing different tasks, you may ask?<br>
+The answer to that is quite simple. Brain is an optimised engine, it is employing a typical [Work Stealing](https://en.wikipedia.org/wiki/Work_stealing) strategy to optimally divide load between the two lobes.<br>
 But [WTF](/blog/2017/02/13/welcome-aboard/) in it? What can we learn out of it?<br>
 While the myth over-generalized and overstated a popular psychological aspect, understanding the brain's approach can help you develop better ways to learn, study & perform various tasks.<br>
 

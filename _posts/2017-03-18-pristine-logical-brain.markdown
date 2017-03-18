@@ -136,18 +136,18 @@ He is fast and relies heavily on feelings to decide the proceedings. He is thus 
 He is the first line of response to any external stimuli and is completely result oriented. Any step he takes, is based on the learnings from earlier actions and results.<br>
 His reactions thus are more subconscious, slightly involuntary and effortless. 
 
-The **"Logical Brain"** on the other hand, personified as **"Mr. Logic"**, is a more thoughtful counterpart. It is a sequential processing engine, which is more analytical and methodical and handles every situation on merit. Mr. Logic intervention is more an after thought and mostly a second line of response.<br>
-Every step he takes is based on the empirical data available. His reactions are thus more conscious and requires a lot of voluntary effort and input.
+The **"Logical Brain"** on the other hand, personified as **"Mr. Logic"**, is a more thoughtful counterpart. He is a sequential processing engine, who is more analytical and methodical and handles every situation on merit. His intervention is more an after thought and mostly a second line of response.<br>
+Every step he takes is based on the available empirical data. His reactions are thus more conscious and requires a lot of voluntary effort and input.
 
 Remember, **"Mr. Pristine"** is always the first line of response, so when you are cornered and asked to choose a path, you will almost always choose the path of comfort for **"Mr. Pristine"**. So if I corner you and ask you to pick color, you will pick your favourite color. No surprises in that.<br>
 
 ## Left-Right Myth Revisited
 <hr>
 
-If you take a closer look, "Mr. Logic", is methodical, analytical and a sequential processing engine. Thus "Mr. Logic" is heavily influenced by the [Left Brain](/blog/2017/03/17/leftbrain-rightbrain/#the-left-brain).<br>
-On the other hand, "Mr. Pristine" is so intuitive, reactive and expressive, giving a lot of significance to feelings, thus "Mr Pristine" seems heavily influenced by the [Right Brain](/blog/2017/03/17/leftbrain-rightbrain/#the-right-brain)
+If you take a closer look, "Mr. Logic", is methodical and seems heavily influenced by the [Left Brain](/blog/2017/03/17/leftbrain-rightbrain/#the-left-brain).<br>
+On the other hand, "Mr. Pristine" is intuitive and seems heavily influenced by the [Right Brain](/blog/2017/03/17/leftbrain-rightbrain/#the-right-brain)
 
-Though, the Left-Right dominance has been debunked, we clearly saw above that there exists two approaches to solving a problem. You can either go the **"Pristine"** way and rely on feelings or the **"Logic"** way and rely on rules.
+Though, the Left-Right dominance has been debunked, we clearly saw above that there exists two approaches to solving a problem. You can either go the **"Pristine"** way and rely on feelings or the **"Logic"** way and rely on rules.<br>
 _In short, you can either go the right-brained way or the left-brained way._
 
 A typical example would be learning a language like English. As per the [Left-Right Conundrum](/blog/2017/03/17/leftbrain-rightbrain/), language is purely a [left-brain](/blog/2017/03/17/leftbrain-rightbrain/#the-left-brain) trait. However, we can learn it in two ways.<br>
@@ -155,16 +155,20 @@ Either, understand all the rules of English Grammar and go by the books, or<br>
 Speak more, Read more and learn it through usage.
 
 How often, have we heard someone say a sentence in English and reacted like<br>
->"Well, that doesn't sound right".
+>"Well, that doesn't sound right".<br>
 When asked, what exactly was wrong, we say<br>
->"Not sure, but that didn't sound right."
+"Not sure, but that didn't sound right."
 
-I've personally done that umpteen times and in fact all the languages I've learnt so far is that way.<br>
-And no so surprisingly, that's the case with all of us.<br>
-So language can be a right-brain trait.<br>
+I've personally done that umpteen times and in fact all the languages I've learnt so far is that way, through feelings.<br>
+And not so surprisingly, that's the case with all of us.<br>
+So is language really a left-brain trait?<br>
 
-What I mean to say here, Left and Right brains do not compete with each other, they collaborate and work in synergy.<br>
-And so does, Pristine and Logic approaches. So when face with an issue, decide which approach you would take.
+What I mean to say here is, Left and Right brains do not compete with each other, they collaborate and work in synergy.<br>
+And so does, Pristine and Logic approaches. So when you face with an issue, take the best of both approaches and reach the goal.<br>
+We'll see a lot more of these as we keep [craking the T-Nuts](/blog/2017/03/08/cracking-a-tnut/), so stay tuned.
+
+## The Take-Aways
+<hr>
 
 
 
