@@ -130,6 +130,4 @@ But [WTF](/blog/2017/02/13/welcome-aboard/) in it? What can we learn out of it?<
 While the myth over-generalized and overstated a popular psychological aspect, understanding the brain's approach can help you develop better ways to learn, study & perform various tasks.<br>
 
 Though the brain is made up of two closely collaborating divisions, rather than two competing divisions of dominance, the fact that the brain approaches a scenario or problem statement via distinctive paradigms, can never be denied.<br>
-Enter Pristine Brain vs Logical Brain
- 
- 
+Enter [Pristine Brain vs Logical Brain](/blog/2017/03/18/pristine-logical-brain)
