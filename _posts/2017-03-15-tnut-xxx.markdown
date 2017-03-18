@@ -65,7 +65,7 @@ Let's begin [cracking the T-Nut](/blog/2017/03/08/cracking-a-tnut/), like we alw
 As if chewing on an unknown fruit following this [guide](/blog/2017/03/09/thumbrules-to-crack-a-tnut).<br>
 VROOM VROOM!
 
-## [Step1 - Isolate the epicarp](/blog/2017/03/08/cracking-a-tnut/#step-1---isolate-the-epicarp)
+## [Step1 - Cull the epicarp](/blog/2017/03/08/cracking-a-tnut/#step-1---cull-the-epicarp)
 <hr>
 
 I'm sure there was too much gibberish in that, so let me fish out the actual problem statement.<br>

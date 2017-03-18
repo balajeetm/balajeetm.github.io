@@ -24,10 +24,10 @@ As we march towards the [T-Nut](/blog/2017/02/21/technical-nuts/), we need to cu
 
 Let's begin then<br>
 
-## Step 1 - Isolate the <a href="https://en.wikipedia.org/wiki/Fruit_anatomy#Epicarp">epicarp</a>
+## Step 1 - Cull the <a href="https://en.wikipedia.org/wiki/Fruit_anatomy#Epicarp">epicarp</a>
 <hr>
 
-### <u>Why isolate ?</u>
+### <u>Why cull ?</u>
 This is an unknown fruit. Before we begin cracking the nut in it, let's make sure we understand or atleast roughly gauge the nut.<br>
 Is it a groundnut, peanut or a walnut?<br>
 And what about the fruit concealing it?<br>
@@ -46,14 +46,14 @@ As you wander into the real world, be it in your corporate environment, or your 
 Almost Never.<br>
 It is up to us to identify the problem, which is more often than not, in hiding.<br>
 
-### <u>What does isolating mean ?</u>
-Isolating the epicarp is the process of isolating and understanding the problem statement we are trying to address, from the other verbal gibberish that shrouds it.<br>
+### <u>What does culling mean ?</u>
+Culling the epicarp is the process of isolating and understanding the problem statement we are trying to address, from the other verbal gibberish that shrouds it.<br>
 Sometimes, just isolating the epicarp, can almost get you to the solution.<br>
 
 ### <u>An typical example</u>
 
 Still doesn't ring a bell?<br>
-Try this [example](/blog/2017/03/10/isolate-epicarp-example/) and get back.<br>
+Try this [example](/blog/2017/03/10/cull-epicarp-example/) and get back.<br>
 
 ### <u>Synopsis</u>
 

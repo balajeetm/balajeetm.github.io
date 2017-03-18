@@ -12,7 +12,7 @@ Below is the short step by step guide on how we crack it.
 
 <img src="/assets/2017-03-09/steps.png">
 
-## Step 1 - Isolate the <a href="https://en.wikipedia.org/wiki/Fruit_anatomy#Epicarp">epicarp</a>
+## Step 1 - Cull the <a href="https://en.wikipedia.org/wiki/Fruit_anatomy#Epicarp">epicarp</a>
 <hr>
 
 * <b>Simplify the problem statement</b><br> 

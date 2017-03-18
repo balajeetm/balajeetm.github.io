@@ -31,7 +31,7 @@ Let's begin [cracking the T-Nut](/blog/2017/03/08/cracking-a-tnut/), shall we?
 Like always, we are gonna use the analogy of chewing on an unknown fruit, to crack this [T-Nut](/blog/2017/02/21/technical-nuts/).<br>
 Let's follow this [step by step guide](/blog/2017/03/09/thumbrules-to-crack-a-tnut/) as we do so.
 
-## [Step1 - Isolate the epicarp](/blog/2017/03/08/cracking-a-tnut/#step-1---isolate-the-epicarp)
+## [Step1 - Cull the epicarp](/blog/2017/03/08/cracking-a-tnut/#step-1---cull-the-epicarp)
 <hr>
 
 The epicarp is already culled for us. Let's re-look at the problem statement<br>

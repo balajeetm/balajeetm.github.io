@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Isolating an Epicarp
+title: Culling the Epicarp
 date: 2017-03-10 16:19
 comments: true
 external-url:
@@ -8,7 +8,7 @@ categories: Examples
 ---
 
 >In my earlier post, we saw what a [T-Nut](/blog/2017/02/21/technical-nuts/) is and how we go about [cracking a T-Nut](/blog/2017/03/08/cracking-a-tnut)<br>
-We realised, there are multiple stages to cracking it, and first of those stages is [isolating the epicarp](/blog/2017/03/08/cracking-a-tnut/#step-1---isolate-the-epicarp).<br>
+We realised, there are multiple stages to cracking it, and first of those stages is [culling the epicarp](/blog/2017/03/08/cracking-a-tnut/#step-1---cull-the-epicarp).<br>
 Let's take a typical example to illustarte what that means. Remember, sometimes, that by itself, can get you almost to the solution. 
 
 ## <u>The Problem Statement</u>
@@ -95,7 +95,7 @@ We tend to understand the problem so much better, when we focus on the specifics
 Once, we understand the problem, solving it is a breeze.<br>
 Just a hammer away !!!
 
-If [culling the epicarp](/blog/2017/03/08/cracking-a-tnut/#step-1---isolate-the-epicarp) doesn't yet get you to the solution, try out the [subsequent steps](/blog/2017/03/08/cracking-a-tnut/#step-2---take-the-first-bite).
+If [culling the epicarp](/blog/2017/03/08/cracking-a-tnut/#step-1---cull-the-epicarp) doesn't yet get you to the solution, try out the [subsequent steps](/blog/2017/03/08/cracking-a-tnut/#step-2---take-the-first-bite).
 
 
 
