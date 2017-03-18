@@ -66,7 +66,7 @@ Many many different scenarios, but the same same feeling.<br>
 It would soon get pretty dense, and bring down the morale.<br>
 Those are times when I love to remember this awesome quote from [Christopher Nolan's](https://en.wikipedia.org/wiki/Christopher_Nolan) [Batman Trilogy](https://en.wikipedia.org/wiki/The_Dark_Knight_Trilogy)
 
-<img src="/assets/2017-03-12/WhyDoWeFall.jpg">
+<img id="why-do-we-fall" src="/assets/2017-03-12/WhyDoWeFall.jpg">
 
 When things get dense and it feels like you have hit a dead end, that is when we need to pivot.<br>
 These are times, to let go and look at the problem from a completely different perspective.<br>

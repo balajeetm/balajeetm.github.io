@@ -78,21 +78,61 @@ But how does one build this muscle memory?
 The brain builds these patterns, or more naively, the [hashmap](https://en.wikipedia.org/wiki/Hash_table), over time.<br>
 Though we are yet to figure out the complex algorithm that the brain employs to construct and match these patterns, we are at least aware of few inputs to the algorithm.<br>
 It is observed that the brain relies heavily on the feelings, or feedback from the senses to ascertain a pattern.<br>
-Remember, the point of this this sophisticated pattern recognition and all, is situational awareness. Thus context, plays a very vital role, in building or deciphering a pattern.<br>
+Remember, the point of this sophisticated pattern recognition and all, is situational awareness. Thus context, plays a very vital role, in building or deciphering a pattern.<br>
 
-How often have we been working on an idea or thought in our rooms, only to walk out and forget everything we have been thinking about.<br>
+How often have we been working on an idea or thought in our rooms, only to walk out and forget everything we have been thinking about?<br>
 Remember that eerie feeling of being in no man's land and lost for thought?<br>
 But as soon as we get back to our room, the thought or idea comes rushing back.<br>
-_**Context and Situational Awareness my friend**_. Context here is the key.<br>.
+_**Context and Situational Awareness my friend**_. Context here is the key.
 
 As the brain builds these patterns, overtime, it flushes the irrelevant and the unused.<br>
-Is it clear now as to why we forget everything we had crammed for the exam, right after the exam? Its **irrelevant** yo!<br>
-More importantly, the brain picks and strengthens the patterns that are pivotal for survival and gives it a competitive edge in the ambience.<br>
-These are _probably_ then passed through the genes to its progeny to give them a competitive edge.<br>
-This is _probably_ how fishes can swim as soon as they are born.
+Is it clear now as to why we forget everything we had crammed overnight, right after the exam? Its **irrelevant** yo!<br>
+More importantly, the brain picks and strengthens the patterns that are pivotal for its survival and those which gives it a competitive edge in the ambience.<br>
+These are _probably_ then passed through the genes to its progeny to give it an upper hand for survival.<br>
+This is _probably_ why fishes can swim as soon as they are born.<br>
+_"Probably"_, because we are still not completely sure how the brain operates.
 
 ## Pristine vs Logical Brain
 <hr>
+
+So everything we learn out there, we learn through feelings, because feelings are the only means of authentic feedback to the brain. And feedback is the only means of making or breaking the patterns of the brain. And it is through these patterns we learn, adapt, optimise and evolve.<br>
+This is the reason **hands on experience** is extremely important to build expertise in any field. Our factual knowledge only complements our hands-on efforts. Factual data in fact, only helps us learn faster from the actions, and aids us in taking the right ones.<br>
+It is for the same reason, many a times, people with practical knowledge and exposure are much better at doing a task, than people with just a degree or a certification.<br>
+
+If that statement is still sticky, think about how we all learnt to bicycle.<br>
+Bicycling is in fact a marvel of the brain's prowess.<br>
+
+<img src="/assets/2017-03-18/bicycle.jpg">
+
+Initially, it's almost impossible to even fathom, that we can ride something that looks so unstable.<br>
+But we look around and see people doing it with ease. This gives us a sense of confidence... this is feedback.<br>
+Then we step on the bike and use our conscious brain, the logical one to conquer the fear of balance.<br>
+It's simple physics see, if you tip over to the right, force your weight on the left,<br>
+And if you tip over to the left force your weight on the right.<br>
+
+We consciously keep doing this time and again but we keep falling. But we [pick ourselves up](/blog/2017/03/12/tnut-reverse-linked-list-pocket-finale/#why-do-we-fall) and keep trying... until a point where we sense a rhythm. We somehow manage to balance it first time and we savour that **"feeling"** and cherish it.<br>
+Soon, we observe we are able to balance with more consistency. This feeling of balance sticks on, an entry is made into our brain's hashmap, and from here on, the subconscious brain, the pristine counterpart to the logical one, kicks in.<br>
+Balancing now seems effortless. The pristine brain is doing it automatically for us. Its decoded the pattern, identified the rhythm and that's all it needs.<br>
+Soon, we are experts at riding and can efficiently react to external stimuli. We subconsciously know how to balance when an unexpected obstacle, throws us off rhythm, even though we have never been in that situation before.<br>
+This is the **"Pristine Brain"** weaving its magic. The Logical brain has already taken a back foot and is no longer consciously involved.
+
+### <u>The return of Logical Brain</u>
+
+Everything seems to be going smooth without any conscious involvement of the Logical Brain but it doesn't stay that way for ever. When do you think the Logical Brain steps in?<br>
+Imagine now after mastering the bicycle for so long, we ask one of our besties or parents to tag along and hitch a ride with us. We are sure to have done this right?<br>
+How do you think it felt then? Were we comfortable riding doubles?<br>
+**Never**. It throws us off balance right away and we find it extremely hard to even ride a meter.<br>
+But [WTF](/blog/2017/02/13/welcome-aboard/) in it, why so?<br>
+
+This is because the dynamics completely changed. The pattern for the subconscious brain, basically didn't match. That's because the weight drastically changed and the feel of the vehicle is so very different now. The pre-determined response in map, doesn't fit the usecase and we struggle.<br>
+So what we do, we start focusing to get balancing, and when we focus, the conscious logical brain steps it and identifies the new forces acting on us. We struggle a little but eventually hit the rhythm. This goes as feedback to the subconscious, and soon we master riding with people as well.
+
+
+
+
+
+
+
 
 The right brain is predominantly involved in identifying these patterns.<br>
 It thus greatly relies on the senses, the sense of touch, sound, sight, etc for the same.
