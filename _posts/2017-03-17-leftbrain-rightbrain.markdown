@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The LeftBrain-RightBrain Theory
+title: LeftBrain-RightBrain Theory
 date: 2017-03-17 20:05
 comments: true
 external-url:

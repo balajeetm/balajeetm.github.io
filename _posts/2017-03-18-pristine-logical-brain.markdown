@@ -25,7 +25,7 @@ Life has evolved and adapted over these years and as humans, we are the acme of 
 The purpose of life over all those years, has however remained constant - **survive and procreate**. As simple as that.<br>
 Simple as it may seem, survival is a very tricky problem statement.<br>
 You need to adapt to the surroundings. You need to learn the tricks of the trade.<br>
-It's like playing a sport, like for eg. [Tennis](https://en.wikipedia.org/wiki/Tennis).<br>
+It's like playing a sport, for eg. [Tennis](https://en.wikipedia.org/wiki/Tennis).<br>
 You need to learn all the shots of tennis and adapt to all the surfaces (grass, clay and hard) if you have to survive in the international arena for long.<br>
 The choice of shot varies drastically based on the surface and also the weather. When its windy for eg., you need to control the shots differently.<br>
 
@@ -40,7 +40,6 @@ The sense of touch and feelings, pain for eg, were feedback. The feedback helped
 Similar to [tennis](https://en.wikipedia.org/wiki/Tennis) however, this learning is a perpetual process. Because we need to survive against similar species who are learning as well.<br>
 **Our predators are learning, our preys are learning.**<br>
 So, every bit of optimisation is crucial for survival.<br>
-Its not enough if we somehow manage to do it, we need to do it well and do it fast.<br>
 Its not enough to learn all the tricks of the trade, we need to devise new ones and keep moving forward.
 
 And life isn't a sport.<br>
@@ -59,11 +58,11 @@ For starters, the brain can be viewed like a huge [hashmap](https://en.wikipedia
 So, if the brain has been in a situation before, it can quickly respond to a similar situation at a later point of time. This is critical in reacting to your predator's moves.<br>
 
 Let's take an example.<br>
-How many of us remember dozing off in a public transport and suddenly waking up out of nowhere, and still in an instant, managing to precisely realise where exactly we are.<br>
+How many of us remember dozing off in a public transport and suddenly waking up out of nowhere, and still in an instant, managing to realise, precisely where we are.<br>
 Better still, how many us remember dozing off in a public transport and effortlessly waking up exactly at our destination, just before we alight.<br>
 
-_**All this is possible because of the brain's situational awareness which is nothing but a sophisticated pattern recognition**_.
-This is more evident in repetitive tasks and the adage **Practice makes Perfect** is synonymous to [muscle memory](https://en.wikipedia.org/wiki/Muscle_memory).
+_**All this is possible because of the brain's situational awareness which is nothing but a sophisticated pattern recognition**_.<br>
+This is more evident in repetitive tasks and the adage **"Practice makes Perfect"** is nothing but a poetic representation of [muscle memory](https://en.wikipedia.org/wiki/Muscle_memory).
 
 ### <u><a href="https://en.wikipedia.org/wiki/Muscle_memory">Muscle Memory</a></u>
 >Muscle memory is a form of procedural memory that involves consolidating a specific task into memory through repetition. When a movement is repeated over time, a long-term muscle memory is created for that task, eventually allowing it to be performed **without conscious effort**. This process decreases the need for attention and creates maximum efficiency. Examples are everyday activities, such as riding a bicycle, playing a musical instrument, etc.
@@ -74,6 +73,25 @@ So the goal is to build a comprehensive muscle memory.<br>
 But how does one build this muscle memory?
 
 ## Building the patterns
+<hr>
+
+The brain builds these patterns, or more naively, the [hashmap](https://en.wikipedia.org/wiki/Hash_table), over time.<br>
+Though we are yet to figure out the complex algorithm that the brain employs to construct and match these patterns, we are at least aware of few inputs to the algorithm.<br>
+It is observed that the brain relies heavily on the feelings, or feedback from the senses to ascertain a pattern.<br>
+Remember, the point of this this sophisticated pattern recognition and all, is situational awareness. Thus context, plays a very vital role, in building or deciphering a pattern.<br>
+
+How often have we been working on an idea or thought in our rooms, only to walk out and forget everything we have been thinking about.<br>
+Remember that eerie feeling of being in no man's land and lost for thought?<br>
+But as soon as we get back to our room, the thought or idea comes rushing back.<br>
+_**Context and Situational Awareness my friend**_. Context here is the key.<br>.
+
+As the brain builds these patterns, overtime, it flushes the irrelevant and the unused.<br>
+Is it clear now as to why we forget everything we had crammed for the exam, right after the exam? Its **irrelevant** yo!<br>
+More importantly, the brain picks and strengthens the patterns that are pivotal for survival and gives it a competitive edge in the ambience.<br>
+These are _probably_ then passed through the genes to its progeny to give them a competitive edge.<br>
+This is _probably_ how fishes can swim as soon as they are born.
+
+## Pristine vs Logical Brain
 <hr>
 
 The right brain is predominantly involved in identifying these patterns.<br>
