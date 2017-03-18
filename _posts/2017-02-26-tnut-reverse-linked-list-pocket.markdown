@@ -114,7 +114,7 @@ That’s a good catch.
 Let me try to garnish some logic now
 
 * <b><u>Create a logical flow</u></b><br>
-Let me first see how Mr.Pristine went about it<br>
+Let me first see how [Mr.Pristine](/blog/2017/03/18/pristine-logical-brain/#who-is-who) went about it<br>
 i. He first split the linked list in batches of "n"<br>
 ii. He then reversed the sub link list<br>
 
@@ -133,15 +133,15 @@ If I choose to copy, I may end up making a copy of the whole train. I mean that�
 <b style="color:red" id="bookmark1"><Bookmark Alert!></b> Keep a bookmark of this please, we'll get back to this soon
 		
 <u>Reversing a linked list</u><br>
-How did Mr.Pristine do that?<br>
+How did [Mr.Pristine](/blog/2017/03/18/pristine-logical-brain/#who-is-who) do that?<br>
 
 Well he went to the last item in each sub-list, and then put the numbers in reverse.<br>
 Hey… wait… WTF in that? How can he do that?<br>
 I thought, you cannot traverse back in a singly linked list!!<br>
 
-But for Mr Pristine, there is no such thing as a singly linked list. There are no constraints. The cheater just started walking in reverse direction.
+But for [Mr Pristine](/blog/2017/03/18/pristine-logical-brain/#who-is-who), there is no such thing as a singly linked list. There are no constraints. The cheater just started walking in reverse direction.
 
-As we call out the bluff of Mr.Pristine, let's emphasize the constraints for him.<br>
+As we call out the bluff of [Mr.Pristine](/blog/2017/03/18/pristine-logical-brain/#who-is-who), let's emphasize the constraints for him.<br>
 Let's present the problem through our train analogy adding an explicit constraint<br>
 Even in train bogies, we can move back and forth, so,<br>
 'Assume there is a guard standing at the door preventing you from going back. He will only let you go forward'<br>

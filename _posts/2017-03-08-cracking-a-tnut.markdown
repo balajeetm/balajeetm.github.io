@@ -96,7 +96,7 @@ If you have seen similar problems, try to keep it as close to your earlier probl
 Begin by analysing the input and output samples and see if you can catch some rhythm. Catch some logic.<br>
 Try to see if you can guess the output, seeing the input. That's where we would want to start.
 * <b>Solve it mentally</b><br> 
-Let your "pristine brain" take centre stage. Go with the flow and mentally solve it.<br>
+Let your ["pristine brain"](/blog/2017/03/18/pristine-logical-brain/#who-is-who) take centre stage. Go with the flow and mentally solve it.<br>
 We can work the logic around it later.
 
 ## Step 3 - Chew and swallow the bite
@@ -127,7 +127,7 @@ The <b>typical</b> process of chewing on and swallowing the bite would be as bel
 * <b>Identify the edge cases</b><br>
 Re look at the samples and try to identify some anomalies or edge cases, apparent in the samples provided.
 * <b>Create a logical flow</b><br>
-Begin with naïve "pristine brain" approach and see if you can convert that to a programmable logic or logical diagram. Make tweaks in the thinking if need be.
+Begin with naïve ["pristine brain"](/blog/2017/03/18/pristine-logical-brain/#who-is-who) approach and see if you can convert that to a programmable logic or logical diagram. Make tweaks in the thinking if need be.
 * <b>Retrospect</b><br>
 Keep asking yourself if you are going towards the goal with your current approach.<br>
 Moving fast is useless, if you are moving in the wrong direction.<br>
@@ -135,18 +135,18 @@ If the approach seems complicated, give it some rest and try something else.
 
 <b><u>Note</u></b>
 
-More often than not, you will be unable to transform the "pristine brain" logic to a logical flow.<br>
-This is because the "pristine brain" works very differently than the "logical brain".<br>
+More often than not, you will be unable to transform the ["pristine brain"](/blog/2017/03/18/pristine-logical-brain/#who-is-who) logic to a logical flow.<br>
+This is because the ["pristine brain"](/blog/2017/03/18/pristine-logical-brain/#who-is-who) works very differently than the ["logical brain"](/blog/2017/03/18/pristine-logical-brain/#who-is-who).<br>
 Just because you solved something mentally, doesn't always mean you can write a program for it. It is for this reason, that we get stuck most of times when we try to pen something down.<br>
 ```
 Now do you see why interviewers insist us to write code?
 This is not to test your syntax strength but to identify some pitfalls in your reasoning.
 ```
 
-But remember, our pristine brain is extremely adaptable. The more of such problems we solve, the more efficient it will become in working with these types of constraints. And for this reason, we will be cracking a lot of such [T-Nuts](/blog/2017/02/21/technical-nuts/).
+But remember, our [pristine brain](/blog/2017/03/18/pristine-logical-brain/#who-is-who) is extremely adaptable. The more of such problems we solve, the more efficient it will become in working with these types of constraints. And for this reason, we will be cracking a lot of such [T-Nuts](/blog/2017/02/21/technical-nuts/).
 	
 Another word of caution.<br>
-While, the logical brain always looks for constraints, the pristine brain always ignores it, if it isn't explicit. "Pristine Brain" only cares about getting to the goal, however that is. So it is important we present the problem with all constraints emphasized, through the "Logical Counterpart" if you want to force some logical thinking.
+While, the [logical brain](/blog/2017/03/18/pristine-logical-brain/#who-is-who) always looks for constraints, the [pristine brain](/blog/2017/03/18/pristine-logical-brain/#who-is-who) always ignores it, if it isn't explicit. ["Pristine Brain"](/blog/2017/03/18/pristine-logical-brain/#who-is-who) only cares about getting to the goal, however that is. So it is important we present the problem with all constraints emphasized, through the "Logical Counterpart" if you want to force some logical thinking.
 	
 
 ## Step 4 - Take more bites
