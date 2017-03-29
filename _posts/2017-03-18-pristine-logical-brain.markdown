@@ -172,6 +172,6 @@ We'll see a lot more of these as we keep [craking the T-Nuts](/blog/2017/03/08/c
 <hr>
 
 Now that we know how the pristine and logical aspects operate in unison to materialise the genius of the brain, [WTF](/blog/2017/02/13/welcome-aboard/) in it for us?<br>
-What do we do with this noesis? Does it help me in any way?<br>
+What do we do with this noesis? Does it help us in any way?<br>
 
 **Of course it does**... Catch you in my next post where we see that in detail.

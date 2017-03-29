@@ -25,8 +25,8 @@ The same idea feels and looks so different from different angles.<br>
 
 Perspective my friend! Perspective!
 
-But what is the right?<br>
-Well, is there anything called right at all, when everything is subjective?<br>
+But what is right?<br>
+Well, is there anything called right at all in this subjective world?<br>
 What's right is what makes you feel best and feel light! And of course, is taking you towards your goal...<br>
 
 Let's stop there and not go too far. This isn't a psychology class.<br>
