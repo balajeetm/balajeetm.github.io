@@ -31,13 +31,13 @@ Compress(Technical Nut) = T-Nut :D (how funny)
 
 <img src="/assets/2017-02-21/t-nuts.png">
 
-T-Nut in short, is any problem statement, where we choose a logical approach to solve it.<br>
-The irony is strong in this one though, isn't it? We keep blabbering about "unjargon" but end up concocting new Jargons.<br>
+T-Nut in short, is any problem statement, that excites us and that we are willing to crack.<br>
+The irony is strong in this one though, isn't it? We keep blabbering about "unjargon" but end up concocting new [Jargons](http://www.urbandictionary.com/define.php?term=Jargon) like "T-Nut"<br>
 [WTF](/blog/2017/02/13/welcome-aboard/) in that?
 
 Well, Stand out of the crowd yo! Be different.<br>
 Beauty is in the eye of the beholder.<br>
-After all, It sounds so jazzy doesn't it? It gives a nice ring to even our despicable problems.<br>
+After all, "T-Nut" does sound jazzy doesn't it? It also gives a nice ring to our despicable problems.<br>
 
 Jokes apart, T-Nut is more than just a catchy phrase.
 In T-Nut, we'll try to tackle many riddles.<br>
@@ -45,20 +45,21 @@ The moto however is not to just get to the solution.<br>
 Getting a solution is not hard nowadays. 'Oh, just google it yo.'<br>
 
 The cynosure here is the path we take to the solution and, not to forget, the detours.<br>
-Let's dissect the thought process we carry!<br>
-And learn from it.<br>
+Let's dissect the thought process we carry, and iteratively learn from it.<br>
+[WTF](/blog/2017/02/13/welcome-aboard/) in learning you ask, huh?<br>
+We don't want to make the same mistakes again, do we? There are so many new ones to make. :D<br>
 
-T-Nut is like the seed that resides in the centre of a fruit.<br>
+Honestly, T-Nut is like the seed that resides in the centre of a fruit.<br>
 Small in size but herculean in stature.<br>
 The seed can open doors to new avenues, can beget and nourish enormous trees of knowledge, rooted strongly in new paradigms.<br>
 But just like in a fruit, the T-Nut as a seed, is shrouded in edible [pericarps](https://en.wikipedia.org/wiki/Fruit_anatomy#Pericarp_layers) and non-edible [epicarps](https://en.wikipedia.org/wiki/Fruit_anatomy#Epicarp).<br>
 
 Getting to the core and getting to the seed is a journey... A journey to cherish.<br>
-As we march towards the T-Nut, we need to cull the epicarp, swallow the pericarp, and before we can realize, we would have reached the epicenter as a completely different being.<br>
+As we march towards the T-Nut, we need to cull the epicarp, swallow the pericarp, and before we realize, we would have reached the epicenter as a completely different being.<br>
 
 ```
 Like they say, everyone wants a magical solution to their problem,
-but everyone refuses to believe in magic. 
+but they refuse to believe in magic. 
 The magic is in the seed.
 Let's sow and reap the right ones.
 ```

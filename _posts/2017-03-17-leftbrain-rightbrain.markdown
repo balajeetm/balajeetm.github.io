@@ -52,7 +52,7 @@ In fact, scientists have always spent a lot of time pondering [WTF](/blog/2017/0
 <img src="/assets/2017-03-17/joker-why-so-symmetric.jpg">
 
 There are some obvious survival benefits from left-right symmetry.<br>
-With muscles and limbs on both sides of their bodies, animals could move forward quickly and efficiently. Why you ask? Either to hunt a prey or escape from a predator.<br>
+With muscles and limbs on both sides of their bodies, animals could move forward quickly and efficiently on either side. This is spatial advantage, do you see? But, [WTF](/blog/2017/02/13/welcome-aboard/) in this advantage? Either to hunt a prey or escape from a predator.<br>
 Once established, symmetry had a powerful effect on how new organs evolved.<br>
 Eyes and antennae tended to develop in left-right pairs, for example. When early fish began to evolve complex brains, those too developed according to left-right rules. This gave a species a holistic picture of the surroundings that helped it make some critical decisions.<br>
 
