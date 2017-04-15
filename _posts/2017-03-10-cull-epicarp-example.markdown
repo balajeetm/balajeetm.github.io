@@ -7,9 +7,9 @@ external-url:
 categories: Examples
 ---
 
->In my earlier post, we saw what a [T-Nut](/blog/2017/02/21/technical-nuts/) is and how we go about [cracking a T-Nut](/blog/2017/03/08/cracking-a-tnut)<br>
-We realised, there are multiple stages to cracking it, and first of those stages is [culling the epicarp](/blog/2017/03/08/cracking-a-tnut/#step-1---cull-the-epicarp).<br>
-Let's take a typical example to illustarte what that means. Remember, sometimes, that by itself, can get you almost to the solution. 
+>In my earlier post, we saw what a [T-Nut](/blog/2017/02/21/technical-nuts/) is and how we go about [cracking a T-Nut](/blog/2017/03/08/cracking-a-tnut).<br>
+We started with a step by step approach and soon realized, that the first of those stages is [culling the epicarp](/blog/2017/03/08/cracking-a-tnut/#step-1---cull-the-epicarp). We also stated, that sometimes, the culling by itself, can get us to close proximity of the solution.<br>
+Let's take a typical example to illustrate what that means. 
 
 ## <u>The Problem Statement</u>
 
@@ -40,10 +40,12 @@ What is the velocity of the butterfly?
 ## <u>The Solution</u>
 
 So how did you feel reading that epic?<br>
-There was so much that was said, did the question feel complicated?<br>
-Let's try to extract the relevant info from the eloquent barrage.<br>
+Didn't the question feel complicated? Even though, there was abundance of information.<br>
+That's because of lack of pertinent context connecting the information dots.<br>
+
+With so much that was said, let's try to extract the relevant info from the eloquent barrage.<br>
 If you are not from a physics background and did not understand quite a few terms there, well, not to worry.<br>
-The only thing you ever need to know is what is velocity?<br>
+The only thing you ever need to know is what it means by "velocity".<br>
 [Velocity](https://en.wikipedia.org/wiki/Velocity) is defined as total displacement over time.<br>
 ```
 V = Displacement/time
@@ -55,7 +57,7 @@ V = Displacement/time
 
 At the end of it all, though the butterfly did move around a lot, from one mirror to another, back and forth, it actually didn't quite displace much.<br>
 **Getting that is the crux of the problem.**<br>
-Everything else you see - the long verbose description, the coefficient of friction and reflections are all distractions... are all [epicarps](https://en.wikipedia.org/wiki/Fruit_anatomy#Epicarp).
+Everything else you see - the long verbose description, the coefficient of friction and reflections... are all distractions... are all [epicarps](https://en.wikipedia.org/wiki/Fruit_anatomy#Epicarp).
 Let's cull it then.<br>
 
 All you need to do is now find the total distance moved by mirror-1 before colliding with mirror-2.<br>
@@ -63,7 +65,7 @@ Because the displacement of the butterfly is how far mirror-1 has moved from the
 Wonder why? The butterfly started at the same point remember?<br>
 Ting, Ring - Does that ring a bell?<br>
 
-If that's understood, this is simple relative velocity problem.<br>
+If that's understood, this is a simple relative velocity problem.<br>
 Time taken to collide is calculated as below<br>
 
 ```
@@ -86,7 +88,7 @@ So total velocity of the butterfly is
 ```
 
 **60 kms per hour**. Awesome right?<br>
-Piece of cake, if only we set aside the epicarp<br>
+Piece of cake, **[iff](https://en.wikipedia.org/wiki/If_and_only_if)** we set aside the epicarp<br>
 
 ## <u>The Learning</u>
 

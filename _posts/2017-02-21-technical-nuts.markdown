@@ -31,7 +31,7 @@ Compress(Technical Nut) = T-Nut :D (how funny)
 
 <img src="/assets/2017-02-21/t-nuts.png">
 
-T-Nut in short, is any problem statement, that excites us and that we are willing to crack.<br>
+T-Nut in short, is any technical problem statement, that excites us and that we are willing to crack.<br>
 The irony is strong in this one though, isn't it? We keep blabbering about "unjargon" but end up concocting new [Jargons](http://www.urbandictionary.com/define.php?term=Jargon) like "T-Nut"<br>
 [WTF](/blog/2017/02/13/welcome-aboard/) in that?
 
@@ -65,7 +65,7 @@ Let's sow and reap the right ones.
 ```
 
 So the focus of our stints in T-Nut, is more on the journey, than the destination.<br>
-We are not actually fixing the problem, but **we are more fixing our thinking as we move along**, with a stern belief, that that by itself, will automatically eradicate all problems. If not, it will at least make us more competent to tussle with them.<br>
+We are not actually fixing the problem, but **we are more fixing our thinking as we move along**, with a stern belief, that that by itself, will eradicate all problems. If not, it will at least make us more competent to tussle with them as we move on.<br>
 <b>#Trust #Faith</b>
 
 So cool huh?<br>
