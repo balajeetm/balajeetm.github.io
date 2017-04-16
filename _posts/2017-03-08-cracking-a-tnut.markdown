@@ -238,7 +238,7 @@ and the non-straightforward scenarios, more so called the edge cases.
 ## Step 7 - Perpetual Optimization
 <hr>
 
-Last but not least, optimization is a perpetual process!<br>
+Last but not least, optimization is a perpetual process! There is always room for improvement.<br>
 For quite a few reasons, we would have to optimize our current solution.
 
 ### <u>Letting Go</u> 
