@@ -9,11 +9,11 @@ categories: T-Nut
 
 
 > It was a gloomy evening and we were sipping some hot tea, peeking through the transparent window.<br>
-The day was so dull that even the sun didn't want to show up all day.<br>
+The day was so dull, that even the sun didn't want to show up all day.<br>
 He hid behind the clouds, robbing us off our spirits.<br>
 The lacklustre day couldn't get any more sluggish... we were craving for some entertainment.<br>
 So Little B decided to bombard us with one of his [T-Nuts](/blog/2017/02/21/technical-nuts/) to cheer us up.<br>
-As trivial a problem that it seemed to be, nothing is ever so simple with Little B, is it?
+As trivial a problem that it seemed to be, we soon realised, nothing is ever so simple with Little B.
 
 ## Hone your math skills
 <hr>
@@ -51,7 +51,7 @@ No two balls are engraved with the same number.<br>
 The cryptic puzzle he stated was as below:
 
 _**"You need to pick, three balls from the first crate, no more, no less and place them in the second crate.<br>
-The constraint being, the sum of the carvings on the balls should add to thirty,<br>
+The constraint being, the sum of the carvings on the balls, should add to thirty,<br>
 XXX in roman, and thus the vignette on the door!<br>
 Three balls, No more, No less.<br>
 Summing to 30 (XXX)"**_<br>
@@ -61,11 +61,11 @@ Summing to 30 (XXX)"**_<br>
 ## The Thought Train
 <hr>
 
-Let's begin [cracking the T-Nut](/blog/2017/03/08/cracking-a-tnut/), like we always do.<br>
-As if chewing on an unknown fruit following this [guide](/blog/2017/03/09/thumbrules-to-crack-a-tnut).<br>
-VROOM VROOM!
+Let's begin [cracking the T-Nut](/blog/2017/03/08/cracking-a-tnut/), like we always do, using the analogy of chewing on an unknown fruit.<br>
+This time however, we'll follow the [simplified guide](/blog/2017/03/09/cracking-tnut-simplified/#simplified-nut-cracker), instead of the [elaborate one](/blog/2017/03/08/cracking-a-tnut/).<br>
+VROOM VROOM! Let's begin!
 
-## [Step1 - Cull the epicarp](/blog/2017/03/08/cracking-a-tnut/#step-1---cull-the-epicarp)
+## [Step1 - Culling epicarp](/blog/2017/03/09/cracking-tnut-simplified/#culling-epicarp)
 <hr>
 
 I'm sure there was too much gibberish in that, so let me fish out the actual problem statement.<br>
@@ -76,10 +76,9 @@ It's a simple math quiz.
 ```
 Find x,y,z where
 x + y + z = 30
-
 ```
 
-## [Step2 - Take the first bite](/blog/2017/03/08/cracking-a-tnut/#step-2---take-the-first-bite)
+## [Step2 - Biting](/blog/2017/03/09/cracking-tnut-simplified/#biting)
 <hr>
 
 Visual representation is already provided. Let me think out loud to solve it.<br>
@@ -106,7 +105,7 @@ Hey, wait a second. That's an anomaly.<br>
 
 ***Sum of three odd numbers cannot be even!***
 
-## [Step3 - Chew and swallow the bite](http://blog.balajeetm.com/blog/2017/03/08/cracking-a-tnut/#step-3---chew-and-swallow-the-bite)
+## [Step3 - Chewing & Swallowing](/blog/2017/03/09/cracking-tnut-simplified/#chewing--swallowing)
 <hr>
 
 Yup, surely. Sum of three odd cannot be even. Here's the proof for non-believers.
@@ -122,9 +121,12 @@ if p = (a + b + c + 1),
 2p + 1 = 30
 ```
 
-2p + 1 cannot be 30 when p is an integer!!!<br>
+(2p + 1) represents an odd number.<br>
+(2p + 1) cannot be 30 when p is an integer!!!<br>
 **Odd cannot be equal to even<br>
 So, NO SOLUTION**
+
+So, we cracked the nut and were flaunting our brilliance with Little B.
 
 ## The Mockery
 <hr>
@@ -132,7 +134,7 @@ So, NO SOLUTION**
 As we were basking in the glory of cracking the [t-nut](/blog/2017/02/21/technical-nuts/), all Little B could manage was a satirical grin.<br>
 Infuriated by his disdainful visage, we enquired as to what was so funny to smile?<br>
 We asked him,<br>
-_"Is accepting that we could crack your [T-Nut](/blog/2017/02/21/technical-nuts/) with such ease, such a bitter pill to swallow?"_
+_"Is accepting that we could crack your [T-Nut](/blog/2017/02/21/technical-nuts/), with much ease, such a bitter pill to swallow?"_
 
 To this, he just stood up and started walking away. He paused momentarily and with his gaze directed away from us, without even turning towards our side, he mocked,<br>
 >"You stand at the doors of heaven, with a free ticket to freedom.<br>
@@ -140,20 +142,20 @@ All you need to do is choose three freaking balls that'll redefine your life for
 And what do you end up doing?<br>
 Laugh at the door, taunting that the question is wrong.<br>
 And you even have the audacity to rejoice the moment?<br>
-The trouble with all of us is that we don't know to define victory.<br>
+The trouble with all of us, is that, we don't know to define victory.<br>
 We don't even understand our battles, letgo choosing them.<br>
 Bravo Guys!!! Have fun!!"
 he said and faded into the twilight.
 
-More than the way he scorned at the us, the depth of his ridicule and the utter hopeless of our approach, highlighted in his derision, broke us apart.<br>
-So true when you think of it...<br>
+More than the way he scorned at the us, the depth of his ridicule and the utter hopelessness of our approach, highlighted in his derision, broke us apart.<br>
+So true... when you think of it...<br>
 I'm a step away from paradise.<br>
 And I'm letting a freaking elementary math problem block my way?<br>
 No way, time to go full throttle, I thought to myself.<br>
 
 I jumped at the problem again with renewed resolve.
 
-## [Step 4 - Take more bites](http://blog.balajeetm.com/blog/2017/03/08/cracking-a-tnut/#step-4---take-more-bites) and [Step 5 - Swallow the next bite](http://blog.balajeetm.com/blog/2017/03/08/cracking-a-tnut/#step-5---swallow-the-next-bite)
+## [Bite, Chew & Swallow](/blog/2017/03/09/cracking-tnut-simplified/#final-bites)
 <hr>
 
 However I look at it, the sum of three odd numbers cannot turn even.<br>
@@ -163,9 +165,10 @@ I was heart-broken but I needed the solution.<br> Am I so bad at math?<br>
 What am I missing?
 
 ## The Solution
+<hr>
 
-Little B smiled at our inanity and picked three balls as below to show the solution.
-[Perspective my friend](/blog/2017/02/13/welcome-aboard/#perspective), perspective.
+Little B smiled at our inanity and picked three balls as below to show the solution.<br>
+_"[Perspective my friend](/blog/2017/02/13/welcome-aboard/#perspective), perspective"_, he said.
 
 <img src="/assets/2017-03-15/solution.png">
 
@@ -179,7 +182,7 @@ _**"The balls can freely move inside the crate"**_
 
 With hands in his pocket, Little B stood up sluggishly, and started walking away, muttering,<br>
 <div id="differentangle"></div>
-_**"All you need to do is let go and look at the problem from a different angle"**_,<br>
+_**"All you need to do. is let go, and look at the problem from a different angle"**_,<br>
 And faded into the distance, not even bothering to look by my side.<br>
 
 I looked out of the window, as the [sun was slowly slipping out of the cloud](/blog/2017/03/16/tnut-xxx-demystified/).

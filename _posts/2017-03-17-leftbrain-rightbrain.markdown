@@ -52,42 +52,43 @@ In fact, scientists have always spent a lot of time pondering [WTF](/blog/2017/0
 <img src="/assets/2017-03-17/joker-why-so-symmetric.jpg">
 
 There are some obvious survival benefits from left-right symmetry.<br>
-With muscles and limbs on both sides of their bodies, animals could move forward quickly and efficiently on either side. This is spatial advantage, do you see? But, [WTF](/blog/2017/02/13/welcome-aboard/) in this advantage? Either to hunt a prey or escape from a predator.<br>
+With muscles and limbs on both sides of their bodies, animals could move forward quickly and efficiently on either side. This is spatial advantage, do you see?<br>
+But, [WTF](/blog/2017/02/13/welcome-aboard/) in this advantage? Either to hunt a prey or escape from a predator.<br>
 Once established, symmetry had a powerful effect on how new organs evolved.<br>
-Eyes and antennae tended to develop in left-right pairs, for example. When early fish began to evolve complex brains, those too developed according to left-right rules. This gave a species a holistic picture of the surroundings that helped it make some critical decisions.<br>
+Eyes and antennae tended to develop in left-right pairs, for example. When early fish began to evolve complex brains, those too developed according to left-right rules. This gave a species, a holistic picture of the surroundings, that helped it make some critical decisions.<br>
 
-In short evolution is survival... and with the symmetry<br>
-_**Survival was facilitated by this [peer-to-peer architecture](https://en.wikipedia.org/wiki/Peer-to-peer)<br>
-In fact, the symmetry also doubles up for [redundancy](https://en.wikipedia.org/wiki/Redundancy_(engineering)) as seen [below](#slicing-the-brain)**_.<br>
+In short, evolution is survival... and with the symmetry,<br>
+_**Survival was facilitated by this [peer-to-peer architecture](https://en.wikipedia.org/wiki/Peer-to-peer)**, where each side was as powerful as the other.<br>
+**In fact, the symmetry also doubles up for [redundancy](https://en.wikipedia.org/wiki/Redundancy_(engineering)) as seen [below](#slicing-the-brain)**, as each side can swap for one another in case of emergency_.<br>
 
 [Peer-to-Peer architecture](https://en.wikipedia.org/wiki/Peer-to-peer) and [Redundancy](https://en.wikipedia.org/wiki/Redundancy_(engineering)) are not just software strategies, as you can see.
 
 In fact the more you look at the brain, the more it seems like a super computer,<br>
-A computer, employing algorithms much complex than our own computers.<br>
+A computer, employing algorithms, much complex than our own.<br>
 
 If you look at the brain as a giant [T-Nut](/blog/2017/02/21/technical-nuts/), then as per our [strategy](/blog/2017/03/08/cracking-a-tnut/#step-2---take-the-first-bite) of [cracking the T-Nut](/blog/2017/03/08/cracking-a-tnut/), looking at it on the lines of something we already understand, i.e a computer, makes more sense.
  
 All right, we understand the redundancy model, but what makes us think that the two hemispheres of the brain have different character traits?<br>
 Does one side of the brain control specific functions? Are people either left-brained or right-brained?<br>
-Shouldn't two similar hemispheres be exactly alike in a peer to peer architecture redundancy model?<br>
+Shouldn't two similar hemispheres be exactly alike, in a peer to peer architecture redundancy model?<br>
 
 ### <u>Slicing the Brain</u><br>
 
 The right brain-left brain theory originated in the work of [Roger Wolcott Sperry](https://en.wikipedia.org/wiki/Roger_Wolcott_Sperry), who was awarded the Nobel Prize for the same. While studying the effects of epilepsy, Sperry discovered that cutting the corpus callosum could reduce or eliminate seizures.<br>
-In fact even today, surgeons make the extreme kind of slice in the brain of a patient. A child may suffer from epilepsy so severe that the only relief doctors can offer is to open up the skull and cut out the entire hemisphere in which the seizures start.<br>
-It may take a child a year of physical therapy to recover from losing a hemisphere—but the fact that patients recover at all is stunning when you consider that they have only half a brain.<br>
+In fact even today, surgeons make the extreme kind of slice in the brain of a patient. A child may suffer from epilepsy so severe, that the only relief doctors can offer, is to open up the skull and cut out the entire hemisphere in which the seizures start.<br>
+It may take a child, a year of physical therapy, to recover from losing a hemisphere—but the fact that patients recover at all, is stunning, when you consider that they have only half a brain.<br>
 **Redundancy my friend! [High Availability](https://en.wikipedia.org/wiki/High_availability) through redundancy.**
 
-However, these patients also experienced other symptoms after the communication pathway between the two sides or when a hemisphere itself was cut.<br>
+However, these patients also experienced other symptoms after the communication pathway between the two sides or when a hemisphere itself was cut off.<br>
 For example, many split-brain patients found themselves unable to name objects that were processed by the right side of the brain but were able to name objects that were processed by the left-side of the brain.<br>
 Based on this information, Sperry suggested that language was controlled by the left-side of the brain.<br>
-It was discovered that the left side of the brain tends to control many aspects of language and logic, while the right side tends to handle spatial information and visual comprehension.
+Later, it was discovered that the left side of the brain tends to control many aspects of language and logic, while the right side tends to handle spatial information and visual comprehension.
 
 ## The left-right traits
 <hr>
 
 ### <u>The Right Brain</u><br>
-Thus, as per the theory, the right brain controls expressiveness & creativity. Some of the abilities associated with the right side of the brain include:
+Thus, as per the theory, apart from controlling the organs on the left side, the right brain controls expressiveness & creativity. Some of the abilities associated with the right side of the brain include:
 * Recognizing patterns
 * Expressing emotions
 * Art - Music, Painting, etc
@@ -97,7 +98,7 @@ Thus, as per the theory, the right brain controls expressiveness & creativity. S
 * Creativity
 
 ### <u>The Left Brain</u><br>
-The left-side of the brain on the other hand is adept at tasks that involve logic, language, and analytical thinking. Anything that involves **conscious processing**. The left-brain is better at:
+The left-side of the brain on the other hand, is adept at tasks that involve logic, language, and analytical thinking. Basically, it owns anything that involves **conscious processing**. The left-brain is better at:
 * Language
 * Logic
 * Critical thinking
@@ -113,13 +114,13 @@ So, now coming to the important question, are people either left-brained or righ
 Does one hemisphere dominate over the other?<br>
 
 The simple answer is **NO**.
-Like many popular psychology myths, the observations of the human brain were dramatically distorted and exaggerated out of proportion leading to this myth.<br>
+Like many popular psychology myths, the observations of the human brain were dramatically distorted and exaggerated out of proportion, leading to this myth.<br>
 
 Later research has shown that the brain is not nearly as dichotomous as once thought.<br>
-For example, research has shown that abilities in subjects such as math are strongest when both halves of the brain work together. Today, neuroscientists know that the two sides of the brain collaborate to perform a broad variety of tasks and that the two hemispheres communicate very well through the corpus callosum.
+For example, research has shown that abilities in subjects such as math, are strongest when both halves of the brain work together. Today, neuroscientists know, that the two sides of the brain collaborate to perform a broad variety of tasks and that the two hemispheres communicate very well through the corpus callosum.
 
 >**"No matter how lateralized the brain can get, the two sides still have to work together,"**, explained science writer Carl Zimmer, in an article for Discover magazine.<br>
-"The pop psychology notion of a left brain and a right brain doesn’t capture their intimate working relationship. The left hemisphere specializes in picking out the sounds that form words and working out the syntax of the phrase, for example, but it does not have a monopoly on language processing. The right hemisphere is more sensitive to the emotional features of language, tuning-in to the slow rhythms of speech that carry intonation and stress."
+"The pop psychology notion of a left brain and a right brain, doesn’t capture their intimate working relationship. The left hemisphere specializes in picking out the sounds that form words and working out the syntax of the phrase, for example, but it does not have a monopoly on language processing. The right hemisphere is more sensitive to the emotional features of language, tuning-in to the slow rhythms of speech that carry intonation and stress."
 
 “It’s absolutely true that some brain functions occur in one or the other side of the brain. Language tends to be on the left, attention more on the right.<br>
 **But people don’t tend to have a stronger left- or right-sided brain network.**<br>
@@ -129,7 +130,7 @@ While the idea of right brain / left brain thinkers has been debunked, its popul
 But why are the two hemispheres performing different tasks, you may ask?<br>
 The answer to that is quite simple. Brain is an optimised engine, it is employing a typical [Work Stealing](https://en.wikipedia.org/wiki/Work_stealing) strategy to optimally divide load between the two lobes.<br>
 But [WTF](/blog/2017/02/13/welcome-aboard/) in it? What can we learn out of it?<br>
-While the myth over-generalized and overstated a popular psychological aspect, understanding the brain's approach can help you develop better ways to learn, study & perform various tasks.<br>
+While the myth over-generalized and overstated a popular psychological aspect, understanding the brain's approach, can help you develop better ways to learn, study & perform various tasks.<br>
 
 Though the brain is made up of two closely collaborating divisions, rather than two competing divisions of dominance, the fact that the brain approaches a scenario or problem statement via distinctive paradigms, can never be denied.<br>
 Enter [Pristine Brain vs Logical Brain](/blog/2017/03/18/pristine-logical-brain)
