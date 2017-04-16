@@ -73,7 +73,7 @@ More often than not, [culling the epicarp](#step-1---cull-the-epicarp), **WILL N
 So what do we do next? Even after [culling the epicarp](#step-1---cull-the-epicarp), the [T-Nut](/blog/2017/02/21/technical-nuts/) is still not visible to the naked eye.<br>
 We are still far from it. We need to get closer.<br>
 
-Well, since 'Hunger' knows no barriers, for one option, we can bite our way through to the it.<br>
+Well, since 'Hunger' knows no barriers, for one option, we can bite our way through to it.<br>
 But our first bites are always calculative right? We always prefer to bite the juicy side, or at least what we think is juicy.<br>
 
 ### <u>What's so juicy?</u>
@@ -84,8 +84,9 @@ So for the next bite, we will look at the fruit from an angle where it seems pal
 ```
 Taking a bite, is a process of collecting data points.
 It's about gathering enough information to stride towards a goal.
+In short, it's devising a strategy towards the solution.
 ```
-However, taking the first bite is the process of looking at the problem statement through the lens of something that we already know. More like, transforming it to a problem variety that we have already conquered before.<br>
+However, taking the first bite is the process of looking at the problem statement through the lens of something that we already know. More like, transforming it to a problem variety that we have already conquered before. That should be our first strategy towards the solution.<br>
 Apart from the invaluable psychological edge that it boosts, it gives us a path to start walking towards a goal.<br>
 
 ### <u>Synopsis</u>
@@ -118,6 +119,7 @@ Create a mindmap and visually connect the dots available through buzz words, pro
 ```
 Chewing & Swallowing thus, is synonymous to
 analysis, logic formulation and retrospection.
+In short, a logical, feedback driven manifestation of our strategy.
 ```
 You can do this mentally, scribble on paper or start hacking some code.<br>
 Whatever you do, remember to <b>retrospect</b>.<br>
@@ -139,7 +141,7 @@ If the approach seems complicated, let's give it some rest and try something els
 
 <b><u>Note</u></b>
 
-More often than not, you will be unable to transform the ["pristine brain"](/blog/2017/03/18/pristine-logical-brain/#who-is-who) logic to a logical flow.<br>
+More often than not, you will be unable to transform the ["pristine brain"](/blog/2017/03/18/pristine-logical-brain/#who-is-who) methodology to a logical flow.
 This is because the ["pristine brain"](/blog/2017/03/18/pristine-logical-brain/#who-is-who) works very differently than the ["logical brain"](/blog/2017/03/18/pristine-logical-brain/#who-is-who).<br>
 Just because you solved something mentally, doesn't always mean you can write a program for it. It is for this reason, that we get stuck most of times when we try to pen something down.<br>
 ```
@@ -189,8 +191,8 @@ Our thoughts will manifest itself into action and turn out fruitful. Let's keep 
 As just stated, as we move along, we can either choose to take similar bites and narrow down on the solution or take a divergent path.<br>
 
 With each bite, as we try out a new solution path or optimise the current one,<br>
-we sculpt out a sustainable, workable logic as we swallow.<br>
-But more importantly, let's remember to retrospect.<br>
+let's sculpt out a sustainable, workable logic as we swallow.<br>
+And more importantly, let's remember to retrospect.<br>
 Let's retrospect and evaluate the approach and check if this is taking us towards the goal. Because if not, we may need to start over.<br>
 The earlier we re-route from an ineffective path, the better, so feedback is key.<br>
 
@@ -222,10 +224,12 @@ Just drop the fruit, pick up a new one and start gnawing your way through.<br>
 We have the appetite don't we? Then why worry?
 
 ### <u>NFRs (Non Functional Requirements)</u>
-In software terminologies, such requirements, which are outside the scope of the functional core but still as important and relevant as the core functionality, is termed as **"Non Functional Requirements"**, or in short, **NFRs**.<br>
-And similar to our fruit analogy, engineers always choose to bite these at the end.<br>
+In software terminologies, such requirements, which are outside the scope of the functional core but still as important and relevant as the core functionality, are termed as **"Non Functional Requirements"**, or in short, **NFRs**.<br>
+NFRs are key requirements these days, because as Engineers we are keen on efficiently using the resources we have at our disposal.<br>
+But similar to our fruit analogy, engineers always choose to bite these at the end.<br>
 
 Typical examples include security aspects, performance, scalability, usability, etc.<br>
+This could be the stage where we critically evaluate our strategy's ["Time Complexity"](https://en.wikipedia.org/wiki/Time_complexity) and ["Space Complexity"](http://www.geeksforgeeks.org/g-fact-86/)
 ```
 Thus "Optimizing Final Bites" is the process of addressing the NFRs
 and the non-straightforward scenarios, more so called the edge cases.
@@ -235,6 +239,7 @@ and the non-straightforward scenarios, more so called the edge cases.
 <hr>
 
 Last but not least, optimization is a perpetual process!<br>
+For quite a few reasons, we would have to optimize our current solution.
 
 ### <u>Letting Go</u> 
 Many a times, the way we chose to approach the problem, might take us off course and lead to a lot a difficulties. And only deep down the thought process, we may realise we are going astray.<br>
@@ -266,10 +271,12 @@ Performance is a key requirement nowadays, so when we set out to solve a problem
 And remember,<br>
 **Necessity is the mother of invention**.<br>
 That adage is not just for the lazy gooses but also for the smart squirrels.<br>
-Don't over engineer. Don't over optimise. Do what ever is needed. Get to the goal and keep getting better.
+Don't over engineer. Don't over optimise. Do only what ever is needed.<br>
+First get to the goal and then, keep getting better.
 
-Let's take a case study to understand the above approach.
+That's an elaborate guide we have here. Let's take a case study to understand the above approach.<br>
 Let's start with this simple Little B [T-Nut](/blog/2017/02/21/technical-nuts/) of [reversing a list](/blog/2017/02/26/tnut-reverse-linked-list-pocket/).<br>
-Its' road to El Dorado then!!
+Once we are done cracking the [T-Nut](/blog/2017/02/21/technical-nuts/), we'll revisit and see if we can simply the approach.<br>
+All righty, its' road to El Dorado then!!
 
 > For a shorter concise version of the above, refer the [quick guide](/blog/2017/03/09/thumbrules-to-crack-a-tnut/)
