@@ -12,7 +12,7 @@ Though we now know, that the brain is made up of two closely collaborating divis
 The brain works in mysterious ways.<br>
 In fact, over the years, scientists have been viewing the brain as a [T-Nut](/blog/2017/02/21/technical-nuts/) (though it more looks like a walnut), and trying to crack its behavior.<br>
 Though we have been making progress, there still isn't any complete clarity on its work-ways.<br>
-Let's explore our human brain a little more in this post and find out [WTF](/blog/2017/02/13/welcome-aboard/) in it's working.
+Let's explore our human brain, a little more in this post, and find out [WTF](/blog/2017/02/13/welcome-aboard/) in it's working.
 
 ## Play it like a sport
 <hr>
@@ -27,7 +27,7 @@ Simple as it may seem, survival is a very tricky problem statement.<br>
 You need to adapt to the surroundings. You need to learn the tricks of the trade.<br>
 It's like playing a sport, for eg. [Tennis](https://en.wikipedia.org/wiki/Tennis).<br>
 You need to learn all the shots of tennis and adapt to all the surfaces (grass, clay and hard) if you have to survive in the international arena for long.<br>
-The choice of shot varies drastically based on the surface and also the weather. When its windy for eg., you need to control the shots differently.<br>
+The choice of a shot, varies drastically, based on the surface and also the weather. When its windy for eg., you need to control the shots differently.<br>
 
 On the same lines, every species had to be situationally aware in order to survive.<br>
 Thus nature developed senses, to understand the ambience better.<br>
@@ -37,14 +37,14 @@ The sense of touch and feelings, pain for eg, were feedback. The feedback helped
 ## The Optimisation
 <hr>
 
-Similar to [tennis](https://en.wikipedia.org/wiki/Tennis) however, this learning is a perpetual process. That is because we need to survive against similar species who are learning as well.<br>
+Similar to [tennis](https://en.wikipedia.org/wiki/Tennis) however, this learning is a perpetual process. That is because we need to survive against similar species, who are learning as well.<br>
 **"Our predators are learning, our preys are learning"**.<br>
 So, every bit of optimisation is crucial for survival.<br>
 Its not enough to learn all the tricks of the trade, we need to devise new ones and keep moving forward.
 
 And life isn't a sport.<br>
 **It's not fair and no one is going to play a fair game either.**<br>
-There are no rules and the constraints can drastically change over night, so the species must be quick to adapt.<br>
+There are no rules, and the constraints can drastically change over night, so the species must be quick to adapt.<br>
 
 <img src="/assets/2017-03-18/darwin.jpg">
 
@@ -96,7 +96,7 @@ _"Probably"_, because we are still not completely sure how the brain operates.
 <hr>
 
 So everything we learn out there, we learn through feelings, because feelings are the only means of authentic feedback to the brain. And feedback is the only means of making or breaking the patterns of the brain. And it is through these patterns we learn, adapt, optimise and evolve.<br>
-This is the reason **hands on experience** is extremely important to build expertise in any field. Our factual knowledge only complements our hands-on efforts. Factual data in fact, only helps us learn faster from the actions, and aids us in taking the right ones.<br>
+This is the reason, **hands on experience** is extremely important to build expertise in any field. Our factual knowledge only complements our hands-on efforts. Factual data in fact, only helps us learn faster from the actions, and aids us in taking the right ones.<br>
 It is for the same reason, many a times, people with practical knowledge and exposure are much better at doing a task, than people with just a degree or a certification.<br>
 
 If that statement is still sticky, think about how we all learnt to bicycle.<br>
@@ -108,9 +108,9 @@ Initially, it's almost impossible to even fathom, that we can ride something tha
 But we look around and see people doing it with ease. This gives us a sense of confidence... this is feedback.<br>
 Then we step on the bike and use our conscious brain, the logical one to conquer the fear of balance.<br>
 It's simple physics see, if you tip over to the right, force your weight on the left,<br>
-And if you tip over to the left force your weight on the right.<br>
+And if you tip over to the left, force your weight on the right.<br>
 
-We consciously keep doing this time and again but we keep falling. But we [pick ourselves up](/blog/2017/03/12/tnut-reverse-linked-list-pocket-finale/#why-do-we-fall) and keep trying... until a point where we sense a rhythm. We somehow manage to balance it first time and we savour that **"feeling"** and cherish it.<br>
+We consciously keep doing this, time and again but we keep falling. But we [pick ourselves up](/blog/2017/03/12/tnut-reverse-linked-list-pocket-finale/#why-do-we-fall) and keep trying... until a point where we sense a rhythm. We somehow manage to balance it first time and we savour that **"feeling"** and cherish it.<br>
 Soon, we observe we are able to balance with more consistency. This feeling of balance sticks on, an entry is made into our brain's hashmap, and from here on, the subconscious brain, the pristine counterpart to the logical one, kicks in.<br>
 Balancing now seems effortless. The pristine brain is doing it automatically for us. Its decoded the pattern, identified the rhythm and that's all it needs.<br>
 Soon, we are experts at riding and can efficiently react to external stimuli. We subconsciously know how to balance when an unexpected obstacle, throws us off rhythm, even though we have never been in that situation before.<br>
@@ -152,8 +152,8 @@ Though, the Left-Right dominance has been debunked, we clearly saw above that th
 _In short, you can either go the right-brained way or the left-brained way._
 
 A typical example would be learning a language like English. As per the [Left-Right Conundrum](/blog/2017/03/17/leftbrain-rightbrain/), language is purely a [left-brain](/blog/2017/03/17/leftbrain-rightbrain/#the-left-brain) trait. However, we can learn it in two ways.<br>
-Either, understand all the rules of English Grammar and go by the books, or<br>
-Speak more, Read more and learn it through usage.
+Either, understand all the rules of English Grammar and go by the books, (left brain style) or<br>
+Speak more, Read more and learn it through usage (right brain style).
 
 How often, have we heard someone say a sentence in English and reacted like<br>
 >"Well, that doesn't sound right".<br>
