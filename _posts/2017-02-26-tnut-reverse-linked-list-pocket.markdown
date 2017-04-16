@@ -129,14 +129,14 @@ Let me pen down some workable logic for the same<br>
 <u>Splitting a linked list</u><br>
 This should be straight forward, I keep moving across the list and pick "n" nodes
 
-<b style="color:red">Markers</b><br>
+<b style="color:red" id="bookmark1">Markers</b><br>
 <b>How do I work on the picked ones?</b><br>
 Should I make a copy of them all, or use the existing nodes?<br>
 Let me connect back to my visual representation, to try answering that.<br>
 		
 If I choose to copy, I may end up making a copy of the whole train. I mean that’s freaking bulky and not space effective.<br>
 (See? Visualizing helps you understand the inefficiencies sometimes)<br>
-<b style="color:red" id="bookmark1"><Bookmark Alert!></b><br>
+<b style="color:red"><Bookmark Alert!></b><br>
 Keep a bookmark of this please, we'll get back to this soon
 		
 <u>Reversing a linked list</u><br>
@@ -364,7 +364,7 @@ At the best case, we traverse every node twice.
 That's not nice, is it?<br>
 Not at all...<br>
 
-We can argue that the [time complexity](https://en.wikipedia.org/wiki/Time_complexity) is still O(n) but time complexity is just one side of the story. It does give you the proportionality of time taken wrt to input size but does not shed light onto the rate of increase in time taken wrt to input size.<br>
+We can argue that the [time complexity](https://en.wikipedia.org/wiki/Time_complexity) is still O(n) but time complexity is just one side of the story. It does give you the proportionality of time taken wrt to input size but does not shed light onto the rate of increase of time taken wrt to input size.<br>
 We'll look at time complexity in detail in a later blog post but what I mean is traversing the list twice is any day worse than traversing it once. So there is room for improvement.<br>
 
 Really? Is there room for improvement? We did the best we could do there, didn't we?<br>
@@ -375,9 +375,9 @@ Well, I do not want to take the fun out of the moment. That's all we live for.<b
 We have cracked the [T-Nut](/blog/2017/02/21/technical-nuts/) and we have done great.<br>
 All I'm saying is we can do better.<br>
 
-Bask in the glory, enjoy the success and when you are ready to move on and do better, [hop over](/blog/2017/03/12/tnut-reverse-linked-list-pocket-finale/).<br>
+Bask in the glory, enjoy the success and when you are ready to move on and do better, [hop over](/blog/2017/03/12/tnut-reverse-linked-list-pocket-II/).<br>
 
-Cya [here](/blog/2017/03/12/tnut-reverse-linked-list-pocket-finale/) soon.
+Cya [here](/blog/2017/03/12/tnut-reverse-linked-list-pocket-II/) soon.
 
 > Gentle reminder<br>
 All the above tricks and solutions are available in my [tnut github page](http://github.balajeetm.com/t-nut/)<br>
