@@ -9,7 +9,7 @@ categories: -What's-The-Fun-
 
 >In my earlier post, we saw what a [T-Nut](/blog/2017/02/21/technical-nuts/) is. We also said, moving along, we are gonna be cracking a lot of those.<br>
 But how does one go about it? What follows, is a step by step guideline, to cracking a T-Nut.<br>
-Jump over here, for the [cheat sheet](/blog/2017/03/09/thumbrules-to-crack-a-tnut/).<br>
+Jump over here, for the [cheat sheet](/blog/2017/03/09/cracking-tnut-simplified/).<br>
 
 <img src="/assets/2017-03-08/crackingATnut.png">
 
@@ -279,4 +279,4 @@ Let's start with this simple Little B [T-Nut](/blog/2017/02/21/technical-nuts/) 
 Once we are done cracking the [T-Nut](/blog/2017/02/21/technical-nuts/), we'll revisit and see if we can simply the approach.<br>
 All righty, its' road to El Dorado then!!
 
-> For a shorter concise version of the above, refer the [quick guide](/blog/2017/03/09/thumbrules-to-crack-a-tnut/)
+> For a shorter concise version of the above, refer the [quick guide](/blog/2017/03/09/cracking-tnut-simplified/)

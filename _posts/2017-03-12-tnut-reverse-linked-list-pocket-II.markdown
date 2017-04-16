@@ -249,5 +249,13 @@ A change in the way we have been looking at things for so long.<br>
 I wonder how many real world issues would be solved, if people around the globe start doing that.<br>
 <b>#Trust... #Faith</b>
 
-See you until next time...<br>
+## Footnote
+<hr>
+
+So we see that our [allegorical strategy](/blog/2017/03/08/cracking-a-tnut/) of chewing on an unknown fruit to crack a [T-Nut](/blog/2017/02/21/technical-nuts/) works perfectly. However, there seems to be too many steps involved.<br>
+If we find ourselves in no man's land, cracking a obscure [T-Nut](/blog/2017/02/21/technical-nuts/), with no idea as to how to strike blows, the above [step by step guideline](/blog/2017/03/08/cracking-a-tnut/), makes complete sense. But memorising so many steps is hard and we also want the approach to be free flowing.<br>
+
+One way of doing that, is to have lesser steps in our design. So, like we always do, let's retrospect our current design and simplify our strategy of cracking a T-Nut.
+
+See you soo, via a [simplified guide](/blog/2017/03/09/cracking-tnut-simplified/).<br>
 Have fun unjargoning!
