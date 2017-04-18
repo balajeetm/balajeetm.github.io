@@ -152,3 +152,4 @@ Frankly, we are doing it just for the LOLz, because life is all about LOLz.<br>
 So, if you love puzzles and love to question everything you see and hear. Well, you are exactly where you need to be.
 
 <img src="/assets/2017-04-18/lifeNoProblem.jpg">
+
