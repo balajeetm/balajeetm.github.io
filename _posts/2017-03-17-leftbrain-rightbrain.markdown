@@ -28,7 +28,7 @@ This is often represented as below,<br>
 With the left brain projected as a greyish, mundane, lifeless processing part, while<br>
 the right brain is presented as a more colorful, creative, vibrant counterpart.
 
-<img src="/assets/2017-03-17/grey-color.jpg">
+<img id="left-right-color" src="/assets/2017-03-17/grey-color.jpg">
 
 ## The left brain vs right brain theory
 <hr>
