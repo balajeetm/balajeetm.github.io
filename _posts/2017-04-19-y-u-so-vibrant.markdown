@@ -151,3 +151,4 @@ Because, we love [T-Nuts](/blog/2017/02/21/technical-nuts/).<br>
 Frankly, we are doing it just for the LOLz, because life is all about LOLz.<br>
 So, if you love puzzles and love to question everything you see and hear. Well, you are exactly where you need to be.
 
+<img src="/assets/2017-04-18/lifeNoProblem.jpg">
