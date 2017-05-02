@@ -4,7 +4,7 @@ title: Why you so Vibrant?
 date: 2017-04-18 14:49
 comments: true
 external-url:
-categories: Examples
+categories: -What's-The-Fun-
 ---
 
 >In my previous [post](/blog/2017/03/18/pristine-logical-brain/), we looked at the [two lobes](/blog/2017/03/17/leftbrain-rightbrain/) of the brain and its functions, and also touched upon the two [paradigms of thinking](/blog/2017/03/18/pristine-logical-brain/#left-right-myth-revisited).<br>
@@ -35,7 +35,7 @@ Is it your academic & professional qualifications?<br>
 The certifications & scholarships?<br>
 The assets & heritage?<br>
 The awards?<br>
-**No, I don't think so**<br>
+**No, I don't think it would be any of them.**<br>
 
 I think, it would be our life's key moments. And what are these key moments?<br>
 <i>It could be our first bicycle ride...<br>
@@ -87,7 +87,7 @@ That's because, life is colorful silly!<br>
 Life is beautiful and vibrant, the way it is. And that is why right brain is depicted with that splash of shades.<br>
 Its so awesome, but there's hardly a schema to it. It just a splash. A mixture of colorful surprises that always keeps us guessing as to "what's round the bend".
 
-## Peculiarity of Life
+## Being Human
 <hr>
 
 The left brain on the other hand, is a milieu of mundane, methodical processing.<br>

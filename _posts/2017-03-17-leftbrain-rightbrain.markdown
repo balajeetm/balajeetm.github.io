@@ -134,3 +134,8 @@ While the myth over-generalized and overstated a popular psychological aspect, u
 
 Though the brain is made up of two closely collaborating divisions, rather than two competing divisions of dominance, the fact that the brain approaches a scenario or problem statement via distinctive paradigms, can never be denied.<br>
 Enter [Pristine Brain vs Logical Brain](/blog/2017/03/18/pristine-logical-brain)
+
+## Footnote
+<hr>
+
+[Here](https://www.youtube.com/watch?v=6--MiuWZ6_4)'s a [Bo Burnham](https://en.wikipedia.org/wiki/Bo_Burnham)'s masterpiece, depicting the contrasts between the left and right brain. Do have look. Its just amazing! [He](https://en.wikipedia.org/wiki/Bo_Burnham) always is. If you looking for the stage performance, [here](https://www.youtube.com/watch?v=0jBK4qDJ-OM) it is.
